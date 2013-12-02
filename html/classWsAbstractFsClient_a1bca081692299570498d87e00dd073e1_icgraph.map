@@ -1,0 +1,5 @@
+<map id="WsAbstractFsClient::saveProperties" name="WsAbstractFsClient::saveProperties">
+<area shape="rect" id="node2" href="$classWsUser.html#a0e164dbcc4a0640ade32c9cd823fd68a" title="save the properties of the node on disk. The user must have access and edit rights for the node..." alt="" coords="195,12,360,39"/>
+<area shape="rect" id="node3" href="$classWsFormConfig.html#a5f7a470daba1f183371e0714d7f7450a" title="WsFormConfig::doSave" alt="" coords="408,12,571,39"/>
+<area shape="rect" id="node4" href="$classWsFormConfig.html#a1266e16328364477844ec5e9e8e16b71" title="WsFormConfig::WsFormConfig" alt="" coords="619,12,826,39"/>
+</map>

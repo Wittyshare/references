@@ -1,0 +1,13 @@
+<map id="WsModule::diffPath" name="WsModule::diffPath">
+<area shape="rect" id="node2" href="$classWsModule.html#a3626bdda2acd874619d4b3dba75a00c2" title="Set/Get the difference between the web server (example Apache /var/www) root path and the wittishare ..." alt="" coords="213,54,371,81"/>
+<area shape="rect" id="node10" href="$classWsModEditor.html#a13e107d7ec29c78caaf7025a163f9381" title="Create the contents. " alt="" coords="193,105,391,132"/>
+<area shape="rect" id="node11" href="$classWsModOdf.html#a3f25af6f2ac3e3f0cd522cc41699e5c1" title="Create the contents. " alt="" coords="199,156,385,182"/>
+<area shape="rect" id="node12" href="$classWsModPdf.html#a2c98ec85828eaa19ee8319092f82a349" title="Create the contents. " alt="" coords="200,206,384,233"/>
+<area shape="rect" id="node3" href="$classWsContent.html#a57e7eeccf6063920de166fec4bd779a0" title="WsContent::selectWidget" alt="" coords="441,29,613,56"/>
+<area shape="rect" id="node9" href="$classWsTemplate.html#aa52e76936f048579c3f30cbd8e89e56e" title="WsTemplate::resolveString" alt="" coords="854,80,1034,106"/>
+<area shape="rect" id="node4" href="$classWsContent.html#a07dc0f8e3f6a2aca0afef16679183469" title="WsContent::setPath" alt="" coords="661,29,803,56"/>
+<area shape="rect" id="node5" href="$classWsApplication.html#af7dc5a57f0d2c6c8665448eff58b1ec6" title="WsApplication::doEndDialog\lLogon" alt="" coords="1342,22,1530,63"/>
+<area shape="rect" id="node7" href="$classWsApplication.html#a956434c65f71c50316accd225f8a6eba" title="WsApplication::setTemplate" alt="" coords="851,29,1037,56"/>
+<area shape="rect" id="node6" href="$classWsApplication.html#a29ac18bb68852e810b83a2c4a07fc076" title="WsApplication::WsApplication" alt="" coords="1579,29,1778,56"/>
+<area shape="rect" id="node8" href="$classWsApplication.html#a7711df944987d727e7bed0ce8e77d5b6" title="WsApplication::doPathChanged" alt="" coords="1086,80,1293,106"/>
+</map>

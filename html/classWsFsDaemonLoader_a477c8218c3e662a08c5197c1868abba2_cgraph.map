@@ -1,0 +1,69 @@
+<map id="WsFsDaemonLoader::start" name="WsFsDaemonLoader::start">
+<area shape="rect" id="node2" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="496,721,635,748"/>
+<area shape="rect" id="node68" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="232,747,448,773"/>
+<area shape="rect" id="node3" href="$classWsFsTreeOperations.html#a3b72493a6b18e67afde289b165f2a9e7" title="Update the WsFileSystemTree. " alt="" coords="711,554,857,595"/>
+<area shape="rect" id="node4" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="702,620,866,647"/>
+<area shape="rect" id="node6" href="$classWsAuthenticator.html#ad31b96f15500b160cb30f8e44abb68a0" title="return all the possible groups WsAuthenticator::authentify must be called before " alt="" coords="683,671,885,697"/>
+<area shape="rect" id="node7" href="$classWsFsDaemon.html#a8a18991848a31938af6f4e9151b2090b" title="read data from the socket " alt="" coords="706,721,862,748"/>
+<area shape="rect" id="node10" href="$classWsFsDaemon.html#acb1fe1428d7bbbe3f82d420a756b7c62" title="Parses the received data (json) " alt="" coords="711,772,857,799"/>
+<area shape="rect" id="node11" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="1278,1520,1421,1547"/>
+<area shape="rect" id="node13" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="683,1389,885,1416"/>
+<area shape="rect" id="node5" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="1533,593,1683,634"/>
+<area shape="rect" id="node8" href="$classWsFsDaemon.html#aea708520af66ea35caf79c2f76999ecd" title="converts raw data received on the socket to string " alt="" coords="953,191,1165,217"/>
+<area shape="rect" id="node9" href="$classWsDecompressor.html#a9e416710113e7f86207ebb894fef628c" title="decompress the input data and store result in uncompressedData " alt="" coords="1246,103,1453,129"/>
+<area shape="rect" id="node12" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="1519,1520,1697,1547"/>
+<area shape="rect" id="node14" href="$classWsFsDaemon.html#aee79f35635e208d1b0df20f21c89445b" title="Authenticate user on server Loads the groups which the user belongs to, uid, email, etc.. " alt="" coords="945,533,1173,560"/>
+<area shape="rect" id="node15" href="$classWsFsDaemon.html#a1203c38d45d323c00248e9e1d3b1ea16" title="returns true or false whether the section of a user is still active or not " alt="" coords="1245,153,1453,180"/>
+<area shape="rect" id="node29" href="$classWsFsDaemon.html#a123bf1522d361d508d44bab31d3348de" title="sends the permissions of a path to the client " alt="" coords="943,1389,1175,1416"/>
+<area shape="rect" id="node31" href="$classWsFsDaemon.html#aa9a1c3f78f5881c9b6898abf654a81d6" title="sends all the groups available to the client " alt="" coords="954,1441,1163,1482"/>
+<area shape="rect" id="node33" href="$classWsFsDaemon.html#a0a2358482d318fff85ccea958c3eaef9" title="sends all the properties of a node " alt="" coords="941,1207,1176,1233"/>
+<area shape="rect" id="node37" href="$classWsFsDaemon.html#a5be005b4da86ed8873ca6ec2e274cea0" title="sends a property of a node to the client " alt="" coords="945,1557,1173,1584"/>
+<area shape="rect" id="node39" href="$classWsFsDaemon.html#a6386aefe1558fd6bc9973e6fdbe9a5dd" title="sends the result of a search request to the client. Only nodes where the user has access are returned..." alt="" coords="962,1609,1155,1650"/>
+<area shape="rect" id="node41" href="$classWsFsDaemon.html#a6079b6b430bcbc7575759773c5c7b6be" title="clears the user from the cache " alt="" coords="948,1507,1169,1533"/>
+<area shape="rect" id="node42" href="$classWsFsDaemon.html#a7489104db6b4f2bed5cc9bde54f56ffa" title="Sends the menu to the client. " alt="" coords="942,1907,1175,1933"/>
+<area shape="rect" id="node47" href="$classWsFsDaemon.html#ada46a4431354c0044cb6c7848b9477fe" title="Sends the menu to the client, the client requested a menu with exclusion of extensions. " alt="" coords="934,1856,1183,1883"/>
+<area shape="rect" id="node48" href="$classWsFsDaemon.html#aa38824768bd38f4ad48df27342d7d8c0" title="Sends the accesstree to the client. " alt="" coords="961,2023,1157,2065"/>
+<area shape="rect" id="node50" href="$classWsFsDaemon.html#ac22500d82c04828e829a51532f2d299a" title="sends the result of an editor request so that the client can know if he is an editor or not ..." alt="" coords="960,1674,1157,1715"/>
+<area shape="rect" id="node52" href="$classWsFsDaemon.html#a8350eb360dac69c5eaee3031edb02d0c" title="sends the result of an admin request so that the client can know if he is an admin or not ..." alt="" coords="959,1739,1159,1781"/>
+<area shape="rect" id="node54" href="$classWsFsDaemon.html#a2ee82583c18926bac0715ae0e489d451" title="send the rootPath to the client " alt="" coords="955,1958,1162,1999"/>
+<area shape="rect" id="node56" href="$classWsFsDaemon.html#a13b56ca9463f3751c01ded7613541e8e" title="sends the last tree version to the client " alt="" coords="959,945,1158,986"/>
+<area shape="rect" id="node58" href="$classWsFsDaemon.html#a74bfe7906423e3d0619a1314fc89a3b8" title="saves the properties received by the client for a node " alt="" coords="938,1010,1179,1051"/>
+<area shape="rect" id="node60" href="$classWsFsDaemon.html#a19ea04cb7dd13047a070e30ce4412ec0" title="saves one property received by a client for a node " alt="" coords="943,1075,1174,1117"/>
+<area shape="rect" id="node62" href="$classWsFsDaemon.html#a7e8760a6455be1caae15982ee6897917" title="create a node requested by the client " alt="" coords="963,1141,1154,1182"/>
+<area shape="rect" id="node64" href="$classWsFsDaemon.html#a36931ef6205f18c3368a8ed0029127d5" title="delete a node requested by the client " alt="" coords="963,1258,1154,1299"/>
+<area shape="rect" id="node66" href="$classWsFsDaemon.html#aa5953a9c789654d322243f155e2caa56" title="rename a node " alt="" coords="958,1323,1159,1365"/>
+<area shape="rect" id="node16" href="$classWsUserSession.html#a0ff4ad17e5fad31a99b18b14373de4e6" title="WsUserSession::getName" alt="" coords="1260,255,1439,281"/>
+<area shape="rect" id="node17" href="$classWsUserSession.html#a812c4f6413df42290f2614fc15b3f3b5" title="WsUserSession::getSurname" alt="" coords="1252,305,1447,332"/>
+<area shape="rect" id="node18" href="$classWsUserSession.html#ac00ca7722d2d7db5a608b5c97755e2a2" title="WsUserSession::getEmail" alt="" coords="1261,356,1437,383"/>
+<area shape="rect" id="node19" href="$classWsAuthenticator.html#a7ec1a8a40cece9633815c464abdfe125" title="authentify the user. " alt="" coords="1257,407,1441,433"/>
+<area shape="rect" id="node20" href="$classWsAuthenticator.html#a664f538d9b56c3acab26751202d57770" title="return the user uid WsAuthenticator::authentify must be called before " alt="" coords="1267,457,1432,484"/>
+<area shape="rect" id="node21" href="$classWsAuthenticator.html#ae5fd81dfc6a89be3ffed07b320ebb67a" title="return the user name WsAuthenticator::authentify must be called before " alt="" coords="1246,508,1453,535"/>
+<area shape="rect" id="node22" href="$classWsAuthenticator.html#a09985952ce54e40278c1b441c58812bb" title="return the user surname WsAuthenticator::authentify must be called before " alt="" coords="1251,559,1448,585"/>
+<area shape="rect" id="node23" href="$classWsAuthenticator.html#a65ce0eca03619d85582582ef2ca6ab08" title="return the user email WsAuthenticator::authentify must be called before " alt="" coords="1260,609,1439,636"/>
+<area shape="rect" id="node24" href="$classWsAuthenticator.html#a8885a806546abcefd8b1638c46ff4b65" title="return the user groups WsAuthenticator::authentify must be called before " alt="" coords="1263,661,1436,702"/>
+<area shape="rect" id="node25" href="$classWsUserSession.html#aa100dc0b2b1630af172e29729096d4fc" title="set the name of the user " alt="" coords="1260,727,1439,753"/>
+<area shape="rect" id="node26" href="$classWsUserSession.html#ab2e27c102b808723847b642c7df01182" title="set the surname of the user " alt="" coords="1252,777,1447,804"/>
+<area shape="rect" id="node27" href="$classWsUserSession.html#a508d579556e679c89d76a2eddd5f4e7b" title="set the email of the user " alt="" coords="1261,828,1437,855"/>
+<area shape="rect" id="node28" href="$classWsUserSession.html#a7a337736da48712a8da99396c7f561ee" title="sets the groups of a user " alt="" coords="1257,204,1442,231"/>
+<area shape="rect" id="node30" href="$classWsFsTreeOperations.html#a9dc233f315b1741e764e57adf8e01fbc" title="Get the permissions for a path for a set of groups. " alt="" coords="1276,1389,1423,1430"/>
+<area shape="rect" id="node32" href="$classWsArraySerializer.html#ac1ca46b920a6a7393a0dabba81647e24" title="returns the serailized form of the directory " alt="" coords="1282,1454,1417,1495"/>
+<area shape="rect" id="node34" href="$classWsFsTreeOperations.html#ae656db5a758f0fcd8b608f9fc9c306b8" title="get properties of a node corresponding to the path " alt="" coords="1276,1141,1423,1182"/>
+<area shape="rect" id="node35" href="$classWsNodeProperties.html#ae89729a7ab7f330fd5ad61992a3795b2" title="Return the root of the Json tree. " alt="" coords="1256,1207,1443,1233"/>
+<area shape="rect" id="node36" href="$classWsNodeProperties.html#acee2f6235f3888378771b2be26b3dc69" title="Get path of the node which the configuration belongs to. " alt="" coords="1515,1207,1701,1233"/>
+<area shape="rect" id="node38" href="$classWsFsTreeOperations.html#a0deb8709635d34369519cb39561b2af7" title="get a property for a node corresponding to the path " alt="" coords="1276,1571,1423,1613"/>
+<area shape="rect" id="node40" href="$classWsFsTreeOperations.html#a67788ada881f3dc19c1819fb54b6f709" title="Get the results for searching for &quot;terms&quot;. " alt="" coords="1276,1637,1423,1678"/>
+<area shape="rect" id="node43" href="$classWsFsTreeOperations.html#a9e7994b204222ef59816d33f75f8654c" title="Get the menu tree starting from rootPath. " alt="" coords="1276,1837,1423,1878"/>
+<area shape="rect" id="node44" href="$classWsTreeSerializer.html#ab872a2e213e5e9c6388f06d4ff234549" title="serialize the given data structur " alt="" coords="1260,1903,1439,1929"/>
+<area shape="rect" id="node46" href="$classWsTreeSerializer.html#a0f64335108b8fefbfc8416c119d9f3c0" title="returns the Json text representing the given structure " alt="" coords="1232,1953,1467,1980"/>
+<area shape="rect" id="node45" href="$classWsTreeSerializer.html#a5e848c3baf94d741437b3c55489eab12" title="adds a SubNode to the tree corresponding to the Json entry " alt="" coords="1521,1903,1695,1929"/>
+<area shape="rect" id="node49" href="$classWsFsTreeOperations.html#a903ab14320550bc4e8b4deb5db07880a" title="Get the access tree starting from rootPath. " alt="" coords="1276,2070,1423,2111"/>
+<area shape="rect" id="node51" href="$classWsFsTreeOperations.html#a5bd31486a40047320fad603506247950" title="WsFsTreeOperations\l::isEditor" alt="" coords="1276,1702,1423,1743"/>
+<area shape="rect" id="node53" href="$classWsFsTreeOperations.html#a7a9e88326b4f6e06e7487596ff868178" title="WsFsTreeOperations\l::isAdministrator" alt="" coords="1276,1767,1423,1809"/>
+<area shape="rect" id="node55" href="$classWsFsTreeOperations.html#a107da373fb9bbbbb2a604e833057e3dc" title="WsFsTreeOperations\l::getRootPath" alt="" coords="1276,2005,1423,2046"/>
+<area shape="rect" id="node57" href="$classWsFsTreeOperations.html#a196619c3e32b551b9a0d9261ec20c362" title="Get the stamp of the last WsFileSystemTree. " alt="" coords="1276,879,1423,921"/>
+<area shape="rect" id="node59" href="$classWsFsTreeOperations.html#ae21caec73c1d3b29a4f9444b470c6dcf" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="1276,945,1423,986"/>
+<area shape="rect" id="node61" href="$classWsFsTreeOperations.html#aa3c379be4e57bca043f91000cd4ea62d" title="save a property of the node. The user must have access and edit rights for the node. " alt="" coords="1276,1010,1423,1051"/>
+<area shape="rect" id="node63" href="$classWsFsTreeOperations.html#a3e8479f822b99adb763ca63bd83aa7e2" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="1276,1075,1423,1117"/>
+<area shape="rect" id="node65" href="$classWsFsTreeOperations.html#ac5fcf594f2f6af45f813643debed08f2" title="delete a node. The user must be an Admin on editor to remove the node " alt="" coords="1276,1258,1423,1299"/>
+<area shape="rect" id="node67" href="$classWsFsTreeOperations.html#ada6cb030e447b75249e42a38e38988e1" title="renames a node " alt="" coords="1276,1323,1423,1365"/>
+</map>

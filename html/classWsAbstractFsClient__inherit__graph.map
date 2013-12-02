@@ -1,0 +1,4 @@
+<map id="WsAbstractFsClient" name="WsAbstractFsClient">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html" title="Interface between the User class and the fsdaemon. " alt="" coords="5,277,173,824"/>
+<area shape="rect" id="node3" href="$classWsFsTreeClient.html" title="Interface between WsUser class and local tree. " alt="" coords="198,358,343,743"/>
+</map>

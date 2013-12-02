@@ -1,0 +1,4 @@
+<map id="WsNode::setProperties" name="WsNode::setProperties">
+<area shape="rect" id="node2" href="$classWsFsTreeModification.html#a780e42cfbf8e31b09f0155b360cd2f38" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="214,5,367,46"/>
+<area shape="rect" id="node3" href="$classWsFsTreeModification.html#a4c6bde414ae6df95ade0670fefd04e21" title="renames a node " alt="" coords="214,70,367,111"/>
+</map>

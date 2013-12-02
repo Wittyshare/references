@@ -1,0 +1,20 @@
+<map id="src/Serializer/WsTreeSerializer.cpp" name="src/Serializer/WsTreeSerializer.cpp">
+<area shape="rect" id="node2" href="$WsTreeSerializer_8h.html" title="Serialize the menuTree to send it over network. " alt="" coords="169,80,303,107"/>
+<area shape="rect" id="node3" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="407,312,624,339"/>
+<area shape="rect" id="node30" href="$WsMenuTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="273,155,413,181"/>
+<area shape="rect" id="node35" href="$WsAccessTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="439,155,592,181"/>
+<area shape="rect" id="node4" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="1076,619,1263,661"/>
+<area shape="rect" id="node22" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="749,544,928,571"/>
+<area shape="rect" id="node26" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="605,395,805,421"/>
+<area shape="rect" id="node27" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="475,469,576,496"/>
+<area shape="rect" id="node8" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="888,717,1121,744"/>
+<area shape="rect" id="node13" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="1445,875,1579,901"/>
+<area shape="rect" id="node11" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="743,800,904,827"/>
+<area shape="rect" id="node15" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="1784,949,1893,976"/>
+<area shape="rect" id="node25" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="587,949,761,976"/>
+<area shape="rect" id="node28" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="195,717,436,744"/>
+<area shape="rect" id="node29" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="563,717,801,744"/>
+<area shape="rect" id="node31" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="452,229,580,256"/>
+<area shape="rect" id="node32" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1067,305,1271,346"/>
+<area shape="rect" id="node33" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="1718,717,1935,744"/>
+</map>

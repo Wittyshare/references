@@ -1,0 +1,4 @@
+<map id="WsModDirectoryView2" name="WsModDirectoryView2">
+<area shape="rect" id="node2" href="$classWsModule.html" title="{WsModule\n|&#45; m_moduleName\l&#45; m_soName\l&#45; m_fileName\l&#45; m_extension\l&#45; m_prefix\l&#45; m_extensions\l&#45; m_sysPath\l&#45; m_diffPath\l&#45; m_bLoaded\l&#45; m_bHideImages\l|+ WsModule()\l+ createContentsMenuBar()\l+ createContents()\l+ createEditor()\l+ createAdmin()\l+ description()\l+ checkPath()\l+ setModuleName()\l+ moduleName()\l+ setSoName()\land 20 more...\l}" alt="" coords="26,249,208,605"/>
+<area shape="rect" id="node4" href="$classWsOptions.html" title="{WsOptions\n|&#45; m_vOptions\l&#45; m_noOptions\l|+ WsOptions()\l+ WsOptions()\l+ WsOptions()\l+ setOption()\l+ setOptions()\l+ option()\l+ options()\l+ outOptions()\l}" alt="" coords="128,5,235,200"/>
+</map>

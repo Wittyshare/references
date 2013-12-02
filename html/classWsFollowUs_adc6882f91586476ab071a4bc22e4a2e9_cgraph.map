@@ -1,0 +1,7 @@
+<map id="WsFollowUs::load" name="WsFollowUs::load">
+<area shape="rect" id="node2" href="$classWsApplication.html#a285ae98ebb97586280ead2c75a09ed3b" title="Facility function to access the application object. " alt="" coords="184,5,365,32"/>
+<area shape="rect" id="node3" href="$classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f" title="WsApplication::wsUser" alt="" coords="195,56,354,83"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="199,107,350,133"/>
+<area shape="rect" id="node6" href="$classWsOptions.html#a1d6f864ac2feb47570c535d1251c2b54" title="Set an options if previously set, update the value. " alt="" coords="199,157,350,184"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="414,99,554,141"/>
+</map>

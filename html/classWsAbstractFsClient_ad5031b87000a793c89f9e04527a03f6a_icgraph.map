@@ -1,0 +1,6 @@
+<map id="WsAbstractFsClient::getMenuRoot" name="WsAbstractFsClient::getMenuRoot">
+<area shape="rect" id="node2" href="$classWsUser.html#a345063e68aa1e62da9855511f04f2645" title="returns the root of the menu. The root is an instance of WsDirNode " alt="" coords="195,12,351,39"/>
+<area shape="rect" id="node3" href="$classWsMenu.html#a3c06dda79f2b1e879a2cf8d63382df8a" title="WsMenu::doLoadCurPath" alt="" coords="401,12,573,39"/>
+<area shape="rect" id="node4" href="$classWsMenu.html#a78403810097d684c7ec70524546a34f6" title="WsMenu::load" alt="" coords="845,12,952,39"/>
+<area shape="rect" id="node5" href="$classWsMenu.html#aa8c6ee713459e6f1fe8b39960398a7f5" title="WsMenu::doPathChanged" alt="" coords="622,37,797,64"/>
+</map>

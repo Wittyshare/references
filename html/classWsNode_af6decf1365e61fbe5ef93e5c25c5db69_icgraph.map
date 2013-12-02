@@ -1,0 +1,7 @@
+<map id="WsNode::getProperty" name="WsNode::getProperty">
+<area shape="rect" id="node2" href="$classWsNode.html#a68151d8d1aefb6041f9b395a2be8749d" title="sort the nodes using the sort number or the name if not provided " alt="" coords="203,56,306,83"/>
+<area shape="rect" id="node3" href="$classWsNode.html#a8c88896099156d818745853bcff04b6a" title="returns the list of all the file contained in the directory represented by this " alt="" coords="373,5,499,32"/>
+<area shape="rect" id="node4" href="$classWsNode.html#ae00d43b9ce0e9a0594279e8a0acdf88d" title="returns the list of all the file contained in the file reprensented by this " alt="" coords="355,56,517,83"/>
+<area shape="rect" id="node5" href="$classWsNode.html#ae108b80ed1982c902f5324f41f2ccadc" title="combine the vector of files and directories into a single one " alt="" coords="379,107,493,133"/>
+<area shape="rect" id="node6" href="$classWsDirNode.html#a12f07b83caad1317857d0ab7ad542b02" title="returns the file size. If the Node is a WsDirNode, 0 is returned. if the global property dir_size is ..." alt="" coords="566,107,709,133"/>
+</map>

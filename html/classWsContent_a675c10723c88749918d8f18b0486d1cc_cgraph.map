@@ -1,0 +1,8 @@
+<map id="WsContent::WsContent" name="WsContent::WsContent">
+<area shape="rect" id="node2" href="$classWsLayoutProperties.html#a1467b795cdaf3370f5ad0790901720be" title="Get the singleton instance. " alt="" coords="230,9,370,50"/>
+<area shape="rect" id="node4" href="$classWsLayoutProperties.html#ad1d00d237529f6e8fdb3ec3b1135b4ba" title="WsLayoutProperties::get" alt="" coords="217,77,383,104"/>
+<area shape="rect" id="node6" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="225,135,375,161"/>
+<area shape="rect" id="node3" href="$classWsLayoutProperties.html#a45ec92c0b851148be2526257fe8528dc" title="Default Constructor. " alt="" coords="434,5,582,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="433,70,583,111"/>
+<area shape="rect" id="node7" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="438,135,578,177"/>
+</map>

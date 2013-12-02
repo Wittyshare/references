@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classWsTreeTraversal.html" title="Used to traverse the tree. " alt="" coords="5,81,128,108"/>
+<area shape="rect" id="node2" href="$classWsAbstractTree.html" title="Abstract class representing an WsAccessTree or WsMenuTree. " alt="" coords="176,31,293,57"/>
+<area shape="rect" id="node5" href="$classWsLatestNews.html" title="WsLatestNews" alt="" coords="179,81,291,108"/>
+<area shape="rect" id="node6" href="$classWsSearchRSS.html" title="WsSearchRSS" alt="" coords="179,132,290,159"/>
+<area shape="rect" id="node3" href="$classWsAccessTree.html" title="Reprensents an access tree. " alt="" coords="341,5,453,32"/>
+<area shape="rect" id="node4" href="$classWsMenuTree.html" title="Reprensents a MenuTree. " alt="" coords="347,56,447,83"/>
+</map>

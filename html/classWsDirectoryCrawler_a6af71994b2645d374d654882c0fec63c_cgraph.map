@@ -1,0 +1,6 @@
+<map id="WsDirectoryCrawler::browse" name="WsDirectoryCrawler::browse">
+<area shape="rect" id="node2" href="$classWsDirectoryCrawler.html#a4f9f0884c2aed4abb4c2c9287a6f3c64" title="this method is called by browse when the boost::filesystem::path is a file " alt="" coords="195,5,335,46"/>
+<area shape="rect" id="node3" href="$classWsDirectoryCrawler.html#a8affd4a4f930e25d4472f5bc40fa1575" title="this method is called by browse when the boost::filesystem::path is a folder " alt="" coords="195,70,335,111"/>
+<area shape="rect" id="node4" href="$classWsDirectoryCrawler.html#afea0e27c93ea4f11f13b9b75c78aa0df" title="this method is called before browsing a subdirectory " alt="" coords="195,135,335,177"/>
+<area shape="rect" id="node5" href="$classWsDirectoryCrawler.html#ad0701c64a63095413d4afe3b261e14d0" title="this method is called when finished browsing the subdir " alt="" coords="195,201,335,242"/>
+</map>

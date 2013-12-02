@@ -1,0 +1,15 @@
+<map id="WsMenuImages::load" name="WsMenuImages::load">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="928,41,1059,68"/>
+<area shape="rect" id="node3" href="$classWsMenuImages.html#ae5cf6fc07cdbd77517907a671ecf0b9e" title="Set the number of images in the menu. If the number of images is more than this value a timer rotate ..." alt="" coords="203,244,413,270"/>
+<area shape="rect" id="node4" href="$classWsMenuImages.html#a430609ecbb39d12b135ce1a50d08d65d" title="WsMenuImages::buildVector" alt="" coords="462,218,653,245"/>
+<area shape="rect" id="node13" href="$classWsMenuImages.html#a569d6137f7f69a23490bd9b7c61602a7" title="WsMenuImages::buildMenu" alt="" coords="465,142,649,169"/>
+<area shape="rect" id="node14" href="$classWsMenuImages.html#aa88c421101f18949a9fe2034767fc40b" title="WsMenuImages::doTimeout" alt="" coords="215,92,401,118"/>
+<area shape="rect" id="node5" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="909,244,1077,270"/>
+<area shape="rect" id="node7" href="$classWsOptions.html#a323a59ee0cd514354fb6fc049a3de0c6" title="Set all options. " alt="" coords="702,168,861,194"/>
+<area shape="rect" id="node8" href="$classWsOptions.html#ab06d33752bb750f78a3c177a00b0df2c" title="Get all options. " alt="" coords="713,218,850,245"/>
+<area shape="rect" id="node9" href="$classWsOptions.html#adc4c4fdf38c2d3e9675c1bb9713860e5" title="Output all options. " alt="" coords="702,269,861,296"/>
+<area shape="rect" id="node10" href="$classWsOptions.html#a1d6f864ac2feb47570c535d1251c2b54" title="Set an options if previously set, update the value. " alt="" coords="706,117,857,144"/>
+<area shape="rect" id="node11" href="$classWsImages2.html#a1b189c1da53e948c6b946a78ced327d0" title="Build the vector. " alt="" coords="718,66,845,93"/>
+<area shape="rect" id="node12" href="$classWsImages2.html#ad2c526773f0ee92fa52cc0dcae85c4be" title="Return the number of images. " alt="" coords="715,370,847,397"/>
+<area shape="rect" id="node6" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="1126,236,1266,278"/>
+</map>

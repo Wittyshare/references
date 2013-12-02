@@ -1,0 +1,7 @@
+<map id="WsContentButtonsBar::doFileNew" name="WsContentButtonsBar::doFileNew">
+<area shape="rect" id="node2" href="$classWsContentButtonsBar.html#abafde425ea9854f6d5261c23f726a9a6" title="WsContentButtonsBar\l::doEndFileNew" alt="" coords="209,5,362,46"/>
+<area shape="rect" id="node5" href="$classWsContentButtonsBar.html#ad18d5641969f7d6cde4fa1a5eed8930d" title="WsContentButtonsBar\l::doFileNameChanged" alt="" coords="209,70,362,111"/>
+<area shape="rect" id="node6" href="$classWsContentButtonsBar.html#aa1295947b748d2fdd772e14137d469d7" title="WsContentButtonsBar\l::doFileEnterPressed" alt="" coords="209,135,362,177"/>
+<area shape="rect" id="node3" href="$classWsUser.html#a65d7695786549ef2019f977f3f1d8018" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="411,12,557,39"/>
+<area shape="rect" id="node4" href="$classWsAbstractFsClient.html#a496cb809f9a75949ddfb9ce5c400dfdf" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="606,5,746,46"/>
+</map>

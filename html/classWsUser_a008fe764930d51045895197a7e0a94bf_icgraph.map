@@ -1,0 +1,42 @@
+<map id="WsUser::getRootPath" name="WsUser::getRootPath">
+<area shape="rect" id="node2" href="$classWsBottomBanner.html#af85bee95ae9c95cde029c0b2c4d7e78a" title="WsBottomBanner::setText" alt="" coords="229,12,406,39"/>
+<area shape="rect" id="node4" href="$classWsContent.html#a675c10723c88749918d8f18b0486d1cc" title="WsContent::WsContent" alt="" coords="236,63,399,89"/>
+<area shape="rect" id="node5" href="$classWsContentButtonsBar.html#a38a2c881a61e510f3ba797119dcba5bc" title="WsContentButtonsBar\l::doFileUpload" alt="" coords="241,114,394,155"/>
+<area shape="rect" id="node7" href="$classWsSearchView.html#a0d100a44e19f4cfc237366d978cf1dc8" title="WsSearchView::WsSearchView" alt="" coords="212,180,423,207"/>
+<area shape="rect" id="node8" href="$classWsSiteMapView.html#a3a2f641712fc0af372d3c0e09884cf84" title="WsSiteMapView::WsSiteMapView" alt="" coords="205,231,429,257"/>
+<area shape="rect" id="node9" href="$classWsTemplate.html#a976fb4b4dc3d1f41aba4269cdf84442d" title="WsTemplate::matchTemplate" alt="" coords="220,281,415,308"/>
+<area shape="rect" id="node11" href="$classWsTemplate.html#aa52e76936f048579c3f30cbd8e89e56e" title="WsTemplate::resolveString" alt="" coords="733,307,913,333"/>
+<area shape="rect" id="node12" href="$classWsBanners.html#a78660b1f68c212ab28696709a0b091f8" title="WsBanners::doPathChanged" alt="" coords="222,383,413,409"/>
+<area shape="rect" id="node14" href="$classWsFileUpload.html#ab75bf5b33323501f9080498afd28df61" title="WsFileUpload::doUploaded" alt="" coords="227,433,408,460"/>
+<area shape="rect" id="node16" href="$classWsFollowUs.html#adc6882f91586476ab071a4bc22e4a2e9" title="WsFollowUs::load" alt="" coords="253,484,382,511"/>
+<area shape="rect" id="node17" href="$classWsGalleria.html#afb7af2e830f2a0a1ec84300bfddd8afe" title="WsGalleria::load" alt="" coords="258,535,377,561"/>
+<area shape="rect" id="node18" href="$classWsImagesGallery.html#a9450b84a0c036fd19a7d8339aeef3a07" title="WsImagesGallery::buildVector" alt="" coords="218,585,417,612"/>
+<area shape="rect" id="node20" href="$classWsLinksList.html#acc3c2ecf65ac869cc5d72954961dc463" title="WsLinksList::load" alt="" coords="254,636,381,663"/>
+<area shape="rect" id="node21" href="$classWsMenu.html#af0bcd416673b0efa1e4c8021ccbeb52b" title="WsMenu::makeLink" alt="" coords="248,687,387,713"/>
+<area shape="rect" id="node28" href="$classWsRSS.html#a6d0043db0f876f8e5821da35436d0a68" title="WsRSS::buildRSS" alt="" coords="251,737,384,764"/>
+<area shape="rect" id="node31" href="$classWsModTwitter.html#a23037e321ab6c83d164f3c0011466f36" title="WsModTwitter::handleTwitter\lClick" alt="" coords="221,789,414,830"/>
+<area shape="rect" id="node34" href="$classWsVideo.html#a0c536114ecc25429a7914b1e09215cf5" title="WsVideo::load" alt="" coords="264,855,371,881"/>
+<area shape="rect" id="node35" href="$classWsModZip.html#abb67852121ad151ead5368091f8a989a" title="WsModZip::writeAndCloseZip" alt="" coords="219,905,415,932"/>
+<area shape="rect" id="node3" href="$classWsBottomBanner.html#a4f7a50f78d6d3831616665c310b64892" title="WsBottomBanner::WsBottom\lBanner" alt="" coords="477,5,672,46"/>
+<area shape="rect" id="node6" href="$classWsContentButtonsBar.html#aefe1e0ae6a699cba3452772eb243414d" title="WsContentButtonsBar\l::WsContentButtonsBar" alt="" coords="494,114,655,155"/>
+<area shape="rect" id="node10" href="$classWsTemplate.html#a57c6a7e56907ca0b40f990c0d5e9c1b2" title="WsTemplate::WsTemplate" alt="" coords="485,281,664,308"/>
+<area shape="rect" id="node13" href="$classWsBanners.html#a7266b37e6fffed081ac2c5da2b00a7fd" title="WsBanners::load" alt="" coords="513,383,636,409"/>
+<area shape="rect" id="node15" href="$classWsFileUpload.html#a20a2ce05544500e5bbfe63d9ee36d113" title="WsFileUpload::load" alt="" coords="507,433,643,460"/>
+<area shape="rect" id="node19" href="$classWsImagesGallery.html#aef002a818c1c226ecf1d62cc524ef2ad" title="WsImagesGallery::load" alt="" coords="495,585,654,612"/>
+<area shape="rect" id="node22" href="$classWsMenu.html#ab98c393f064f16397cb733693c94e8cd" title="WsMenu::createMenu" alt="" coords="747,656,898,683"/>
+<area shape="rect" id="node27" href="$classWsMenu.html#a753266c760883a11a0678c2c70952db5" title="WsMenu::loadPopupMenu" alt="" coords="487,687,662,713"/>
+<area shape="rect" id="node23" href="$classWsMenu.html#a3c06dda79f2b1e879a2cf8d63382df8a" title="WsMenu::doLoadCurPath" alt="" coords="1201,656,1373,683"/>
+<area shape="rect" id="node26" href="$classWsMenu.html#ab4a9f8ee5639b4f228a628539984546b" title="WsMenu::loadMenu" alt="" coords="993,681,1132,708"/>
+<area shape="rect" id="node24" href="$classWsMenu.html#a78403810097d684c7ec70524546a34f6" title="WsMenu::load" alt="" coords="1653,656,1760,683"/>
+<area shape="rect" id="node25" href="$classWsMenu.html#aa8c6ee713459e6f1fe8b39960398a7f5" title="WsMenu::doPathChanged" alt="" coords="1426,681,1601,708"/>
+<area shape="rect" id="node29" href="$classWsModRSS.html#a149db73c1c9c8f6f680b3a55afcd5cc4" title="WsModRSS::buildMenuBar" alt="" coords="483,737,666,764"/>
+<area shape="rect" id="node30" href="$classWsModRSS.html#ab129e34d397a22348c9f0ffbfd32b921" title="Create the functionalities. " alt="" coords="727,729,919,770"/>
+<area shape="rect" id="node32" href="$classWsModTwitter.html#a308528b09520fed2df10890c662ef019" title="WsModTwitter::buildMenuBar" alt="" coords="477,799,672,825"/>
+<area shape="rect" id="node33" href="$classWsModTwitter.html#ad146fcd2961141054b29923e7988a282" title="Create the functionalities. " alt="" coords="721,794,925,835"/>
+<area shape="rect" id="node36" href="$classWsModZip.html#a68b5155de3288e55e4af783f4576dc5f" title="WsModZip::handleFiles" alt="" coords="495,857,654,884"/>
+<area shape="rect" id="node41" href="$classWsModZip.html#a4828d70acaa9d1e3e568633fcfb2db45" title="WsModZip::handleAll" alt="" coords="501,908,648,935"/>
+<area shape="rect" id="node37" href="$classWsModZip.html#a0302044f92c076aac60d06ce19f0e653" title="WsModZip::handleAccept" alt="" coords="737,883,909,909"/>
+<area shape="rect" id="node38" href="$classWsModZip.html#a861e0a9290c136361a40164cb9161072" title="WsModZip::handleZipClick" alt="" coords="973,883,1152,909"/>
+<area shape="rect" id="node39" href="$classWsModZip.html#a15a8b6b3c9d78cc6bfa23a825c3444fe" title="WsModZip::buildMenuBar" alt="" coords="1201,883,1373,909"/>
+<area shape="rect" id="node40" href="$classWsModZip.html#a1b1adb89a0d3a62364d3d26e2d204d41" title="Create the functionalities. " alt="" coords="1422,875,1605,917"/>
+</map>

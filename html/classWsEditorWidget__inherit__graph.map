@@ -1,0 +1,4 @@
+<map id="WsEditorWidget" name="WsEditorWidget">
+<area shape="rect" id="node3" href="$classWsTwitterEditorWidget.html" title="{WsTwitterEditorWidget\n|&#45; m_cb\l&#45; m_cbState\l|+ WsTwitterEditorWidget()\l+ ~WsTwitterEditorWidget()\l+ load()\l+ saveEditor()\l}" alt="" coords="5,301,189,437"/>
+<area shape="rect" id="node4" href="$classWsZipEditorWidget.html" title="{WsZipEditorWidget\n|&#45; m_cb\l&#45; m_bState\l|+ WsZipEditorWidget()\l+ ~WsZipEditorWidget()\l+ load()\l+ saveEditor()\l}" alt="" coords="215,301,377,437"/>
+</map>

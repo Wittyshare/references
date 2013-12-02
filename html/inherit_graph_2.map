@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classWsAbstractFsClient.html" title="Abstract Interface between the WsUser class and the operation on the tree. " alt="" coords="6,31,146,57"/>
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html" title="Interface between the User class and the fsdaemon. " alt="" coords="195,5,335,32"/>
+<area shape="rect" id="node3" href="$classWsFsTreeClient.html" title="Interface between WsUser class and local tree. " alt="" coords="207,56,324,83"/>
+</map>

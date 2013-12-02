@@ -1,0 +1,5 @@
+<map id="WsNewsLetter::emailNotInLdap" name="WsNewsLetter::emailNotInLdap">
+<area shape="rect" id="node2" href="$classWsNewsLetter.html#aaf393a70631c5fd1e1eacc9db5595f3a" title="WsNewsLetter::isEmailExist\lInLdap" alt="" coords="262,5,453,46"/>
+<area shape="rect" id="node3" href="$classWsNewsLetter.html#a198b1cc8bb94ef7fcda31498af703991" title="WsNewsLetter::doSubscribe" alt="" coords="501,12,691,39"/>
+<area shape="rect" id="node4" href="$classWsNewsLetter.html#ae03d59042e3417ef158fd277580cfebb" title="WsNewsLetter::load" alt="" coords="739,12,880,39"/>
+</map>

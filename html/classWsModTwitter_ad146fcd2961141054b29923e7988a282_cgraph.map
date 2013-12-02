@@ -1,0 +1,16 @@
+<map id="WsModTwitter::createContentsMenuBar" name="WsModTwitter::createContentsMenuBar">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="291,56,421,83"/>
+<area shape="rect" id="node3" href="$classWsModTwitter.html#a308528b09520fed2df10890c662ef019" title="WsModTwitter::buildMenuBar" alt="" coords="259,107,453,133"/>
+<area shape="rect" id="node4" href="$classWsModule.html#a540fdf240488acf3e451ce98a2ca5027" title="WittyShare provide a container to add some buttons like export page in pdf, ..., This function allow ..." alt="" coords="501,56,701,83"/>
+<area shape="rect" id="node7" href="$classWsModTwitter.html#a23037e321ab6c83d164f3c0011466f36" title="WsModTwitter::handleTwitter\lClick" alt="" coords="505,150,698,191"/>
+<area shape="rect" id="node5" href="$classWsApplication.html#a285ae98ebb97586280ead2c75a09ed3b" title="Facility function to access the application object. " alt="" coords="771,5,952,32"/>
+<area shape="rect" id="node6" href="$classWsApplication.html#a986654b8bffba63e49011ead31ccf738" title="WsApplication::contentButtonsBar" alt="" coords="750,56,973,83"/>
+<area shape="rect" id="node8" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="786,107,937,133"/>
+<area shape="rect" id="node10" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="777,157,945,184"/>
+<area shape="rect" id="node12" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="792,211,931,253"/>
+<area shape="rect" id="node14" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="779,280,943,307"/>
+<area shape="rect" id="node9" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="1027,82,1167,123"/>
+<area shape="rect" id="node11" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="1027,147,1167,189"/>
+<area shape="rect" id="node13" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="1024,213,1171,254"/>
+<area shape="rect" id="node15" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="1022,278,1173,319"/>
+</map>

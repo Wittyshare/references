@@ -1,0 +1,22 @@
+<map id="WsImages2::build" name="WsImages2::build">
+<area shape="rect" id="node2" href="$classWsBanners.html#a78660b1f68c212ab28696709a0b091f8" title="WsBanners::doPathChanged" alt="" coords="442,5,633,32"/>
+<area shape="rect" id="node4" href="$classWsImages2.html#a4ac10be38f5e0df1371f2ad786f8f599" title="Load the widget (traditional wt virtual function). " alt="" coords="223,115,347,141"/>
+<area shape="rect" id="node5" href="$classWsImagesGallery.html#a03e4b3f66b7906dd7f11db29b6f241f0" title="WsImagesGallery::renderImage" alt="" coords="182,224,389,251"/>
+<area shape="rect" id="node14" href="$classWsMenu.html#a425102803eae6827d1f3b08f004a1252" title="WsMenu::loadImage" alt="" coords="214,300,357,327"/>
+<area shape="rect" id="node18" href="$classWsMenuImages.html#a430609ecbb39d12b135ce1a50d08d65d" title="WsMenuImages::buildVector" alt="" coords="190,401,381,428"/>
+<area shape="rect" id="node20" href="$classWsMenuImages.html#a569d6137f7f69a23490bd9b7c61602a7" title="WsMenuImages::buildMenu" alt="" coords="193,477,377,504"/>
+<area shape="rect" id="node3" href="$classWsBanners.html#a7266b37e6fffed081ac2c5da2b00a7fd" title="WsBanners::load" alt="" coords="732,5,855,32"/>
+<area shape="rect" id="node6" href="$classWsImagesGallery.html#aef002a818c1c226ecf1d62cc524ef2ad" title="WsImagesGallery::load" alt="" coords="1193,173,1351,200"/>
+<area shape="rect" id="node7" href="$classWsImagesGallery.html#af0f5f814fce617537c29541be8e9338b" title="WsImagesGallery::doTimeout\lImage" alt="" coords="949,107,1144,149"/>
+<area shape="rect" id="node8" href="$classWsImagesGallery.html#a7a0e676df7c157d0ed6644f9079da498" title="WsImagesGallery::doThumb\lClicked" alt="" coords="443,158,631,199"/>
+<area shape="rect" id="node11" href="$classWsImagesGallery.html#abeddcae92342b68a5fac3e0b814274ef" title="WsImagesGallery::doPrevious" alt="" coords="438,275,637,301"/>
+<area shape="rect" id="node13" href="$classWsImagesGallery.html#ac131debf587180283b78d33c9cdee267" title="WsImagesGallery::doNext" alt="" coords="449,325,625,352"/>
+<area shape="rect" id="node9" href="$classWsImagesGallery.html#ab06e1482ea18c7df5e9deb7dc50fc03b" title="WsImagesGallery::renderThumb" alt="" coords="688,199,899,225"/>
+<area shape="rect" id="node10" href="$classWsImagesGallery.html#a471f65c913d2a4c2f742b066c2d30555" title="WsImagesGallery::doTimeout\lThumb" alt="" coords="949,225,1144,266"/>
+<area shape="rect" id="node12" href="$classWsImagesGallery.html#a1c5d29ddde95576caf54c5667dba080a" title="WsImagesGallery::renderButtons" alt="" coords="686,291,901,317"/>
+<area shape="rect" id="node15" href="$classWsMenu.html#a3c06dda79f2b1e879a2cf8d63382df8a" title="WsMenu::doLoadCurPath" alt="" coords="451,376,623,403"/>
+<area shape="rect" id="node16" href="$classWsMenu.html#a78403810097d684c7ec70524546a34f6" title="WsMenu::load" alt="" coords="993,384,1100,411"/>
+<area shape="rect" id="node17" href="$classWsMenu.html#aa8c6ee713459e6f1fe8b39960398a7f5" title="WsMenu::doPathChanged" alt="" coords="706,409,881,436"/>
+<area shape="rect" id="node19" href="$classWsMenuImages.html#a6ddb78f1b3e422cdfe64acfd6631b7e2" title="WsMenuImages::load" alt="" coords="719,477,868,504"/>
+<area shape="rect" id="node21" href="$classWsMenuImages.html#aa88c421101f18949a9fe2034767fc40b" title="WsMenuImages::doTimeout" alt="" coords="444,528,631,555"/>
+</map>

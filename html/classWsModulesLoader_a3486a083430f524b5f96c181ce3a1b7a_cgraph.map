@@ -1,0 +1,9 @@
+<map id="WsModulesLoader::removePrefix" name="WsModulesLoader::removePrefix">
+<area shape="rect" id="node2" href="$classWsLayoutProperties.html#a1467b795cdaf3370f5ad0790901720be" title="Get the singleton instance. " alt="" coords="298,6,438,47"/>
+<area shape="rect" id="node4" href="$classWsLayoutProperties.html#ad1d00d237529f6e8fdb3ec3b1135b4ba" title="WsLayoutProperties::get" alt="" coords="285,75,451,101"/>
+<area shape="rect" id="node6" href="$classWsModulesLoader.html#a5469c485c29608bfb81468cc7c08a115" title="WsModulesLoader::modules" alt="" coords="275,125,461,152"/>
+<area shape="rect" id="node7" href="$classWsModule.html#a46cd4225764c03a9c92672f947f9ff4f" title="WsModule::prefix" alt="" coords="529,201,653,228"/>
+<area shape="rect" id="node8" href="$classWsModule.html#a5498983cf36578fab497332b32345092" title="return the relative path without the prefix : example pathWithoutPrefix(&quot;/SiteMap/Test&quot;) return &quot;/Tes..." alt="" coords="270,227,466,253"/>
+<area shape="rect" id="node3" href="$classWsLayoutProperties.html#a45ec92c0b851148be2526257fe8528dc" title="Default Constructor. " alt="" coords="517,5,665,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="515,70,666,111"/>
+</map>

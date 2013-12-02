@@ -1,0 +1,22 @@
+<map id="WsFileSystemTree::createStamp" name="WsFileSystemTree::createStamp">
+<area shape="rect" id="node2" href="$classWsFileSystemTree.html#a138ae8389984fa317fcf3e7f1d234344" title="crawls the diretory and sorts the children. It is called by WsDirectoryCrawler::start() ..." alt="" coords="251,499,419,525"/>
+<area shape="rect" id="node21" href="$classWsFileSystemTree.html#adf79e63d2ca484853128a4f364ad7407" title="inserts the node in the tree The node is inserted on the right place on the tree depending on it&#39;s pa..." alt="" coords="232,549,437,576"/>
+<area shape="rect" id="node3" href="$classWsFsTreeUpdater.html#acfac488f75979736a1994db6d2116d07" title="update the fsTree " alt="" coords="749,499,925,525"/>
+<area shape="rect" id="node20" href="$classWsFsTreeUpdater.html#a57ada059d4948ec14f990fbaa740c491" title="Updates the tree in a thread. " alt="" coords="486,524,701,551"/>
+<area shape="rect" id="node4" href="$classWsFsTreeUpdater.html#a1c2d27324258de0d74fc1424c87fae44" title="returns the last created tree " alt="" coords="974,373,1181,400"/>
+<area shape="rect" id="node17" href="$classWsFsTreeUpdater.html#ab15fd036c3dfb4791b2c65804ba60f8e" title="Starts the regular update of the tree. " alt="" coords="973,491,1181,533"/>
+<area shape="rect" id="node18" href="$classWsMonitor.html#a3d6b4527581c30919b32b270151d01fe" title="Starts loop that will monitor the m_updated variable every m_delay and update the tree if changed occ..." alt="" coords="993,659,1161,685"/>
+<area shape="rect" id="node5" href="$classWsFsTreeConsultation.html#ab2e2894bdbe81268d28bdaf6968fb094" title="Get the permissions for a path for a set of groups. " alt="" coords="1230,6,1386,47"/>
+<area shape="rect" id="node6" href="$classWsFsTreeConsultation.html#af7cfea926ffeaf849b9f14f4c2901810" title="get properties of a node corresponding to the path " alt="" coords="1230,71,1386,113"/>
+<area shape="rect" id="node8" href="$classWsFsTreeConsultation.html#a3144b7e7da95ac77815f13bdd05b79dc" title="Get the menu tree starting from rootPath. " alt="" coords="1230,137,1386,178"/>
+<area shape="rect" id="node9" href="$classWsFsTreeConsultation.html#a9a4084884d008a4998782f014b649089" title="Get the access tree starting from rootPath. " alt="" coords="1230,202,1386,243"/>
+<area shape="rect" id="node10" href="$classWsFsTreeConsultation.html#a06e483e5d62f2d26ed85d41ef0c5e017" title="Get the results for searching for &quot;terms&quot;. " alt="" coords="1230,267,1386,309"/>
+<area shape="rect" id="node11" href="$classWsFsTreeConsultation.html#a32ebfd2213c639c3e7512959cf2dad6a" title="Get the stamp of the last WsFileSystemTree. " alt="" coords="1230,333,1386,374"/>
+<area shape="rect" id="node12" href="$classWsFsTreeModification.html#a038794a87f870f8be21cf2d321624c82" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="1231,398,1385,439"/>
+<area shape="rect" id="node13" href="$classWsFsTreeModification.html#ae8bef1c3b0ae0706e7fea6008ba88411" title="save a property of the node. The user must have access and edit rights for the node. " alt="" coords="1231,463,1385,505"/>
+<area shape="rect" id="node14" href="$classWsFsTreeModification.html#a780e42cfbf8e31b09f0155b360cd2f38" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="1231,529,1385,570"/>
+<area shape="rect" id="node15" href="$classWsFsTreeModification.html#a03ed64bf7c489d4fe6b2d8c9a7b424c3" title="delete a node. The user must be an Admin on editor to remove the node " alt="" coords="1231,594,1385,635"/>
+<area shape="rect" id="node16" href="$classWsFsTreeModification.html#a4c6bde414ae6df95ade0670fefd04e21" title="renames a node " alt="" coords="1231,659,1385,701"/>
+<area shape="rect" id="node7" href="$classWsFsTreeConsultation.html#a6da84fdb56ef63981c7e38e2b407cd76" title="get a property for a node corresponding to the path " alt="" coords="1435,71,1591,113"/>
+<area shape="rect" id="node19" href="$classWsMonitor.html#ae528d810f2d1b82634e6297c45569d37" title="Starts the monitoring process. " alt="" coords="1249,725,1367,752"/>
+</map>

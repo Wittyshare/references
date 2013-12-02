@@ -1,0 +1,6 @@
+<map id="WsAuthenticator::loadModule" name="WsAuthenticator::loadModule">
+<area shape="rect" id="node2" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="261,7,400,49"/>
+<area shape="rect" id="node4" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="249,75,413,101"/>
+<area shape="rect" id="node3" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="464,5,611,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="462,70,613,111"/>
+</map>

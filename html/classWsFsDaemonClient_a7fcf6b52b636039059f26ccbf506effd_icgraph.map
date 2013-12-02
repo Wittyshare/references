@@ -1,0 +1,9 @@
+<map id="WsFsDaemonClient::receiveSuccessCode" name="WsFsDaemonClient::receiveSuccessCode">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#acc106281f61e3d828f3b13bbbd6f76e5" title="clears the server cache (removes the ldap results cached " alt="" coords="255,5,470,46"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#a4c209c4991e3f6fd34c6c7bbb735febe" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="245,71,480,97"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#ab2a1a27373f0c1dfb7801a037fef9f7b" title="sets one property of the node and save it. " alt="" coords="250,121,475,148"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#a79c958ee0f5b4c68d4bef7c8668c8c6d" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="255,172,470,199"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonClient.html#abbfea61b4460a75c7b95ffd0b91826d0" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="255,223,470,249"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonClient.html#a28c2eef0613c1c9b6be7d933bdc795b4" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="251,273,474,300"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#a8dc291ff305dcdc657327aff61297007" title="destructor " alt="" coords="529,5,677,46"/>
+</map>

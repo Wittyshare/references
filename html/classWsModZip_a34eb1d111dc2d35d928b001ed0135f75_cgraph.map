@@ -1,0 +1,7 @@
+<map id="WsModZip::appendSubDir" name="WsModZip::appendSubDir">
+<area shape="rect" id="node2" href="$classWsApplication.html#a285ae98ebb97586280ead2c75a09ed3b" title="Facility function to access the application object. " alt="" coords="229,5,411,32"/>
+<area shape="rect" id="node3" href="$classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f" title="WsApplication::wsUser" alt="" coords="241,56,399,83"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="236,107,404,133"/>
+<area shape="rect" id="node6" href="$classWsModZip.html#ad4273b6cff6959fe418d16b8d5477533" title="Append the file to the zip. " alt="" coords="236,157,404,184"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="459,99,599,141"/>
+</map>

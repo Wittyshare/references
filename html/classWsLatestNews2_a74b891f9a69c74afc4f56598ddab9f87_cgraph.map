@@ -1,0 +1,22 @@
+<map id="WsLatestNews2::setTable" name="WsLatestNews2::setTable">
+<area shape="rect" id="node2" href="$classWsApplication.html#a285ae98ebb97586280ead2c75a09ed3b" title="Facility function to access the application object. " alt="" coords="253,5,435,32"/>
+<area shape="rect" id="node3" href="$classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f" title="WsApplication::wsUser" alt="" coords="265,56,423,83"/>
+<area shape="rect" id="node4" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="279,107,409,133"/>
+<area shape="rect" id="node5" href="$classWsUser.html#afe040f584e7c2eda8d34a75ad5579152" title="returns one property of a node If the property does not exist, a empty string is returned. " alt="" coords="271,157,417,184"/>
+<area shape="rect" id="node7" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="260,208,428,235"/>
+<area shape="rect" id="node9" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="275,259,413,301"/>
+<area shape="rect" id="node11" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="262,325,426,352"/>
+<area shape="rect" id="node13" href="$classWsLatestNews.html#aba416401db4dd4ff4e73bd3075d2e3a7" title="WsLatestNews::getLatestNews" alt="" coords="240,376,448,403"/>
+<area shape="rect" id="node21" href="$classWsLatestNews2.html#a9094876c9ef5fbdebc226fa41974fc66" title="WsLatestNews2::onViewSelection\lChanged" alt="" coords="232,427,456,469"/>
+<area shape="rect" id="node6" href="$classWsAbstractFsClient.html#a692bc60c435450da425d86c0bbe5abf6" title="returns one property of a node If the property does not exist, a empty std::string is returned..." alt="" coords="513,129,653,170"/>
+<area shape="rect" id="node8" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="513,194,653,235"/>
+<area shape="rect" id="node10" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="509,259,656,301"/>
+<area shape="rect" id="node12" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="507,325,658,366"/>
+<area shape="rect" id="node14" href="$classWsTreeTraversal.html#a79570e0b3c46c6ce45c039c1fd18d42a" title="start traversing the Tree. " alt="" coords="505,391,661,417"/>
+<area shape="rect" id="node15" href="$classWsTreeTraversal.html#a2325ff603a9eadcb6e2eacf63ad2fe1b" title="Traverses a Node. Calls the WsTreeTraversal::traverseDirNode() or WsTreeTraversal::traverseFileNode()..." alt="" coords="710,320,887,347"/>
+<area shape="rect" id="node19" href="$classWsTreeTraversal.html#a5ecb2a97a931a65208df91b18909e8c6" title="Called when traversing a fileNode. " alt="" coords="1214,407,1413,433"/>
+<area shape="rect" id="node16" href="$classWsTreeTraversal.html#a70db8a7ce31fa3542c6bfc31ac3e64ba" title="Called when a directory is being traversed. " alt="" coords="936,228,1165,255"/>
+<area shape="rect" id="node17" href="$classWsTreeTraversal.html#a3a31ed8b8e898c03bb608d4633af1c1b" title="Traverses WsDirNodes recusively. " alt="" coords="962,279,1139,321"/>
+<area shape="rect" id="node18" href="$classWsTreeTraversal.html#afd9db306d1b77ae7e3d3a630afc03abb" title="Traverse a file and calls WsTreeTraversal::traverseFile() method. " alt="" coords="962,345,1139,386"/>
+<area shape="rect" id="node20" href="$classWsTreeTraversal.html#a7c0efbef419d3a672e9ef2d66f542822" title="Called when a directory has been completely traversed. ie all subnodes(recursively all sub nodes of s..." alt="" coords="941,411,1160,437"/>
+</map>

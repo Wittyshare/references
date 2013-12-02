@@ -1,0 +1,5 @@
+<map id="WsFsDaemonClient::receiveProperty" name="WsFsDaemonClient::receiveProperty">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#af4661a8e5332f6a1f4c84f630302e9eb" title="receive a string from the daemon. " alt="" coords="246,12,437,39"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#ad439887502505543006d0b81df68e247" title="Converts raw data received to string. This method should be used each time data is received from netw..." alt="" coords="485,5,683,46"/>
+<area shape="rect" id="node4" href="$classWsDecompressor.html#a9e416710113e7f86207ebb894fef628c" title="decompress the input data and store result in uncompressedData " alt="" coords="731,12,938,39"/>
+</map>

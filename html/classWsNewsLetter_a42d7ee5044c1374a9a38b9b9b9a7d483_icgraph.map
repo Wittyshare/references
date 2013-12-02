@@ -1,0 +1,5 @@
+<map id="WsNewsLetter::initDB" name="WsNewsLetter::initDB">
+<area shape="rect" id="node2" href="$classWsNewsLetter.html#ae03d59042e3417ef158fd277580cfebb" title="WsNewsLetter::load" alt="" coords="227,5,368,32"/>
+<area shape="rect" id="node3" href="$classWsNewsLetter.html#a3a54c5a3cc7ebb61097000ca580c3102" title="WsNewsLetter::checkPath" alt="" coords="208,56,387,83"/>
+<area shape="rect" id="node4" href="$classWsModNewsLetter.html#aa7839ce0bc517ad1c8086a7903396be2" title="Return the currentPath, or another path when some action is required for the currentPath example /New..." alt="" coords="435,56,639,83"/>
+</map>

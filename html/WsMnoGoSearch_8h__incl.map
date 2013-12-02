@@ -1,0 +1,17 @@
+<map id="src/WsSearchModules/MnoGoSearch/src/WsMnoGoSearch.h" name="src/WsSearchModules/MnoGoSearch/src/WsMnoGoSearch.h">
+<area shape="rect" id="node5" href="$WsAbstractSearch_8h.html" title="Search/WsAbstractSearch.h" alt="" coords="1478,96,1665,123"/>
+<area shape="rect" id="node6" href="$WsResultItem_8h.html" title="WsResultItem.h" alt="" coords="875,179,991,205"/>
+<area shape="rect" id="node17" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="1629,725,1763,752"/>
+<area shape="rect" id="node33" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1285,171,1488,213"/>
+<area shape="rect" id="node7" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="833,261,1033,288"/>
+<area shape="rect" id="node8" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="877,411,960,437"/>
+<area shape="rect" id="node11" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="673,568,907,595"/>
+<area shape="rect" id="node30" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="943,336,1044,363"/>
+<area shape="rect" id="node24" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="1151,485,1284,512"/>
+<area shape="rect" id="node29" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="623,800,797,827"/>
+<area shape="rect" id="node15" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="386,651,547,677"/>
+<area shape="rect" id="node19" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="1876,800,1985,827"/>
+<area shape="rect" id="node31" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="94,568,335,595"/>
+<area shape="rect" id="node32" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="359,568,597,595"/>
+<area shape="rect" id="node34" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="1667,568,1884,595"/>
+</map>

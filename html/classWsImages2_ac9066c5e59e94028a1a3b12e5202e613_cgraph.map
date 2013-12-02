@@ -1,0 +1,7 @@
+<map id="WsImages2::doCounterClicked" name="WsImages2::doCounterClicked">
+<area shape="rect" id="node2" href="$classWsImages2.html#a36d13eac56aa512ec4c8f4e4460b9a34" title="Load the image with the current index. " alt="" coords="259,81,419,108"/>
+<area shape="rect" id="node3" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="499,5,629,32"/>
+<area shape="rect" id="node4" href="$classwsi2Anchor.html#a673da2d1dcc44bdeb6a2b128f741ffbc" title="wsi2Anchor::imageSelected" alt="" coords="472,56,656,83"/>
+<area shape="rect" id="node5" href="$classwsi2Anchor.html#a14bea6117de2a8d9de0c00b864d851fd" title="wsi2Anchor::setImageIndex" alt="" coords="472,107,656,133"/>
+<area shape="rect" id="node6" href="$classWsImages2.html#ad3e3f6d6ead8ebd1303a945fd39943b8" title="WsImages2::doImageClicked" alt="" coords="467,157,661,184"/>
+</map>

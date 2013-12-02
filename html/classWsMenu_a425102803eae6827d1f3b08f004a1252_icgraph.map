@@ -1,0 +1,5 @@
+<map id="WsMenu::loadImage" name="WsMenu::loadImage">
+<area shape="rect" id="node2" href="$classWsMenu.html#a3c06dda79f2b1e879a2cf8d63382df8a" title="WsMenu::doLoadCurPath" alt="" coords="198,5,370,32"/>
+<area shape="rect" id="node3" href="$classWsMenu.html#a78403810097d684c7ec70524546a34f6" title="WsMenu::load" alt="" coords="643,5,749,32"/>
+<area shape="rect" id="node4" href="$classWsMenu.html#aa8c6ee713459e6f1fe8b39960398a7f5" title="WsMenu::doPathChanged" alt="" coords="419,31,594,57"/>
+</map>

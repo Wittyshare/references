@@ -1,0 +1,65 @@
+<map id="src/Auth/WsAbstractAuth.h" name="src/Auth/WsAbstractAuth.h">
+<area shape="rect" id="node2" href="$WsAbstractAuth_8cpp.html" title="src/Auth/WsAbstractAuth.cpp" alt="" coords="6041,88,6236,115"/>
+<area shape="rect" id="node3" href="$WsAuthenticator_8h.html" title="src/Auth/WsAuthenticator.h" alt="" coords="6261,88,6443,115"/>
+<area shape="rect" id="node63" href="$WsLdapAuth_8h.html" title="Ldap connector class. " alt="" coords="6587,81,6759,122"/>
+<area shape="rect" id="node4" href="$WsAuthenticator_8cpp.html" title="src/Auth/WsAuthenticator.cpp" alt="" coords="5969,179,6167,205"/>
+<area shape="rect" id="node5" href="$WsFsTreeClient_8h.html" title="Interacts directly with the menuTree and the fsTree. " alt="" coords="6191,179,6393,205"/>
+<area shape="rect" id="node59" href="$WsFsDaemon_8h.html" title="Take charge of FS operations. " alt="" coords="6418,179,6624,205"/>
+<area shape="rect" id="node6" href="$WsFsTreeClient_8cpp.html" title="src/FsClient/WsFsTreeClient.cpp" alt="" coords="5983,261,6200,288"/>
+<area shape="rect" id="node7" href="$WsUser_8h.html" title="User class. " alt="" coords="6225,261,6359,288"/>
+<area shape="rect" id="node8" href="$Main_2main_8cpp.html" title="src/Main/main.cpp" alt="" coords="7342,568,7471,595"/>
+<area shape="rect" id="node9" href="$WsApplication_8h.html" title="src/Main/WsApplication.h" alt="" coords="4677,485,4848,512"/>
+<area shape="rect" id="node12" href="$WsContent_8cpp.html" title="src/Main/WsContent.cpp" alt="" coords="8389,659,8555,685"/>
+<area shape="rect" id="node13" href="$WsTemplate_8h.html" title="src/Main/WsTemplate.h" alt="" coords="7495,568,7656,595"/>
+<area shape="rect" id="node14" href="$WsTemplate_8cpp.html" title="src/Main/WsTemplate.cpp" alt="" coords="8045,659,8219,685"/>
+<area shape="rect" id="node28" href="$WsModDirectoryView2_8cpp.html" title="src/WsModules/WsModDirectory\lView2/src/WsModDirectoryView2.cpp" alt="" coords="396,651,639,693"/>
+<area shape="rect" id="node30" href="$WsModFollowUs_8cpp.html" title="src/WsModules/WsModFollow\lUs/src/WsModFollowUs.cpp" alt="" coords="245,561,444,602"/>
+<area shape="rect" id="node32" href="$WsImages2_8cpp.html" title="src/WsModules/WsModImages2\l/src/WsImages2.cpp" alt="" coords="469,561,680,602"/>
+<area shape="rect" id="node36" href="$WsLatestNews2_8cpp.html" title="src/WsModules/WsModLatest\lNews2/src/WsLatestNews2.cpp" alt="" coords="2168,651,2377,693"/>
+<area shape="rect" id="node37" href="$WsModLatestNews2_8cpp.html" title="src/WsModules/WsModLatest\lNews2/src/WsModLatestNews2.cpp" alt="" coords="2973,651,3208,693"/>
+<area shape="rect" id="node39" href="$WsModLinksList_8cpp.html" title="src/WsModules/WsModLinks\lList/src/WsModLinksList.cpp" alt="" coords="705,561,897,602"/>
+<area shape="rect" id="node46" href="$WsModRSS_8cpp.html" title="src/WsModules/WsModRSS\l/src/WsModRSS.cpp" alt="" coords="1487,651,1677,693"/>
+<area shape="rect" id="node48" href="$WsRSS_8cpp.html" title="src/WsModules/WsModRSS\l/src/WsRSS.cpp" alt="" coords="1273,651,1463,693"/>
+<area shape="rect" id="node51" href="$WsVideo_8cpp.html" title="src/WsModules/WsModVideo\l/src/WsVideo.cpp" alt="" coords="7123,561,7317,602"/>
+<area shape="rect" id="node52" href="$WsModZip_8h.html" title="src/WsModules/WsModZip\l/src/WsModZip.h" alt="" coords="1177,561,1356,602"/>
+<area shape="rect" id="node54" href="$WsSiteMapView_8h.html" title="src/Main/WsSiteMapView.h" alt="" coords="7688,336,7872,363"/>
+<area shape="rect" id="node56" href="$WsSearchView_8h.html" title="src/Main/WsSearchView.h" alt="" coords="8333,485,8509,512"/>
+<area shape="rect" id="node57" href="$WsFormConfig_8h.html" title="src/Main/WsFormConfig.h" alt="" coords="8586,485,8760,512"/>
+<area shape="rect" id="node58" href="$WsUser_8cpp.html" title="src/User/WsUser.cpp" alt="" coords="8332,336,8480,363"/>
+<area shape="rect" id="node10" href="$WsApplication_8cpp.html" title="src/Main/WsApplication.cpp" alt="" coords="6186,659,6371,685"/>
+<area shape="rect" id="node11" href="$WsBottomBanner_8cpp.html" title="src/Main/WsBottomBanner.cpp" alt="" coords="5926,568,6129,595"/>
+<area shape="rect" id="node15" href="$WsContentButtonsBar_8cpp.html" title="src/Main/WsContentButtons\lBar.cpp" alt="" coords="6155,561,6341,602"/>
+<area shape="rect" id="node16" href="$WsFormConfig_8cpp.html" title="src/Main/WsFormConfig.cpp" alt="" coords="8169,568,8359,595"/>
+<area shape="rect" id="node17" href="$WsFunctionnalities_8cpp.html" title="src/Main/WsFunctionnalities.cpp" alt="" coords="6366,568,6577,595"/>
+<area shape="rect" id="node18" href="$WsSearchView_8cpp.html" title="src/Main/WsSearchView.cpp" alt="" coords="7903,568,8093,595"/>
+<area shape="rect" id="node19" href="$WsSiteMapView_8cpp.html" title="src/Main/WsSiteMapView.cpp" alt="" coords="7681,568,7879,595"/>
+<area shape="rect" id="node20" href="$WsModule_8cpp.html" title="src/WsModule/src/WsModule.cpp" alt="" coords="6603,568,6821,595"/>
+<area shape="rect" id="node21" href="$WsAnchor_8cpp.html" title="src/WsModules/WsModAnchor\l/src/WsAnchor.cpp" alt="" coords="6845,561,7048,602"/>
+<area shape="rect" id="node22" href="$WsModAnchor_8cpp.html" title="src/WsModules/WsModAnchor\l/src/WsModAnchor.cpp" alt="" coords="1811,561,2013,602"/>
+<area shape="rect" id="node23" href="$WsBanners_8cpp.html" title="src/WsModules/WsModBanners\l/src/WsBanners.cpp" alt="" coords="2037,561,2247,602"/>
+<area shape="rect" id="node24" href="$WsModBanners_8cpp.html" title="src/WsModules/WsModBanners\l/src/WsModBanners.cpp" alt="" coords="2272,561,2481,602"/>
+<area shape="rect" id="node25" href="$WsBreadCrumb_8cpp.html" title="src/WsModules/WsModBread\lCrumb/src/WsBreadCrumb.cpp" alt="" coords="2507,561,2712,602"/>
+<area shape="rect" id="node26" href="$WsModBreadCrumb_8cpp.html" title="src/WsModules/WsModBread\lCrumb/src/WsModBreadCrumb.cpp" alt="" coords="2737,561,2967,602"/>
+<area shape="rect" id="node27" href="$WsModDirectoryView2_8h.html" title="src/WsModules/WsModDirectory\lView2/src/WsModDirectoryView2.h" alt="" coords="923,561,1152,602"/>
+<area shape="rect" id="node29" href="$WsModFileUpload_8cpp.html" title="src/WsModules/WsModFileUpload\l/src/WsModFileUpload.cpp" alt="" coords="3460,561,3683,602"/>
+<area shape="rect" id="node31" href="$WsModGalleria_8cpp.html" title="src/WsModules/WsModGalleria\l/src/WsModGalleria.cpp" alt="" coords="3709,561,3915,602"/>
+<area shape="rect" id="node33" href="$WsModImages2_8cpp.html" title="src/WsModules/WsModImages2\l/src/WsModImages2.cpp" alt="" coords="3939,561,4151,602"/>
+<area shape="rect" id="node34" href="$WsModImagesGallery_8cpp.html" title="src/WsModules/WsModImages\lGallery/src/WsModImagesGallery.cpp" alt="" coords="4176,561,4419,602"/>
+<area shape="rect" id="node35" href="$WsLatestNews2_8h.html" title="src/WsModules/WsModLatest\lNews2/src/WsLatestNews2.h" alt="" coords="2991,561,3189,602"/>
+<area shape="rect" id="node38" href="$WsModLatestNews2_8h.html" title="src/WsModules/WsModLatest\lNews2/src/WsModLatestNews2.h" alt="" coords="3214,561,3436,602"/>
+<area shape="rect" id="node40" href="$WsMenu_8cpp.html" title="src/WsModules/WsModMenu\l/src/WsMenu.cpp" alt="" coords="4443,561,4637,602"/>
+<area shape="rect" id="node41" href="$WsModMenu_8cpp.html" title="src/WsModules/WsModMenu\l/src/WsModMenu.cpp" alt="" coords="4939,561,5133,602"/>
+<area shape="rect" id="node42" href="$WsModMenuImages_8cpp.html" title="src/WsModules/WsModMenuImages\l/src/WsModMenuImages.cpp" alt="" coords="5157,561,5393,602"/>
+<area shape="rect" id="node43" href="$WsModNewsLetter_8cpp.html" title="src/WsModules/WsModNewsLetter\l/src/WsModNewsLetter.cpp" alt="" coords="5419,561,5648,602"/>
+<area shape="rect" id="node44" href="$WsNewsLetter_8cpp.html" title="src/WsModules/WsModNewsLetter\l/src/WsNewsLetter.cpp" alt="" coords="5672,561,5901,602"/>
+<area shape="rect" id="node45" href="$WsModRSS_8h.html" title="src/WsModules/WsModRSS\l/src/WsModRSS.h" alt="" coords="1595,561,1785,602"/>
+<area shape="rect" id="node47" href="$WsRSS_8h.html" title="src/WsModules/WsModRSS\l/src/WsRSS.h" alt="" coords="1381,561,1571,602"/>
+<area shape="rect" id="node49" href="$WsModTwitter_8h.html" title="src/WsModules/WsModTwitter\l/src/WsModTwitter.h" alt="" coords="4661,561,4864,602"/>
+<area shape="rect" id="node50" href="$WsModTwitter_8cpp.html" title="src/WsModules/WsModTwitter\l/src/WsModTwitter.cpp" alt="" coords="4661,651,4864,693"/>
+<area shape="rect" id="node53" href="$WsModZip_8cpp.html" title="src/WsModules/WsModZip\l/src/WsModZip.cpp" alt="" coords="1069,651,1248,693"/>
+<area shape="rect" id="node55" href="$WsContent_8h.html" title="src/Main/WsContent.h" alt="" coords="7935,411,8088,437"/>
+<area shape="rect" id="node60" href="$WsFsDaemon_8cpp.html" title="Take charge of FS operations. " alt="" coords="6411,261,6632,288"/>
+<area shape="rect" id="node61" href="$WsFsDaemonLoader_8h.html" title="src/FsDaemon/WsFsDaemonLoader.h" alt="" coords="7185,261,7431,288"/>
+<area shape="rect" id="node62" href="$WsFsDaemonLoader_8cpp.html" title="src/FsDaemon/WsFsDaemonLoader.cpp" alt="" coords="8635,336,8895,363"/>
+<area shape="rect" id="node64" href="$WsLdapAuth_8cpp.html" title="Ldap connector class. " alt="" coords="6649,171,6820,213"/>
+</map>

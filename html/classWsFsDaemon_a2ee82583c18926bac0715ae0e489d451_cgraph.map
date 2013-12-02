@@ -1,0 +1,5 @@
+<map id="WsFsDaemon::handleRootPathRequest" name="WsFsDaemon::handleRootPathRequest">
+<area shape="rect" id="node2" href="$classWsFsTreeOperations.html#a107da373fb9bbbbb2a604e833057e3dc" title="WsFsTreeOperations\l::getRootPath" alt="" coords="261,5,408,46"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="263,71,406,97"/>
+<area shape="rect" id="node4" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="456,71,635,97"/>
+</map>

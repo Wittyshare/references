@@ -1,0 +1,12 @@
+<map id="WsTreeDeserializer::parse" name="WsTreeDeserializer::parse">
+<area shape="rect" id="node2" href="$classWsTreeDeserializer.html#a7a7828b23e9c5e62d642ff9d1395b86a" title="deserialize the Json input " alt="" coords="193,86,330,127"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#a0b50df7688e0213225d814f43e5a4517" title="receive the menu items after a getMenuRoot request " alt="" coords="379,53,570,94"/>
+<area shape="rect" id="node10" href="$classWsFsDaemonClient.html#a293da2fab35e5f26e9cec8663f21db8a" title="receive the access tree items after a getAccessRoot request " alt="" coords="379,118,570,159"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#a53c5a67612c6893da2a300a5b1f1bf60" title="get the root node of the menu The root node contains as children all the menu items ..." alt="" coords="625,64,852,91"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#a79c958ee0f5b4c68d4bef7c8668c8c6d" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="911,123,1126,149"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#abbfea61b4460a75c7b95ffd0b91826d0" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="911,173,1126,200"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonClient.html#a28c2eef0613c1c9b6be7d933bdc795b4" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="907,5,1130,32"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonClient.html#abf9525f9a34ac2ba5dc9f9e11769c12a" title="Launch the routine that will retrieve new AccessTree from fsdaemon This method should be called in a ..." alt="" coords="927,57,1111,98"/>
+<area shape="rect" id="node9" href="$classWsFsDaemonClient.html#a00c0033ccd129716dc0caf84aad5d7e4" title="loads the user info " alt="" coords="1179,64,1351,91"/>
+<area shape="rect" id="node11" href="$classWsFsDaemonClient.html#ac29790ded4328aefc9bc1c4df36361bb" title="return the root node of the access tree " alt="" coords="619,123,858,149"/>
+</map>

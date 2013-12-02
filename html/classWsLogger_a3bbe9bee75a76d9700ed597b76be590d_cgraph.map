@@ -1,0 +1,4 @@
+<map id="WsLogger::~WsLogger" name="WsLogger::~WsLogger">
+<area shape="rect" id="node2" href="$classWsLogWriter.html#a73a7c0bf9f65a86c0b991b780dee598c" title="returns the instance of the WsLogWriter class. If no instance is existing, a new instance will be ret..." alt="" coords="211,5,365,32"/>
+<area shape="rect" id="node3" href="$classWsLogWriter.html#a50398f5fbd41b850a47d7c8f16ec14c5" title="writes the message to the log file " alt="" coords="221,56,355,83"/>
+</map>

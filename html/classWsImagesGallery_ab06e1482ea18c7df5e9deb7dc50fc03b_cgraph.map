@@ -1,0 +1,13 @@
+<map id="WsImagesGallery::renderThumb" name="WsImagesGallery::renderThumb">
+<area shape="rect" id="node2" href="$classWsImagesGallery.html#a7a0e676df7c157d0ed6644f9079da498" title="WsImagesGallery::doThumb\lClicked" alt="" coords="265,121,453,162"/>
+<area shape="rect" id="node3" href="$classWsImagesGallery.html#a03e4b3f66b7906dd7f11db29b6f241f0" title="WsImagesGallery::renderImage" alt="" coords="502,157,709,184"/>
+<area shape="rect" id="node4" href="$classWsOptions.html#a323a59ee0cd514354fb6fc049a3de0c6" title="Set all options. " alt="" coords="758,5,917,32"/>
+<area shape="rect" id="node5" href="$classWsOptions.html#ab06d33752bb750f78a3c177a00b0df2c" title="Get all options. " alt="" coords="769,56,906,83"/>
+<area shape="rect" id="node6" href="$classWsOptions.html#a1d6f864ac2feb47570c535d1251c2b54" title="Set an options if previously set, update the value. " alt="" coords="762,107,913,133"/>
+<area shape="rect" id="node7" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="984,183,1115,209"/>
+<area shape="rect" id="node8" href="$classWsOptions.html#adc4c4fdf38c2d3e9675c1bb9713860e5" title="Output all options. " alt="" coords="758,208,917,235"/>
+<area shape="rect" id="node9" href="$classWsImages2.html#a1b189c1da53e948c6b946a78ced327d0" title="Build the vector. " alt="" coords="774,259,901,285"/>
+<area shape="rect" id="node12" href="$classWsImages2.html#a12bdf35c1438085fe75a09b48c2dc3d3" title="Return the text of the current image. " alt="" coords="776,309,899,336"/>
+<area shape="rect" id="node10" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="965,259,1133,285"/>
+<area shape="rect" id="node11" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="1182,251,1322,293"/>
+</map>

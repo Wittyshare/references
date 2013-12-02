@@ -1,0 +1,12 @@
+<map id="WsFsTreeClient::load" name="WsFsTreeClient::load">
+<area shape="rect" id="node2" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="225,14,364,55"/>
+<area shape="rect" id="node4" href="$classWsFsTreeOperations.html#a3b72493a6b18e67afde289b165f2a9e7" title="Update the WsFileSystemTree. " alt="" coords="221,89,368,130"/>
+<area shape="rect" id="node5" href="$classWsFsTreeClient.html#a09d1b0731dfd55e7e1fad607ff52f948" title="authenticate the user and load it&#39;s params " alt="" coords="203,172,386,199"/>
+<area shape="rect" id="node3" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="465,5,612,46"/>
+<area shape="rect" id="node6" href="$classWsAuthenticator.html#a7ec1a8a40cece9633815c464abdfe125" title="authentify the user. " alt="" coords="447,71,631,97"/>
+<area shape="rect" id="node7" href="$classWsAuthenticator.html#a664f538d9b56c3acab26751202d57770" title="return the user uid WsAuthenticator::authentify must be called before " alt="" coords="456,121,621,148"/>
+<area shape="rect" id="node8" href="$classWsAuthenticator.html#a09985952ce54e40278c1b441c58812bb" title="return the user surname WsAuthenticator::authentify must be called before " alt="" coords="440,172,637,199"/>
+<area shape="rect" id="node9" href="$classWsAuthenticator.html#ae5fd81dfc6a89be3ffed07b320ebb67a" title="return the user name WsAuthenticator::authentify must be called before " alt="" coords="435,223,642,249"/>
+<area shape="rect" id="node10" href="$classWsAuthenticator.html#a8885a806546abcefd8b1638c46ff4b65" title="return the user groups WsAuthenticator::authentify must be called before " alt="" coords="452,274,625,315"/>
+<area shape="rect" id="node11" href="$classWsAuthenticator.html#a65ce0eca03619d85582582ef2ca6ab08" title="return the user email WsAuthenticator::authentify must be called before " alt="" coords="449,340,628,367"/>
+</map>

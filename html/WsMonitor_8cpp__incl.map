@@ -1,0 +1,18 @@
+<map id="src/Updater/WsMonitor.cpp" name="src/Updater/WsMonitor.cpp">
+<area shape="rect" id="node2" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="587,80,726,107"/>
+<area shape="rect" id="node25" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1912,469,2086,496"/>
+<area shape="rect" id="node34" href="$WsMonitor_8h.html" title="Monitors the FileSystem for any modification. " alt="" coords="311,80,407,107"/>
+<area shape="rect" id="node3" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="987,155,1190,197"/>
+<area shape="rect" id="node32" href="$WsAbstractMonitor_8h.html" title="WsAbstractMonitor.h" alt="" coords="448,163,593,189"/>
+<area shape="rect" id="node5" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="763,469,897,496"/>
+<area shape="rect" id="node22" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1347,395,1430,421"/>
+<area shape="rect" id="node26" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1507,320,1609,347"/>
+<area shape="rect" id="node29" href="$WsFileNode_8h.html" title="WsFileNode.h" alt="" coords="1228,245,1333,272"/>
+<area shape="rect" id="node30" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="980,552,1197,579"/>
+<area shape="rect" id="node9" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="1273,552,1506,579"/>
+<area shape="rect" id="node13" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="603,709,737,736"/>
+<area shape="rect" id="node11" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1509,635,1670,661"/>
+<area shape="rect" id="node15" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="234,784,343,811"/>
+<area shape="rect" id="node27" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1795,552,2035,579"/>
+<area shape="rect" id="node28" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="1532,552,1770,579"/>
+</map>

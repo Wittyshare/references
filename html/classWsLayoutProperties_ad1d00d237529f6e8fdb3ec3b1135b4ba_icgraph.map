@@ -1,0 +1,25 @@
+<map id="WsLayoutProperties::get" name="WsLayoutProperties::get">
+<area shape="rect" id="node2" href="$classWsContent.html#a675c10723c88749918d8f18b0486d1cc" title="WsContent::WsContent" alt="" coords="252,28,415,55"/>
+<area shape="rect" id="node3" href="$classWsContent.html#ac6b7e65584572e46daf473493bd690ef" title="WsContent::viewDirectory" alt="" coords="245,79,421,105"/>
+<area shape="rect" id="node11" href="$classWsModulesLoader.html#a3486a083430f524b5f96c181ce3a1b7a" title="WsModulesLoader::removePrefix" alt="" coords="226,129,441,156"/>
+<area shape="rect" id="node23" href="$classWsSearchObject.html#aa27e140c2f69d8e941b9b3b60c2d1641" title="WsSearchObject::WsSearch\lObject" alt="" coords="238,181,429,222"/>
+<area shape="rect" id="node24" href="$classWsSiteMapView.html#a3a2f641712fc0af372d3c0e09884cf84" title="WsSiteMapView::WsSiteMapView" alt="" coords="221,247,445,273"/>
+<area shape="rect" id="node4" href="$classWsContent.html#a07dc0f8e3f6a2aca0afef16679183469" title="WsContent::setPath" alt="" coords="763,28,904,55"/>
+<area shape="rect" id="node10" href="$classWsContent.html#a57e7eeccf6063920de166fec4bd779a0" title="WsContent::selectWidget" alt="" coords="511,79,683,105"/>
+<area shape="rect" id="node5" href="$classWsApplication.html#af7dc5a57f0d2c6c8665448eff58b1ec6" title="WsApplication::doEndDialog\lLogon" alt="" coords="1457,21,1645,62"/>
+<area shape="rect" id="node7" href="$classWsApplication.html#a956434c65f71c50316accd225f8a6eba" title="WsApplication::setTemplate" alt="" coords="965,28,1152,55"/>
+<area shape="rect" id="node9" href="$classWsTemplate.html#aa52e76936f048579c3f30cbd8e89e56e" title="WsTemplate::resolveString" alt="" coords="969,79,1149,105"/>
+<area shape="rect" id="node6" href="$classWsApplication.html#a29ac18bb68852e810b83a2c4a07fc076" title="WsApplication::WsApplication" alt="" coords="1694,28,1893,55"/>
+<area shape="rect" id="node8" href="$classWsApplication.html#a7711df944987d727e7bed0ce8e77d5b6" title="WsApplication::doPathChanged" alt="" coords="1201,79,1407,105"/>
+<area shape="rect" id="node12" href="$classWsModulesLoader.html#ab416060c4fd458f6bddd1960d1b1b772" title="WsModulesLoader::pathWithout\lPrefix" alt="" coords="493,203,701,245"/>
+<area shape="rect" id="node13" href="$classWsTwitterEditorWidget.html#ae562cfff70374e79a2524c682de050fc" title="WsTwitterEditorWidget\l::load" alt="" coords="755,79,912,121"/>
+<area shape="rect" id="node14" href="$classWsTwitterEditorWidget.html#ae473434ccb6d4e35f182cf202c7c3053" title="WsTwitterEditorWidget\l::saveEditor" alt="" coords="755,145,912,186"/>
+<area shape="rect" id="node15" href="$classWsZipEditorWidget.html#a1077db146aec9662710d5fc71b2ae00a" title="Load the widget. " alt="" coords="750,211,917,237"/>
+<area shape="rect" id="node16" href="$classWsZipEditorWidget.html#ae50bab30cf767931698613bc8ad9c400" title="WsZipEditorWidget::\lsaveEditor" alt="" coords="762,262,905,303"/>
+<area shape="rect" id="node17" href="$classWsModZip.html#a68b5155de3288e55e4af783f4576dc5f" title="WsModZip::handleFiles" alt="" coords="754,328,913,355"/>
+<area shape="rect" id="node22" href="$classWsModZip.html#a4828d70acaa9d1e3e568633fcfb2db45" title="WsModZip::handleAll" alt="" coords="760,379,907,405"/>
+<area shape="rect" id="node18" href="$classWsModZip.html#a0302044f92c076aac60d06ce19f0e653" title="WsModZip::handleAccept" alt="" coords="973,353,1145,380"/>
+<area shape="rect" id="node19" href="$classWsModZip.html#a861e0a9290c136361a40164cb9161072" title="WsModZip::handleZipClick" alt="" coords="1215,353,1393,380"/>
+<area shape="rect" id="node20" href="$classWsModZip.html#a15a8b6b3c9d78cc6bfa23a825c3444fe" title="WsModZip::buildMenuBar" alt="" coords="1465,353,1637,380"/>
+<area shape="rect" id="node21" href="$classWsModZip.html#a1b1adb89a0d3a62364d3d26e2d204d41" title="Create the functionalities. " alt="" coords="1702,346,1885,387"/>
+</map>

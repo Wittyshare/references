@@ -1,0 +1,14 @@
+<map id="WsSiteMapView::treeMatchPath" name="WsSiteMapView::treeMatchPath">
+<area shape="rect" id="node2" href="$classWsSiteMapView.html#a794ff22bf5e0af852e27c033678d7479" title="WsSiteMapView::treeTraverse" alt="" coords="267,223,467,249"/>
+<area shape="rect" id="node4" href="$classWsSiteMapView.html#a1f7d324cadbc132aead6aa8ed68e5dac" title="WsSiteMapView::loadTree" alt="" coords="790,172,967,199"/>
+<area shape="rect" id="node3" href="$classWsSiteMapView.html#a9db194eeb759bc3902d6a8d4025d4598" title="WsSiteMapView::onTreeExpanded" alt="" coords="515,223,741,249"/>
+<area shape="rect" id="node12" href="$classWsSiteMapItem.html#a753e74818bb05cd567c255c5c149869d" title="WsSiteMapItem::node" alt="" coords="1261,265,1413,292"/>
+<area shape="rect" id="node5" href="$classWsSiteMapView.html#ad8fb71212de0db6f2917ce57a4888d0f" title="WsSiteMapView::path2Site\lMapPath" alt="" coords="1018,5,1201,46"/>
+<area shape="rect" id="node6" href="$classWsUser.html#a24992f478eacf012bef6aa04018dab3e" title="WsUser::isAdministrator" alt="" coords="1027,71,1192,97"/>
+<area shape="rect" id="node8" href="$classWsUser.html#aec1d48fdef3f51e8f0975ec2ea38f504" title="WsUser::isEditor" alt="" coords="1048,121,1171,148"/>
+<area shape="rect" id="node10" href="$classWsSiteMapView.html#a7191e0dd440983e3090d3433f8b5d209" title="WsSiteMapView::loadFolder" alt="" coords="1016,223,1203,249"/>
+<area shape="rect" id="node13" href="$classWsSiteMapView.html#a6dfd3f46a185aa8ba19ee996050d400b" title="WsSiteMapView::loadFile" alt="" coords="1023,172,1195,199"/>
+<area shape="rect" id="node7" href="$classWsAbstractFsClient.html#aa4699b93273ca4466afadc5b944cf27f" title="WsAbstractFsClient\l::isAdministrator" alt="" coords="1267,57,1407,98"/>
+<area shape="rect" id="node9" href="$classWsAbstractFsClient.html#ada5a57e9059061f9fb055ae0534b9f7b" title="WsAbstractFsClient\l::isEditor" alt="" coords="1267,122,1407,163"/>
+<area shape="rect" id="node11" href="$classWsSiteMapItem.html#a0a4b0ad1b0f5335ebe1f474ac714819a" title="WsSiteMapItem::setNode" alt="" coords="1251,197,1424,224"/>
+</map>

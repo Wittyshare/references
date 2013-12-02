@@ -1,0 +1,7 @@
+<map id="WsMonitor::startCallBack" name="WsMonitor::startCallBack">
+<area shape="rect" id="node2" href="$classWsMonitor.html#aa32cab0265d0b81d5937126b46325b41" title="Called when a change occurs on a file monitored. " alt="" coords="227,45,354,72"/>
+<area shape="rect" id="node3" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="416,7,555,49"/>
+<area shape="rect" id="node5" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="403,75,567,101"/>
+<area shape="rect" id="node4" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="619,5,765,46"/>
+<area shape="rect" id="node6" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="617,70,767,111"/>
+</map>

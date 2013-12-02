@@ -1,0 +1,4 @@
+<map id="WsNode::getFiles" name="WsNode::getFiles">
+<area shape="rect" id="node2" href="$classWsNode.html#a68151d8d1aefb6041f9b395a2be8749d" title="sort the nodes using the sort number or the name if not provided " alt="" coords="182,5,285,32"/>
+<area shape="rect" id="node3" href="$classWsNode.html#af6decf1365e61fbe5ef93e5c25c5db69" title="get a node property reprensented by section/id If no value found, the value def is returned ..." alt="" coords="334,5,482,32"/>
+</map>

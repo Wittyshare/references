@@ -1,0 +1,5 @@
+<map id="WsSearchRSS::traverseFile" name="WsSearchRSS::traverseFile">
+<area shape="rect" id="node2" href="$classWsNode.html#a263f4af2306fab257a7b4a88e72de7dd" title="get the properties of the node If the properties are not set (no conf found, or node retrieved from s..." alt="" coords="257,5,415,32"/>
+<area shape="rect" id="node3" href="$classWsNode.html#a29b827ddab4ddba9db66d15845a3cb05" title="returns the relative path of the node " alt="" coords="273,56,399,83"/>
+<area shape="rect" id="node4" href="$classWsFileNode.html#acf1f5d2db13f65937df7e70a8ded2ca1" title="returns the publish date of the file " alt="" coords="241,107,431,133"/>
+</map>

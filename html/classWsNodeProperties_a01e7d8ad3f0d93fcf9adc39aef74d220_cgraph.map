@@ -1,0 +1,8 @@
+<map id="WsNodeProperties::isAllowed" name="WsNodeProperties::isAllowed">
+<area shape="rect" id="node2" href="$classWsNodeProperties.html#a8c4d77ca3d1f4800f0a6f5557c58df8a" title="Returns the groups that have access to the node If no groups are found in the file, an empty set is returned. " alt="" coords="251,36,451,62"/>
+<area shape="rect" id="node3" href="$classWsNodeProperties.html#acee2f6235f3888378771b2be26b3dc69" title="Get path of the node which the configuration belongs to. " alt="" coords="499,6,685,33"/>
+<area shape="rect" id="node4" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="517,79,667,120"/>
+<area shape="rect" id="node5" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="281,188,420,230"/>
+<area shape="rect" id="node7" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="269,137,433,164"/>
+<area shape="rect" id="node6" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="519,188,665,230"/>
+</map>

@@ -1,0 +1,26 @@
+<map id="WsContent::selectWidget" name="WsContent::selectWidget">
+<area shape="rect" id="node2" href="$classWsContent.html#a76963d6e8fdb93f841cd04bf48002db5" title="WsContent::clear" alt="" coords="478,5,602,32"/>
+<area shape="rect" id="node3" href="$classWsContent.html#ac6b7e65584572e46daf473493bd690ef" title="WsContent::viewDirectory" alt="" coords="229,140,405,167"/>
+<area shape="rect" id="node15" href="$classWsModule.html#a04e647cf7d62f01cb313b17882c58a45" title="WsModule::isLoaded" alt="" coords="245,191,389,217"/>
+<area shape="rect" id="node16" href="$classWsModule.html#a0c2bcda32270c4c4df4b608a063367f2" title="WsModule::fileName" alt="" coords="245,241,389,268"/>
+<area shape="rect" id="node17" href="$classWsModule.html#afde919cc72b6789a49ed70991a2632a0" title="WsModule::extension" alt="" coords="243,292,391,319"/>
+<area shape="rect" id="node18" href="$classWsModule.html#a92693e3cfafb573455b6b3d11f6a4a99" title="WsModule::hideImages" alt="" coords="238,343,397,369"/>
+<area shape="rect" id="node19" href="$classWsModule.html#afd81a44b2d3e5a8eab2b710c7dc365ad" title="Set/Get the system path (example the selected file /var/www/mysite/about/me.fhtml). " alt="" coords="237,393,397,420"/>
+<area shape="rect" id="node21" href="$classWsModule.html#a3626bdda2acd874619d4b3dba75a00c2" title="Set/Get the difference between the web server (example Apache /var/www) root path and the wittishare ..." alt="" coords="238,444,397,471"/>
+<area shape="rect" id="node23" href="$classWsModule.html#afa69d8c1738d9dc15d7bc266738c64b2" title="WsModule::moduleName" alt="" coords="233,495,402,521"/>
+<area shape="rect" id="node24" href="$classWsModule.html#a8d4a39097c5906c52e9a99e11f86c50d" title="Create the contents. " alt="" coords="227,545,408,572"/>
+<area shape="rect" id="node25" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="252,596,383,623"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="456,56,624,83"/>
+<area shape="rect" id="node6" href="$classWsUser.html#a24992f478eacf012bef6aa04018dab3e" title="WsUser::isAdministrator" alt="" coords="457,107,623,133"/>
+<area shape="rect" id="node8" href="$classWsUser.html#aec1d48fdef3f51e8f0975ec2ea38f504" title="WsUser::isEditor" alt="" coords="479,157,601,184"/>
+<area shape="rect" id="node10" href="$classWsLayoutProperties.html#a1467b795cdaf3370f5ad0790901720be" title="Get the singleton instance. " alt="" coords="470,209,610,250"/>
+<area shape="rect" id="node12" href="$classWsLayoutProperties.html#ad1d00d237529f6e8fdb3ec3b1135b4ba" title="WsLayoutProperties::get" alt="" coords="457,275,623,301"/>
+<area shape="rect" id="node14" href="$classWsOptions.html#a1d6f864ac2feb47570c535d1251c2b54" title="Set an options if previously set, update the value. " alt="" coords="465,325,615,352"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="678,19,818,61"/>
+<area shape="rect" id="node7" href="$classWsAbstractFsClient.html#aa4699b93273ca4466afadc5b944cf27f" title="WsAbstractFsClient\l::isAdministrator" alt="" coords="678,85,818,126"/>
+<area shape="rect" id="node9" href="$classWsAbstractFsClient.html#ada5a57e9059061f9fb055ae0534b9f7b" title="WsAbstractFsClient\l::isEditor" alt="" coords="678,150,818,191"/>
+<area shape="rect" id="node11" href="$classWsLayoutProperties.html#a45ec92c0b851148be2526257fe8528dc" title="Default Constructor. " alt="" coords="674,215,822,257"/>
+<area shape="rect" id="node13" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="673,281,823,322"/>
+<area shape="rect" id="node20" href="$classWsModule.html#a28f73a82cd5bdcf04a4fb0f66fe62507" title="WsModule::sysPath" alt="" coords="470,393,610,420"/>
+<area shape="rect" id="node22" href="$classWsModule.html#a6a09416271fad86374a717ec61d4c700" title="WsModule::diffPath" alt="" coords="471,444,609,471"/>
+</map>

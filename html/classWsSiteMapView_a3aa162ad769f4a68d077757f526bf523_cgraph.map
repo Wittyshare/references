@@ -1,0 +1,26 @@
+<map id="WsSiteMapView::load" name="WsSiteMapView::load">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="255,5,385,32"/>
+<area shape="rect" id="node3" href="$classWsSiteMapView.html#acf11ed3c01c93c2bdfde100baa439b9a" title="WsSiteMapView::onTreeSelection\lChanged" alt="" coords="209,107,431,149"/>
+<area shape="rect" id="node5" href="$classWsSiteMapView.html#a1f7d324cadbc132aead6aa8ed68e5dac" title="WsSiteMapView::loadTree" alt="" coords="497,144,674,171"/>
+<area shape="rect" id="node14" href="$classWsSiteMapView.html#a9db194eeb759bc3902d6a8d4025d4598" title="WsSiteMapView::onTreeExpanded" alt="" coords="207,56,433,83"/>
+<area shape="rect" id="node15" href="$classWsSiteMapView.html#afe8b0ff22e05999c413221a54f994cbc" title="WsSiteMapView::onDirectory\lNameChanged" alt="" coords="488,458,683,499"/>
+<area shape="rect" id="node17" href="$classWsSiteMapView.html#a016194d400cc98d8f6873a48c31845bd" title="WsSiteMapView::onViewDbl\lClick" alt="" coords="225,290,415,331"/>
+<area shape="rect" id="node19" href="$classWsSiteMapView.html#a67390beccd8c76a563efc08720c1592c" title="WsSiteMapView::onViewSelection\lChanged" alt="" coords="208,225,432,266"/>
+<area shape="rect" id="node20" href="$classWsSiteMapView.html#abd2d51841f4d6446c1b8bfbb109fa0c7" title="WsSiteMapView::onViewExpanded" alt="" coords="206,407,434,433"/>
+<area shape="rect" id="node21" href="$classWsSiteMapView.html#a679ed21bb02616e04961785c15eec9bc" title="WsSiteMapView::makeToolbar" alt="" coords="219,356,421,383"/>
+<area shape="rect" id="node4" href="$classWsSiteMapItem.html#a753e74818bb05cd567c255c5c149869d" title="WsSiteMapItem::node" alt="" coords="1027,43,1179,69"/>
+<area shape="rect" id="node6" href="$classWsSiteMapView.html#ad8fb71212de0db6f2917ce57a4888d0f" title="WsSiteMapView::path2Site\lMapPath" alt="" coords="761,246,943,287"/>
+<area shape="rect" id="node7" href="$classWsUser.html#a24992f478eacf012bef6aa04018dab3e" title="WsUser::isAdministrator" alt="" coords="769,195,935,221"/>
+<area shape="rect" id="node9" href="$classWsUser.html#aec1d48fdef3f51e8f0975ec2ea38f504" title="WsUser::isEditor" alt="" coords="791,312,913,339"/>
+<area shape="rect" id="node11" href="$classWsSiteMapView.html#a7191e0dd440983e3090d3433f8b5d209" title="WsSiteMapView::loadFolder" alt="" coords="759,93,945,120"/>
+<area shape="rect" id="node13" href="$classWsSiteMapView.html#a6dfd3f46a185aa8ba19ee996050d400b" title="WsSiteMapView::loadFile" alt="" coords="766,144,938,171"/>
+<area shape="rect" id="node8" href="$classWsAbstractFsClient.html#aa4699b93273ca4466afadc5b944cf27f" title="WsAbstractFsClient\l::isAdministrator" alt="" coords="1033,187,1173,229"/>
+<area shape="rect" id="node10" href="$classWsAbstractFsClient.html#ada5a57e9059061f9fb055ae0534b9f7b" title="WsAbstractFsClient\l::isEditor" alt="" coords="1033,305,1173,346"/>
+<area shape="rect" id="node12" href="$classWsSiteMapItem.html#a0a4b0ad1b0f5335ebe1f474ac714819a" title="WsSiteMapItem::setNode" alt="" coords="1016,115,1189,141"/>
+<area shape="rect" id="node16" href="$classWsSiteMapView.html#a10b1af4aba90f3d1da198a62c2f3c9cc" title="WsSiteMapView::currentFolderPath" alt="" coords="737,439,967,465"/>
+<area shape="rect" id="node18" href="$classWsSiteMapView.html#aeeb8d769c5b9dc2a01cea03520a58c2d" title="WsSiteMapView::fileSelected" alt="" coords="488,236,683,263"/>
+<area shape="rect" id="node22" href="$classWsSiteMapView.html#a3de282b95698f38ff9b08ac1b74a4607" title="WsSiteMapView::doNewFolder" alt="" coords="483,356,687,383"/>
+<area shape="rect" id="node23" href="$classWsSiteMapView.html#aac60ad275a96c896c4626338152cb174" title="WsSiteMapView::doConfirm\lDelete" alt="" coords="492,290,679,331"/>
+<area shape="rect" id="node25" href="$classWsSiteMapView.html#a9f2d66c94232be461436bee206923be9" title="WsSiteMapView::doRename" alt="" coords="490,407,681,433"/>
+<area shape="rect" id="node24" href="$classWsSiteMapView.html#acc1003159da3b0899c228a247530e3bb" title="WsSiteMapView::doDelete" alt="" coords="763,363,941,389"/>
+</map>

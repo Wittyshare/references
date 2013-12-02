@@ -1,0 +1,9 @@
+<map id="WsImages2::doImageClicked" name="WsImages2::doImageClicked">
+<area shape="rect" id="node2" href="$classWsImages2.html#a36d13eac56aa512ec4c8f4e4460b9a34" title="Load the image with the current index. " alt="" coords="248,59,408,86"/>
+<area shape="rect" id="node3" href="$classWsImages2.html#a4ac10be38f5e0df1371f2ad786f8f599" title="Load the widget (traditional wt virtual function). " alt="" coords="953,34,1077,61"/>
+<area shape="rect" id="node6" href="$classWsImages2.html#a9857a340a54c4661daacaa2721ee3638" title="WsImages2::doTimeout" alt="" coords="478,34,639,61"/>
+<area shape="rect" id="node8" href="$classWsImages2.html#ac9066c5e59e94028a1a3b12e5202e613" title="WsImages2::doCounterClicked" alt="" coords="457,85,661,111"/>
+<area shape="rect" id="node4" href="$classWsBanners.html#a78660b1f68c212ab28696709a0b091f8" title="WsBanners::doPathChanged" alt="" coords="1126,34,1317,61"/>
+<area shape="rect" id="node5" href="$classWsBanners.html#a7266b37e6fffed081ac2c5da2b00a7fd" title="WsBanners::load" alt="" coords="1365,34,1488,61"/>
+<area shape="rect" id="node7" href="$classWsImages2.html#af8e9dbd06e23e3a36004b3ec056449a6" title="WsImages2::doPathChanged" alt="" coords="710,85,903,111"/>
+</map>

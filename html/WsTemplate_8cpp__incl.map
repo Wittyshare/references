@@ -1,0 +1,46 @@
+<map id="src/Main/WsTemplate.cpp" name="src/Main/WsTemplate.cpp">
+<area shape="rect" id="node3" href="$WsLayoutProperties_8h.html" title="ConfigManager/WsLayoutProperties.h" alt="" coords="1203,320,1445,347"/>
+<area shape="rect" id="node14" href="$WsUser_8h.html" title="User class. " alt="" coords="1102,395,1215,421"/>
+<area shape="rect" id="node55" href="$WsLogo_8h.html" title="Main/WsLogo.h" alt="" coords="227,88,340,115"/>
+<area shape="rect" id="node58" href="$WsSiteMap_8h.html" title="Main/WsSiteMap.h" alt="" coords="944,171,1077,197"/>
+<area shape="rect" id="node59" href="$WsSearchObject_8h.html" title="Main/WsSearchObject.h" alt="" coords="681,88,844,115"/>
+<area shape="rect" id="node61" href="$WsTopBanner_8h.html" title="Main/WsTopBanner.h" alt="" coords="106,171,253,197"/>
+<area shape="rect" id="node62" href="$WsBottomBanner_8h.html" title="Main/WsBottomBanner.h" alt="" coords="329,245,497,272"/>
+<area shape="rect" id="node64" href="$WsContentButtonsBar_8h.html" title="Main/WsContentButtonsBar.h" alt="" coords="2779,320,2975,347"/>
+<area shape="rect" id="node70" href="$WsFunctionnalities_8h.html" title="Main/WsFunctionnalities.h" alt="" coords="744,171,920,197"/>
+<area shape="rect" id="node71" href="$WsContent_8h.html" title="Main/WsContent.h" alt="" coords="1400,245,1529,272"/>
+<area shape="rect" id="node80" href="$WsTemplate_8h.html" title="WsTemplate.h" alt="" coords="1557,88,1664,115"/>
+<area shape="rect" id="node4" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1847,1339,2008,1365"/>
+<area shape="rect" id="node7" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="914,1413,1048,1440"/>
+<area shape="rect" id="node9" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="72,1488,181,1515"/>
+<area shape="rect" id="node16" href="$WsAbstractFsClient_8h.html" title="FsClient/WsAbstractFsClient.h" alt="" coords="2009,768,2212,795"/>
+<area shape="rect" id="node33" href="$WsFsTreeClient_8h.html" title="Interacts directly with the menuTree and the fsTree. " alt="" coords="1128,469,1309,496"/>
+<area shape="rect" id="node18" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="1811,1256,2044,1283"/>
+<area shape="rect" id="node20" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="1543,1158,1729,1199"/>
+<area shape="rect" id="node24" href="$WsResultItem_8h.html" title="Search/WsResultItem.h" alt="" coords="1019,851,1181,877"/>
+<area shape="rect" id="node25" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="1811,933,2012,960"/>
+<area shape="rect" id="node26" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1886,1083,1969,1109"/>
+<area shape="rect" id="node30" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="2108,1008,2209,1035"/>
+<area shape="rect" id="node29" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="2595,1165,2769,1192"/>
+<area shape="rect" id="node31" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="2386,1083,2627,1109"/>
+<area shape="rect" id="node32" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="2070,1256,2308,1283"/>
+<area shape="rect" id="node34" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="1313,693,1503,720"/>
+<area shape="rect" id="node40" href="$WsMenuTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1528,693,1668,720"/>
+<area shape="rect" id="node43" href="$WsFsTreeOperations_8h.html" title="FsTreeOp/WsFsTreeOperations.h" alt="" coords="1109,544,1328,571"/>
+<area shape="rect" id="node44" href="$WsAccessTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1033,693,1185,720"/>
+<area shape="rect" id="node47" href="$WsAuthenticator_8h.html" title="Auth/WsAuthenticator.h" alt="" coords="309,1165,469,1192"/>
+<area shape="rect" id="node49" href="$WsSearch_8h.html" title="Search/WsSearch.h" alt="" coords="707,693,845,720"/>
+<area shape="rect" id="node35" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1309,843,1512,885"/>
+<area shape="rect" id="node38" href="$WsAbstractMonitor_8h.html" title="WsAbstractMonitor.h" alt="" coords="1414,768,1559,795"/>
+<area shape="rect" id="node36" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="1082,1256,1299,1283"/>
+<area shape="rect" id="node41" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="1635,768,1763,795"/>
+<area shape="rect" id="node42" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="1803,851,2020,877"/>
+<area shape="rect" id="node45" href="$WsFsTreeConsultation_8h.html" title="WsFsTreeConsultation.h" alt="" coords="1135,619,1301,645"/>
+<area shape="rect" id="node46" href="$WsFsTreeModification_8h.html" title="WsFsTreeModification.h" alt="" coords="1326,619,1489,645"/>
+<area shape="rect" id="node48" href="$WsAbstractAuth_8h.html" title="WsAbstractAuth.h" alt="" coords="307,1256,436,1283"/>
+<area shape="rect" id="node50" href="$WsAbstractSearch_8h.html" title="WsAbstractSearch.h" alt="" coords="705,768,847,795"/>
+<area shape="rect" id="node74" href="$WsSiteMapView_8h.html" title="WsSiteMapView.h" alt="" coords="1792,320,1921,347"/>
+<area shape="rect" id="node82" href="$WsApplication_8h.html" title="Main/WsApplication.h" alt="" coords="1753,171,1901,197"/>
+<area shape="rect" id="node84" href="$WsModulesLoader_8h.html" title="Main/WsModulesLoader.h" alt="" coords="1741,245,1915,272"/>
+<area shape="rect" id="node85" href="$WsModule_8h.html" title="base class for building a wittyShare module " alt="" coords="2379,320,2573,347"/>
+</map>

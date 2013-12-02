@@ -1,0 +1,12 @@
+<map id="WsMenu::createMenu" name="WsMenu::createMenu">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="453,34,584,61"/>
+<area shape="rect" id="node3" href="$classWsUser.html#a24992f478eacf012bef6aa04018dab3e" title="WsUser::isAdministrator" alt="" coords="220,186,385,213"/>
+<area shape="rect" id="node5" href="$classWsUser.html#aec1d48fdef3f51e8f0975ec2ea38f504" title="WsUser::isEditor" alt="" coords="241,241,364,267"/>
+<area shape="rect" id="node7" href="$classWsMenu.html#af0bcd416673b0efa1e4c8021ccbeb52b" title="WsMenu::makeLink" alt="" coords="449,103,588,130"/>
+<area shape="rect" id="node10" href="$classWsMenu.html#a753266c760883a11a0678c2c70952db5" title="WsMenu::loadPopupMenu" alt="" coords="215,85,390,111"/>
+<area shape="rect" id="node11" href="$classWsMenu.html#a7efb0017f49d3e9a84850c427203bec3" title="WsMenu::onMouseWentOver" alt="" coords="205,34,400,61"/>
+<area shape="rect" id="node4" href="$classWsAbstractFsClient.html#aa4699b93273ca4466afadc5b944cf27f" title="WsAbstractFsClient\l::isAdministrator" alt="" coords="449,175,589,216"/>
+<area shape="rect" id="node6" href="$classWsAbstractFsClient.html#ada5a57e9059061f9fb055ae0534b9f7b" title="WsAbstractFsClient\l::isEditor" alt="" coords="449,240,589,281"/>
+<area shape="rect" id="node8" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="638,103,789,130"/>
+<area shape="rect" id="node9" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="838,96,978,137"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WsTreeTraversal::traverse" name="WsTreeTraversal::traverse">
+<area shape="rect" id="node2" href="$classWsTreeTraversal.html#a70db8a7ce31fa3542c6bfc31ac3e64ba" title="Called when a directory is being traversed. " alt="" coords="232,5,461,32"/>
+<area shape="rect" id="node3" href="$classWsTreeTraversal.html#a3a31ed8b8e898c03bb608d4633af1c1b" title="Traverses WsDirNodes recusively. " alt="" coords="258,57,435,98"/>
+<area shape="rect" id="node4" href="$classWsTreeTraversal.html#afd9db306d1b77ae7e3d3a630afc03abb" title="Traverse a file and calls WsTreeTraversal::traverseFile() method. " alt="" coords="258,122,435,163"/>
+<area shape="rect" id="node6" href="$classWsTreeTraversal.html#a7c0efbef419d3a672e9ef2d66f542822" title="Called when a directory has been completely traversed. ie all subnodes(recursively all sub nodes of s..." alt="" coords="237,188,456,215"/>
+<area shape="rect" id="node5" href="$classWsTreeTraversal.html#a5ecb2a97a931a65208df91b18909e8c6" title="Called when traversing a fileNode. " alt="" coords="510,129,709,156"/>
+</map>

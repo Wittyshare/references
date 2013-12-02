@@ -1,0 +1,11 @@
+<map id="WsTreeSerializer::addSub" name="WsTreeSerializer::addSub">
+<area shape="rect" id="node2" href="$classWsTreeSerializer.html#ab872a2e213e5e9c6388f06d4ff234549" title="serialize the given data structur " alt="" coords="229,56,408,83"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#a7489104db6b4f2bed5cc9bde54f56ffa" title="Sends the menu to the client. " alt="" coords="465,5,698,32"/>
+<area shape="rect" id="node9" href="$classWsFsDaemon.html#ada46a4431354c0044cb6c7848b9477fe" title="Sends the menu to the client, the client requested a menu with exclusion of extensions. " alt="" coords="457,56,706,83"/>
+<area shape="rect" id="node10" href="$classWsFsDaemon.html#aa38824768bd38f4ad48df27342d7d8c0" title="Sends the accesstree to the client. " alt="" coords="483,107,679,149"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="755,56,957,83"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="1005,56,1144,83"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1456,56,1635,83"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1192,81,1408,108"/>
+<area shape="rect" id="node7" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1683,56,1733,83"/>
+</map>

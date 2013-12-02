@@ -1,0 +1,9 @@
+<map id="WsApplication::contentButtonsBar" name="WsApplication::contentButtonsBar">
+<area shape="rect" id="node2" href="$classWsModule.html#a540fdf240488acf3e451ce98a2ca5027" title="WittyShare provide a container to add some buttons like export page in pdf, ..., This function allow ..." alt="" coords="277,77,477,104"/>
+<area shape="rect" id="node3" href="$classWsModRSS.html#a149db73c1c9c8f6f680b3a55afcd5cc4" title="WsModRSS::buildMenuBar" alt="" coords="531,20,714,47"/>
+<area shape="rect" id="node5" href="$classWsModTwitter.html#a308528b09520fed2df10890c662ef019" title="WsModTwitter::buildMenuBar" alt="" coords="525,77,720,104"/>
+<area shape="rect" id="node7" href="$classWsModZip.html#a15a8b6b3c9d78cc6bfa23a825c3444fe" title="WsModZip::buildMenuBar" alt="" coords="537,135,709,161"/>
+<area shape="rect" id="node4" href="$classWsModRSS.html#ab129e34d397a22348c9f0ffbfd32b921" title="Create the functionalities. " alt="" coords="775,5,967,46"/>
+<area shape="rect" id="node6" href="$classWsModTwitter.html#ad146fcd2961141054b29923e7988a282" title="Create the functionalities. " alt="" coords="769,70,973,111"/>
+<area shape="rect" id="node8" href="$classWsModZip.html#a1b1adb89a0d3a62364d3d26e2d204d41" title="Create the functionalities. " alt="" coords="779,135,962,177"/>
+</map>

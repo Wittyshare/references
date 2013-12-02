@@ -1,0 +1,17 @@
+<map id="src/Tree/WsAbstractTree.cpp" name="src/Tree/WsAbstractTree.cpp">
+<area shape="rect" id="node2" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="1313,80,1441,107"/>
+<area shape="rect" id="node25" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1690,477,1864,504"/>
+<area shape="rect" id="node3" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="1269,163,1485,189"/>
+<area shape="rect" id="node30" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="774,155,977,197"/>
+<area shape="rect" id="node4" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="775,470,961,511"/>
+<area shape="rect" id="node22" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1159,395,1339,421"/>
+<area shape="rect" id="node26" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="1087,245,1288,272"/>
+<area shape="rect" id="node27" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1364,320,1465,347"/>
+<area shape="rect" id="node8" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="939,568,1172,595"/>
+<area shape="rect" id="node13" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="421,725,555,752"/>
+<area shape="rect" id="node11" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1105,651,1265,677"/>
+<area shape="rect" id="node15" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="25,800,135,827"/>
+<area shape="rect" id="node28" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1522,568,1763,595"/>
+<area shape="rect" id="node29" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="1259,568,1497,595"/>
+<area shape="rect" id="node31" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="127,568,344,595"/>
+</map>

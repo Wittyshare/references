@@ -1,0 +1,8 @@
+<map id="WsUser::getPermissions" name="WsUser::getPermissions">
+<area shape="rect" id="node2" href="$classWsApplication.html#af7dc5a57f0d2c6c8665448eff58b1ec6" title="WsApplication::doEndDialog\lLogon" alt="" coords="902,49,1090,90"/>
+<area shape="rect" id="node4" href="$classWsContent.html#a07dc0f8e3f6a2aca0afef16679183469" title="WsContent::setPath" alt="" coords="221,56,363,83"/>
+<area shape="rect" id="node3" href="$classWsApplication.html#a29ac18bb68852e810b83a2c4a07fc076" title="WsApplication::WsApplication" alt="" coords="1139,56,1338,83"/>
+<area shape="rect" id="node5" href="$classWsApplication.html#a956434c65f71c50316accd225f8a6eba" title="WsApplication::setTemplate" alt="" coords="411,81,597,108"/>
+<area shape="rect" id="node7" href="$classWsTemplate.html#aa52e76936f048579c3f30cbd8e89e56e" title="WsTemplate::resolveString" alt="" coords="414,132,594,159"/>
+<area shape="rect" id="node6" href="$classWsApplication.html#a7711df944987d727e7bed0ce8e77d5b6" title="WsApplication::doPathChanged" alt="" coords="646,132,853,159"/>
+</map>

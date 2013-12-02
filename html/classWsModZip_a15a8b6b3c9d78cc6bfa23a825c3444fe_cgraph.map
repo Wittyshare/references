@@ -1,0 +1,28 @@
+<map id="WsModZip::buildMenuBar" name="WsModZip::buildMenuBar">
+<area shape="rect" id="node2" href="$classWsModule.html#a540fdf240488acf3e451ce98a2ca5027" title="WittyShare provide a container to add some buttons like export page in pdf, ..., This function allow ..." alt="" coords="227,184,427,211"/>
+<area shape="rect" id="node5" href="$classWsModZip.html#a861e0a9290c136361a40164cb9161072" title="WsModZip::handleZipClick" alt="" coords="237,319,416,345"/>
+<area shape="rect" id="node3" href="$classWsApplication.html#a285ae98ebb97586280ead2c75a09ed3b" title="Facility function to access the application object. " alt="" coords="1228,217,1409,244"/>
+<area shape="rect" id="node4" href="$classWsApplication.html#a986654b8bffba63e49011ead31ccf738" title="WsApplication::contentButtonsBar" alt="" coords="475,184,698,211"/>
+<area shape="rect" id="node6" href="$classWsModZip.html#a0302044f92c076aac60d06ce19f0e653" title="WsModZip::handleAccept" alt="" coords="501,319,673,345"/>
+<area shape="rect" id="node27" href="$classWsModZip.html#acb60b69dcaa0cdb96858ed21cba7b18b" title="WsModZip::handleReject" alt="" coords="502,369,671,396"/>
+<area shape="rect" id="node7" href="$classWsModZip.html#a4828d70acaa9d1e3e568633fcfb2db45" title="WsModZip::handleAll" alt="" coords="753,369,900,396"/>
+<area shape="rect" id="node26" href="$classWsModZip.html#a68b5155de3288e55e4af783f4576dc5f" title="WsModZip::handleFiles" alt="" coords="747,319,906,345"/>
+<area shape="rect" id="node8" href="$classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f" title="WsApplication::wsUser" alt="" coords="1239,373,1398,400"/>
+<area shape="rect" id="node9" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="1235,521,1403,548"/>
+<area shape="rect" id="node11" href="$classWsApplication.html#aa751632837b55b08d1d9557eb15cb52a" title="WsApplication::WsModules" alt="" coords="967,369,1150,396"/>
+<area shape="rect" id="node12" href="$classWsModulesLoader.html#ab416060c4fd458f6bddd1960d1b1b772" title="WsModulesLoader::pathWithout\lPrefix" alt="" coords="955,151,1163,193"/>
+<area shape="rect" id="node21" href="$classWsModZip.html#ad4273b6cff6959fe418d16b8d5477533" title="Append the file to the zip. " alt="" coords="1235,623,1403,649"/>
+<area shape="rect" id="node22" href="$classWsModZip.html#a34eb1d111dc2d35d928b001ed0135f75" title="A. " alt="" coords="971,521,1146,548"/>
+<area shape="rect" id="node23" href="$classWsModZip.html#abb67852121ad151ead5368091f8a989a" title="WsModZip::writeAndCloseZip" alt="" coords="961,268,1157,295"/>
+<area shape="rect" id="node10" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="1503,514,1643,555"/>
+<area shape="rect" id="node13" href="$classWsModulesLoader.html#a3486a083430f524b5f96c181ce3a1b7a" title="WsModulesLoader::removePrefix" alt="" coords="1211,144,1426,171"/>
+<area shape="rect" id="node14" href="$classWsLayoutProperties.html#a1467b795cdaf3370f5ad0790901720be" title="Get the singleton instance. " alt="" coords="1503,107,1643,149"/>
+<area shape="rect" id="node16" href="$classWsLayoutProperties.html#ad1d00d237529f6e8fdb3ec3b1135b4ba" title="WsLayoutProperties::get" alt="" coords="1490,173,1657,200"/>
+<area shape="rect" id="node18" href="$classWsModulesLoader.html#a5469c485c29608bfb81468cc7c08a115" title="WsModulesLoader::modules" alt="" coords="1480,224,1667,251"/>
+<area shape="rect" id="node19" href="$classWsModule.html#a46cd4225764c03a9c92672f947f9ff4f" title="WsModule::prefix" alt="" coords="1734,29,1858,56"/>
+<area shape="rect" id="node20" href="$classWsModule.html#a5498983cf36578fab497332b32345092" title="return the relative path without the prefix : example pathWithoutPrefix(&quot;/SiteMap/Test&quot;) return &quot;/Tes..." alt="" coords="1475,5,1671,32"/>
+<area shape="rect" id="node15" href="$classWsLayoutProperties.html#a45ec92c0b851148be2526257fe8528dc" title="Default Constructor. " alt="" coords="1722,103,1870,145"/>
+<area shape="rect" id="node17" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="1721,169,1871,210"/>
+<area shape="rect" id="node24" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="1243,275,1394,301"/>
+<area shape="rect" id="node25" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="1503,275,1643,317"/>
+</map>

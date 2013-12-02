@@ -1,0 +1,7 @@
+<map id="WsTreeTraversal" name="WsTreeTraversal">
+<area shape="rect" id="node2" href="$classWsAbstractTree.html" title="Abstract class representing an WsAccessTree or WsMenuTree. " alt="" coords="77,235,221,591"/>
+<area shape="rect" id="node5" href="$classWsLatestNews.html" title="{WsLatestNews\n|&#45; m_vect\l&#45; m_maxSize\l|+ WsLatestNews()\l+ getLatestNews()\l&#45; beginTraverseDir()\l&#45; endTraverseDir()\l&#45; traverseFile()\l}" alt="" coords="246,338,383,489"/>
+<area shape="rect" id="node6" href="$classWsSearchRSS.html" title="{WsSearchRSS\n|&#45; m_vect\l&#45; m_maxSize\l|+ WsSearchRSS()\l+ getRSS()\l&#45; beginTraverseDir()\l&#45; endTraverseDir()\l&#45; traverseFile()\l}" alt="" coords="407,338,544,489"/>
+<area shape="rect" id="node3" href="$classWsAccessTree.html" title="Reprensents an access tree. " alt="" coords="5,655,136,777"/>
+<area shape="rect" id="node4" href="$classWsMenuTree.html" title="Reprensents a MenuTree. " alt="" coords="161,641,297,791"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="WsFsDaemonClient::rawDataToString" name="WsFsDaemonClient::rawDataToString">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#af4661a8e5332f6a1f4c84f630302e9eb" title="receive a string from the daemon. " alt="" coords="251,328,442,355"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#a00d08d111f383888751ad5664309ca44" title="receive the answer after performing an Auth request to the daemon " alt="" coords="491,5,682,46"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#a7fcf6b52b636039059f26ccbf506effd" title="receive the success code after a request that returns a SUCCESS or FAILURE answer only ..." alt="" coords="755,262,946,303"/>
+<area shape="rect" id="node14" href="$classWsFsDaemonClient.html#a0b50df7688e0213225d814f43e5a4517" title="receive the menu items after a getMenuRoot request " alt="" coords="491,138,682,179"/>
+<area shape="rect" id="node17" href="$classWsFsDaemonClient.html#a293da2fab35e5f26e9cec8663f21db8a" title="receive the access tree items after a getAccessRoot request " alt="" coords="491,203,682,245"/>
+<area shape="rect" id="node19" href="$classWsFsDaemonClient.html#ad4d1f7d60cb8641ebc55a9ff32fe557a" title="receive the answer of a permission request " alt="" coords="491,321,682,362"/>
+<area shape="rect" id="node21" href="$classWsFsDaemonClient.html#a51c7cf8b76963fea9eecf41b77bd376f" title="receive the properties after a getProperties request " alt="" coords="491,386,682,427"/>
+<area shape="rect" id="node23" href="$classWsFsDaemonClient.html#aa34b6f77a5da17a6ac8687d400fc6b15" title="receive a property after a getProperty request " alt="" coords="491,451,682,493"/>
+<area shape="rect" id="node25" href="$classWsFsDaemonClient.html#ac2fb37cdc3fe98eba12ee3e85a68ea18" title="receive the search results after a getSearchResults() request " alt="" coords="491,517,682,558"/>
+<area shape="rect" id="node27" href="$classWsFsDaemonClient.html#ae2a8fb8d6036bc98191728a699c139f0" title="receive all the groups after a getAllGroups() request " alt="" coords="491,582,682,623"/>
+<area shape="rect" id="node29" href="$classWsFsDaemonClient.html#a1055ad03b05b29df54d5ad03bf7266dd" title="receive a Boolean after a request that returns a boolean " alt="" coords="491,647,682,689"/>
+<area shape="rect" id="node32" href="$classWsFsDaemonClient.html#a847f3a58e3afeb17aed8be7131c10008" title="receive a string after a request that returns a string " alt="" coords="491,73,682,114"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#a6455eae7d6b86ef080e8799bcaa87941" title="authenticate user. Sends an auth request to the daemon " alt="" coords="1033,25,1239,52"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#a00c0033ccd129716dc0caf84aad5d7e4" title="loads the user info " alt="" coords="1302,57,1474,84"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonClient.html#acc106281f61e3d828f3b13bbbd6f76e5" title="clears the server cache (removes the ldap results cached " alt="" coords="1029,307,1243,349"/>
+<area shape="rect" id="node9" href="$classWsFsDaemonClient.html#a4c209c4991e3f6fd34c6c7bbb735febe" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="1019,373,1253,400"/>
+<area shape="rect" id="node10" href="$classWsFsDaemonClient.html#ab2a1a27373f0c1dfb7801a037fef9f7b" title="sets one property of the node and save it. " alt="" coords="1023,424,1249,451"/>
+<area shape="rect" id="node11" href="$classWsFsDaemonClient.html#a79c958ee0f5b4c68d4bef7c8668c8c6d" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="1029,205,1243,232"/>
+<area shape="rect" id="node12" href="$classWsFsDaemonClient.html#abbfea61b4460a75c7b95ffd0b91826d0" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="1029,256,1243,283"/>
+<area shape="rect" id="node13" href="$classWsFsDaemonClient.html#a28c2eef0613c1c9b6be7d933bdc795b4" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="1025,155,1247,181"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonClient.html#a8dc291ff305dcdc657327aff61297007" title="destructor " alt="" coords="1314,307,1462,349"/>
+<area shape="rect" id="node15" href="$classWsFsDaemonClient.html#a53c5a67612c6893da2a300a5b1f1bf60" title="get the root node of the menu The root node contains as children all the menu items ..." alt="" coords="737,160,964,187"/>
+<area shape="rect" id="node16" href="$classWsFsDaemonClient.html#abf9525f9a34ac2ba5dc9f9e11769c12a" title="Launch the routine that will retrieve new AccessTree from fsdaemon This method should be called in a ..." alt="" coords="1044,81,1228,122"/>
+<area shape="rect" id="node18" href="$classWsFsDaemonClient.html#ac29790ded4328aefc9bc1c4df36361bb" title="return the root node of the access tree " alt="" coords="731,211,970,237"/>
+<area shape="rect" id="node20" href="$classWsFsDaemonClient.html#a2939fe00901ec4c14967e76996c899e5" title="get permission on the path for the used with which the client has been initialised ..." alt="" coords="731,328,970,355"/>
+<area shape="rect" id="node22" href="$classWsFsDaemonClient.html#a3b870d07bd054223559ad12d6e5885b1" title="WsFsDaemonClient::getProperties" alt="" coords="738,393,963,420"/>
+<area shape="rect" id="node24" href="$classWsFsDaemonClient.html#a31c264d184b145201fc062707bde9a8d" title="returns one property of a node If the property does not exist, a empty std::string is returned..." alt="" coords="743,459,958,485"/>
+<area shape="rect" id="node26" href="$classWsFsDaemonClient.html#aa793d36154d294ecb3104d39a3fd2698" title="get search results, passing the text that is searched " alt="" coords="747,517,954,558"/>
+<area shape="rect" id="node28" href="$classWsFsDaemonClient.html#a23ac598707aa7315708ff562b9a09a51" title="returns all possible groups " alt="" coords="760,582,941,623"/>
+<area shape="rect" id="node30" href="$classWsFsDaemonClient.html#ab7dba05baaf03b7a01e0bb5211791631" title="WsFsDaemonClient::isEditor" alt="" coords="755,701,947,728"/>
+<area shape="rect" id="node31" href="$classWsFsDaemonClient.html#a795701612784d2969d9a53c63977f28f" title="WsFsDaemonClient::isAdministrator" alt="" coords="733,651,968,677"/>
+<area shape="rect" id="node33" href="$classWsFsDaemonClient.html#a13e75c10dbef7373eafb19a398422df1" title="get the root path " alt="" coords="740,109,961,136"/>
+</map>

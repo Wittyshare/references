@@ -1,0 +1,15 @@
+<map id="WsTreeTraversal::beginTraverseDir" name="WsTreeTraversal::beginTraverseDir">
+<area shape="rect" id="node2" href="$classWsTreeTraversal.html#a2325ff603a9eadcb6e2eacf63ad2fe1b" title="Traverses a Node. Calls the WsTreeTraversal::traverseDirNode() or WsTreeTraversal::traverseFileNode()..." alt="" coords="283,195,461,221"/>
+<area shape="rect" id="node3" href="$classWsTreeTraversal.html#a79570e0b3c46c6ce45c039c1fd18d42a" title="start traversing the Tree. " alt="" coords="521,136,677,163"/>
+<area shape="rect" id="node14" href="$classWsTreeTraversal.html#a3a31ed8b8e898c03bb608d4633af1c1b" title="Traverses WsDirNodes recusively. " alt="" coords="510,187,687,229"/>
+<area shape="rect" id="node4" href="$classWsAbstractTree.html#a71869ab0623353e4dc9c3fd022b8e797" title="Parses the fileSystemTree and builds the Tree containing only the nodes where the user has access..." alt="" coords="764,77,916,104"/>
+<area shape="rect" id="node7" href="$classWsLatestNews.html#aba416401db4dd4ff4e73bd3075d2e3a7" title="WsLatestNews::getLatestNews" alt="" coords="736,136,944,163"/>
+<area shape="rect" id="node10" href="$classWsSearchRSS.html#a304f31fdc6b2546b9351b3779f7afc01" title="WsSearchRSS::getRSS" alt="" coords="757,187,923,213"/>
+<area shape="rect" id="node5" href="$classWsFsTreeConsultation.html#a3144b7e7da95ac77815f13bdd05b79dc" title="Get the menu tree starting from rootPath. " alt="" coords="1003,5,1159,46"/>
+<area shape="rect" id="node6" href="$classWsFsTreeConsultation.html#a9a4084884d008a4998782f014b649089" title="Get the access tree starting from rootPath. " alt="" coords="1003,70,1159,111"/>
+<area shape="rect" id="node8" href="$classWsLatestNews2.html#a74b891f9a69c74afc4f56598ddab9f87" title="WsLatestNews2::setTable" alt="" coords="993,136,1170,163"/>
+<area shape="rect" id="node9" href="$classWsLatestNews2.html#aac7ecdd2d65cf9b3d33c714b8011f2f5" title="WsLatestNews2::load" alt="" coords="1235,136,1386,163"/>
+<area shape="rect" id="node11" href="$classWsRSS.html#a6d0043db0f876f8e5821da35436d0a68" title="WsRSS::buildRSS" alt="" coords="1015,187,1148,213"/>
+<area shape="rect" id="node12" href="$classWsModRSS.html#a149db73c1c9c8f6f680b3a55afcd5cc4" title="WsModRSS::buildMenuBar" alt="" coords="1219,187,1402,213"/>
+<area shape="rect" id="node13" href="$classWsModRSS.html#ab129e34d397a22348c9f0ffbfd32b921" title="Create the functionalities. " alt="" coords="1451,179,1643,221"/>
+</map>

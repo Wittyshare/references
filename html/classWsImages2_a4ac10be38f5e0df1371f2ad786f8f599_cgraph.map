@@ -1,0 +1,13 @@
+<map id="WsImages2::load" name="WsImages2::load">
+<area shape="rect" id="node2" href="$classWsImages2.html#a1b189c1da53e948c6b946a78ced327d0" title="Build the vector. " alt="" coords="213,5,339,32"/>
+<area shape="rect" id="node6" href="$classWsImages2.html#af8e9dbd06e23e3a36004b3ec056449a6" title="WsImages2::doPathChanged" alt="" coords="179,56,373,83"/>
+<area shape="rect" id="node7" href="$classWsImages2.html#a9857a340a54c4661daacaa2721ee3638" title="WsImages2::doTimeout" alt="" coords="425,107,586,133"/>
+<area shape="rect" id="node8" href="$classWsImages2.html#a36d13eac56aa512ec4c8f4e4460b9a34" title="Load the image with the current index. " alt="" coords="637,115,797,141"/>
+<area shape="rect" id="node3" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="883,5,1013,32"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="421,48,589,75"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="647,49,787,90"/>
+<area shape="rect" id="node9" href="$classwsi2Anchor.html#a673da2d1dcc44bdeb6a2b128f741ffbc" title="wsi2Anchor::imageSelected" alt="" coords="856,64,1040,91"/>
+<area shape="rect" id="node10" href="$classWsImages2.html#ac9066c5e59e94028a1a3b12e5202e613" title="WsImages2::doCounterClicked" alt="" coords="846,115,1050,141"/>
+<area shape="rect" id="node11" href="$classwsi2Anchor.html#a14bea6117de2a8d9de0c00b864d851fd" title="wsi2Anchor::setImageIndex" alt="" coords="856,165,1040,192"/>
+<area shape="rect" id="node12" href="$classWsImages2.html#ad3e3f6d6ead8ebd1303a945fd39943b8" title="WsImages2::doImageClicked" alt="" coords="851,216,1045,243"/>
+</map>

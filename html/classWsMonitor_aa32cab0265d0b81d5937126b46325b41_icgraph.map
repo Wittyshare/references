@@ -1,0 +1,4 @@
+<map id="WsMonitor::signal" name="WsMonitor::signal">
+<area shape="rect" id="node2" href="$classWsMonitor.html#a3d1887ca1598b3f13e602d3bedfee868" title="Starts monitoring the Files of the filesystemtree Should be started in a separated thread..." alt="" coords="182,5,354,32"/>
+<area shape="rect" id="node3" href="$classWsMonitor.html#ae528d810f2d1b82634e6297c45569d37" title="Starts the monitoring process. " alt="" coords="403,5,522,32"/>
+</map>

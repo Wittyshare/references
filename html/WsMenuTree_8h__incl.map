@@ -1,0 +1,17 @@
+<map id="src/Tree/WsMenuTree.h" name="src/Tree/WsMenuTree.h">
+<area shape="rect" id="node2" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="1117,80,1245,107"/>
+<area shape="rect" id="node3" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="914,163,1131,189"/>
+<area shape="rect" id="node30" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1275,155,1479,197"/>
+<area shape="rect" id="node4" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="1259,470,1445,511"/>
+<area shape="rect" id="node22" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1058,395,1237,421"/>
+<area shape="rect" id="node26" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="922,245,1123,272"/>
+<area shape="rect" id="node27" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="695,320,796,347"/>
+<area shape="rect" id="node8" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="876,568,1109,595"/>
+<area shape="rect" id="node13" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="837,725,971,752"/>
+<area shape="rect" id="node11" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="522,651,683,677"/>
+<area shape="rect" id="node15" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="76,800,185,827"/>
+<area shape="rect" id="node25" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1746,800,1920,827"/>
+<area shape="rect" id="node28" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="286,568,527,595"/>
+<area shape="rect" id="node29" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="551,568,789,595"/>
+<area shape="rect" id="node31" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="1705,568,1921,595"/>
+</map>

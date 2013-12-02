@@ -1,0 +1,12 @@
+<map id="WsSiteMapView::onTreeSelectionChanged" name="WsSiteMapView::onTreeSelectionChanged">
+<area shape="rect" id="node2" href="$classWsSiteMapItem.html#a753e74818bb05cd567c255c5c149869d" title="WsSiteMapItem::node" alt="" coords="747,5,899,32"/>
+<area shape="rect" id="node3" href="$classWsSiteMapView.html#a1f7d324cadbc132aead6aa8ed68e5dac" title="WsSiteMapView::loadTree" alt="" coords="275,93,453,120"/>
+<area shape="rect" id="node4" href="$classWsSiteMapView.html#ad8fb71212de0db6f2917ce57a4888d0f" title="WsSiteMapView::path2Site\lMapPath" alt="" coords="503,145,686,186"/>
+<area shape="rect" id="node5" href="$classWsUser.html#a24992f478eacf012bef6aa04018dab3e" title="WsUser::isAdministrator" alt="" coords="512,211,677,237"/>
+<area shape="rect" id="node7" href="$classWsUser.html#aec1d48fdef3f51e8f0975ec2ea38f504" title="WsUser::isEditor" alt="" coords="533,265,656,292"/>
+<area shape="rect" id="node9" href="$classWsSiteMapView.html#a7191e0dd440983e3090d3433f8b5d209" title="WsSiteMapView::loadFolder" alt="" coords="501,43,688,69"/>
+<area shape="rect" id="node11" href="$classWsSiteMapView.html#a6dfd3f46a185aa8ba19ee996050d400b" title="WsSiteMapView::loadFile" alt="" coords="509,93,681,120"/>
+<area shape="rect" id="node6" href="$classWsAbstractFsClient.html#aa4699b93273ca4466afadc5b944cf27f" title="WsAbstractFsClient\l::isAdministrator" alt="" coords="753,199,893,241"/>
+<area shape="rect" id="node8" href="$classWsAbstractFsClient.html#ada5a57e9059061f9fb055ae0534b9f7b" title="WsAbstractFsClient\l::isEditor" alt="" coords="753,265,893,306"/>
+<area shape="rect" id="node10" href="$classWsSiteMapItem.html#a0a4b0ad1b0f5335ebe1f474ac714819a" title="WsSiteMapItem::setNode" alt="" coords="736,81,909,108"/>
+</map>

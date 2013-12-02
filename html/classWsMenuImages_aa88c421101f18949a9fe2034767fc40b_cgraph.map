@@ -1,0 +1,11 @@
+<map id="WsMenuImages::doTimeout" name="WsMenuImages::doTimeout">
+<area shape="rect" id="node2" href="$classWsMenuImages.html#a569d6137f7f69a23490bd9b7c61602a7" title="WsMenuImages::buildMenu" alt="" coords="240,132,424,159"/>
+<area shape="rect" id="node3" href="$classWsOptions.html#a323a59ee0cd514354fb6fc049a3de0c6" title="Set all options. " alt="" coords="473,5,631,32"/>
+<area shape="rect" id="node4" href="$classWsOptions.html#ab06d33752bb750f78a3c177a00b0df2c" title="Get all options. " alt="" coords="483,56,621,83"/>
+<area shape="rect" id="node5" href="$classWsOptions.html#a1d6f864ac2feb47570c535d1251c2b54" title="Set an options if previously set, update the value. " alt="" coords="477,107,627,133"/>
+<area shape="rect" id="node6" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="699,183,829,209"/>
+<area shape="rect" id="node7" href="$classWsOptions.html#adc4c4fdf38c2d3e9675c1bb9713860e5" title="Output all options. " alt="" coords="473,208,631,235"/>
+<area shape="rect" id="node8" href="$classWsImages2.html#a1b189c1da53e948c6b946a78ced327d0" title="Build the vector. " alt="" coords="489,259,615,285"/>
+<area shape="rect" id="node9" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="680,259,848,285"/>
+<area shape="rect" id="node10" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="897,251,1037,293"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="WsFsDaemonClient::deleteNode" name="WsFsDaemonClient::deleteNode">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#a80f2d774d9ee3c2bf0ec9294dbb2c27d" title="sends a string to the daemon " alt="" coords="565,84,741,111"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#a7fcf6b52b636039059f26ccbf506effd" title="receive the success code after a request that returns a SUCCESS or FAILURE answer only ..." alt="" coords="294,251,485,293"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonClient.html#ac29790ded4328aefc9bc1c4df36361bb" title="return the root node of the access tree " alt="" coords="270,141,509,168"/>
+<area shape="rect" id="node17" href="$classWsFsDaemonClient.html#a53c5a67612c6893da2a300a5b1f1bf60" title="get the root node of the menu The root node contains as children all the menu items ..." alt="" coords="276,192,503,219"/>
+<area shape="rect" id="node3" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="804,19,983,45"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#af4661a8e5332f6a1f4c84f630302e9eb" title="receive a string from the daemon. " alt="" coords="798,267,989,293"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#ad439887502505543006d0b81df68e247" title="Converts raw data received to string. This method should be used each time data is received from netw..." alt="" coords="1037,259,1235,301"/>
+<area shape="rect" id="node7" href="$classWsDecompressor.html#a9e416710113e7f86207ebb894fef628c" title="decompress the input data and store result in uncompressedData " alt="" coords="1283,267,1490,293"/>
+<area shape="rect" id="node9" href="$classWsFsDaemonClient.html#a293da2fab35e5f26e9cec8663f21db8a" title="receive the access tree items after a getAccessRoot request " alt="" coords="558,135,749,177"/>
+<area shape="rect" id="node10" href="$classWsTreeDeserializer.html#a7a7828b23e9c5e62d642ff9d1395b86a" title="deserialize the Json input " alt="" coords="825,70,962,111"/>
+<area shape="rect" id="node15" href="$classWsTreeDeserializer.html#aaa3977c1208534b7223798945ec3609d" title="returns the menu root " alt="" coords="825,135,962,177"/>
+<area shape="rect" id="node16" href="$classWsTreeDeserializer.html#a255fc6552c8de637d0c06faefa0a59a8" title="Get the Stamp of the serialized tree. " alt="" coords="825,201,962,242"/>
+<area shape="rect" id="node11" href="$classWsTreeDeserializer.html#a9899cfd077d4b0ae662901cf36b1c6e3" title="parse the Json tree " alt="" coords="1067,5,1205,46"/>
+<area shape="rect" id="node12" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="1067,70,1205,111"/>
+<area shape="rect" id="node14" href="$classWsTreeDeserializer.html#a6cb359f52e88ab74ac3a679fd9ffbc70" title="adds a SubNode to the tree corresponding to the Json entry " alt="" coords="1067,135,1205,177"/>
+<area shape="rect" id="node13" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="1313,70,1460,111"/>
+<area shape="rect" id="node18" href="$classWsFsDaemonClient.html#a0b50df7688e0213225d814f43e5a4517" title="receive the menu items after a getMenuRoot request " alt="" coords="558,201,749,242"/>
+</map>

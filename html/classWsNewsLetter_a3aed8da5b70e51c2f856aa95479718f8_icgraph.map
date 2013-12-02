@@ -1,0 +1,7 @@
+<map id="WsNewsLetter::sendEmail" name="WsNewsLetter::sendEmail">
+<area shape="rect" id="node2" href="$classWsNewsLetter.html#aefea0752dcb0bc96d1df27d6b5f7e7bf" title="WsNewsLetter::multipleEmail" alt="" coords="239,5,433,32"/>
+<area shape="rect" id="node6" href="$classWsNewsLetter.html#a338e6b7ff81d2881190832c38e29dcbf" title="WsNewsLetter::emailNotInLdap" alt="" coords="232,56,440,83"/>
+<area shape="rect" id="node3" href="$classWsNewsLetter.html#aaf393a70631c5fd1e1eacc9db5595f3a" title="WsNewsLetter::isEmailExist\lInLdap" alt="" coords="489,23,679,65"/>
+<area shape="rect" id="node4" href="$classWsNewsLetter.html#a198b1cc8bb94ef7fcda31498af703991" title="WsNewsLetter::doSubscribe" alt="" coords="728,31,917,57"/>
+<area shape="rect" id="node5" href="$classWsNewsLetter.html#ae03d59042e3417ef158fd277580cfebb" title="WsNewsLetter::load" alt="" coords="965,31,1107,57"/>
+</map>

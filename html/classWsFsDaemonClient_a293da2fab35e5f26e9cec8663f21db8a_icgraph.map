@@ -1,0 +1,8 @@
+<map id="WsFsDaemonClient::receiveAccessItems" name="WsFsDaemonClient::receiveAccessItems">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#ac29790ded4328aefc9bc1c4df36361bb" title="return the root node of the access tree " alt="" coords="246,81,485,108"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#a79c958ee0f5b4c68d4bef7c8668c8c6d" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="538,5,753,32"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#abbfea61b4460a75c7b95ffd0b91826d0" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="538,56,753,83"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#a28c2eef0613c1c9b6be7d933bdc795b4" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="534,107,757,133"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#abf9525f9a34ac2ba5dc9f9e11769c12a" title="Launch the routine that will retrieve new AccessTree from fsdaemon This method should be called in a ..." alt="" coords="553,158,737,199"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonClient.html#a00c0033ccd129716dc0caf84aad5d7e4" title="loads the user info " alt="" coords="806,165,978,192"/>
+</map>

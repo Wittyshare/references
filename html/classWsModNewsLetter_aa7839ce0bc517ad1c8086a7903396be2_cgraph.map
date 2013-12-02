@@ -1,0 +1,8 @@
+<map id="WsModNewsLetter::checkPath" name="WsModNewsLetter::checkPath">
+<area shape="rect" id="node2" href="$classWsModule.html#acc932d0bacb34d631973f2cabefc16d5" title="Return the currentPath, or another path when some action is required for the currentPath example /New..." alt="" coords="271,5,425,32"/>
+<area shape="rect" id="node3" href="$classWsOptions.html#a323a59ee0cd514354fb6fc049a3de0c6" title="Set all options. " alt="" coords="269,56,427,83"/>
+<area shape="rect" id="node4" href="$classWsOptions.html#ab06d33752bb750f78a3c177a00b0df2c" title="Get all options. " alt="" coords="279,107,417,133"/>
+<area shape="rect" id="node5" href="$classWsNewsLetter.html#a3a54c5a3cc7ebb61097000ca580c3102" title="WsNewsLetter::checkPath" alt="" coords="259,157,437,184"/>
+<area shape="rect" id="node6" href="$classWsNewsLetter.html#a42d7ee5044c1374a9a38b9b9b9a7d483" title="WsNewsLetter::initDB" alt="" coords="486,157,639,184"/>
+<area shape="rect" id="node7" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="688,157,819,184"/>
+</map>

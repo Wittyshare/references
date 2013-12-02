@@ -1,0 +1,12 @@
+<map id="WsFsDaemonClient::receiveAccessItems" name="WsFsDaemonClient::receiveAccessItems">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#af4661a8e5332f6a1f4c84f630302e9eb" title="receive a string from the daemon. " alt="" coords="246,48,437,75"/>
+<area shape="rect" id="node5" href="$classWsTreeDeserializer.html#a7a7828b23e9c5e62d642ff9d1395b86a" title="deserialize the Json input " alt="" coords="273,102,410,143"/>
+<area shape="rect" id="node10" href="$classWsTreeDeserializer.html#aaa3977c1208534b7223798945ec3609d" title="returns the menu root " alt="" coords="273,167,410,209"/>
+<area shape="rect" id="node11" href="$classWsTreeDeserializer.html#a255fc6552c8de637d0c06faefa0a59a8" title="Get the Stamp of the serialized tree. " alt="" coords="273,233,410,274"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#ad439887502505543006d0b81df68e247" title="Converts raw data received to string. This method should be used each time data is received from netw..." alt="" coords="485,5,683,46"/>
+<area shape="rect" id="node4" href="$classWsDecompressor.html#a9e416710113e7f86207ebb894fef628c" title="decompress the input data and store result in uncompressedData " alt="" coords="731,12,938,39"/>
+<area shape="rect" id="node6" href="$classWsTreeDeserializer.html#a9899cfd077d4b0ae662901cf36b1c6e3" title="parse the Json tree " alt="" coords="515,70,653,111"/>
+<area shape="rect" id="node7" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="515,135,653,177"/>
+<area shape="rect" id="node9" href="$classWsTreeDeserializer.html#a6cb359f52e88ab74ac3a679fd9ffbc70" title="adds a SubNode to the tree corresponding to the Json entry " alt="" coords="515,201,653,242"/>
+<area shape="rect" id="node8" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="761,135,908,177"/>
+</map>

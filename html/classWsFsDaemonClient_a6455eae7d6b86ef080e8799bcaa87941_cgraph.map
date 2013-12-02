@@ -1,0 +1,9 @@
+<map id="WsFsDaemonClient::authentify" name="WsFsDaemonClient::authentify">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#a80f2d774d9ee3c2bf0ec9294dbb2c27d" title="sends a string to the daemon " alt="" coords="267,5,443,32"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#a00d08d111f383888751ad5664309ca44" title="receive the answer after performing an Auth request to the daemon " alt="" coords="259,57,450,98"/>
+<area shape="rect" id="node3" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="505,5,684,32"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#af4661a8e5332f6a1f4c84f630302e9eb" title="receive a string from the daemon. " alt="" coords="499,60,690,87"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonClient.html#ace51a769fb6f9610bd5ec260a0b7da00" title="parse the received Json from the fsdaemon " alt="" coords="505,111,685,137"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#ad439887502505543006d0b81df68e247" title="Converts raw data received to string. This method should be used each time data is received from netw..." alt="" coords="739,53,936,94"/>
+<area shape="rect" id="node7" href="$classWsDecompressor.html#a9e416710113e7f86207ebb894fef628c" title="decompress the input data and store result in uncompressedData " alt="" coords="985,60,1191,87"/>
+</map>

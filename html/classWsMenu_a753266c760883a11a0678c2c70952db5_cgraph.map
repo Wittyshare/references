@@ -1,0 +1,6 @@
+<map id="WsMenu::loadPopupMenu" name="WsMenu::loadPopupMenu">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="233,5,364,32"/>
+<area shape="rect" id="node3" href="$classWsMenu.html#af0bcd416673b0efa1e4c8021ccbeb52b" title="WsMenu::makeLink" alt="" coords="229,56,368,83"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="417,56,567,83"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="617,49,757,90"/>
+</map>

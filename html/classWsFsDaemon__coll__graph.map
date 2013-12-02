@@ -1,0 +1,11 @@
+<map id="WsFsDaemon" name="WsFsDaemon">
+<area shape="rect" id="node2" href="$classWsDecompressor.html" title="Used to decompress data. " alt="" coords="228,871,354,948"/>
+<area shape="rect" id="node3" href="$classWsFsTreeOperations.html" title="Redirect operations to adequate class. " alt="" coords="379,797,545,1021"/>
+<area shape="rect" id="node4" href="$classWsFsTreeModification.html" title="Encapsulates modification operations on tree. " alt="" coords="324,531,497,711"/>
+<area shape="rect" id="node5" href="$classWsGlobalProperties.html" title="Global properties class. " alt="" coords="430,251,588,387"/>
+<area shape="rect" id="node9" href="$classWsFsTreeConsultation.html" title="Encapsulates consultation of tree (no modification) " alt="" coords="124,509,300,733"/>
+<area shape="rect" id="node6" href="$classWsAbstractProperties.html" title="Abstract Properties class. " alt="" coords="424,6,594,127"/>
+<area shape="rect" id="node7" href="$classWsFsTreeUpdater.html" title="handles the update of the FileSystemTree " alt="" coords="112,192,269,445"/>
+<area shape="rect" id="node8" href="$classWsAbstractMonitor.html" title="Abstract class used for monitoring the filesystem. " alt="" coords="109,21,272,113"/>
+<area shape="rect" id="node10" href="$classWsCompressor.html" title="Used to compress data. " alt="" coords="672,871,785,948"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="src/WsModules/WsModFollowUs" name="src/WsModules/WsModFollowUs">
+<area shape="rect" id="node2" href="dir_7bf9b717fd524746955f6d870d94dd46.html" title="src" alt="" coords="49,63,121,111"/>
+<area shape="rect" id="node3" href="dir_4bb77202a85366e5a69049a6555c5ad7.html" title="Main" alt="" coords="21,255,93,303"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000039_000007.html" title="1" alt="" coords="68,230,76,245"/>
+<area shape="rect" id="node4" href="dir_ce44ad55c7286bf5a6cd8cf01717cab8.html" title="Logger" alt="" coords="57,447,129,495"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000039_000013.html" title="1" alt="" coords="70,419,78,434"/>
+<area shape="rect" id="node5" href="dir_9cc32549f906592543429cac4d5ebd46.html" title="WsModAnchor" alt="" coords="163,159,270,207"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000039_000026.html" title="1" alt="" coords="159,135,167,149"/>
+<area shape="rect" id="node6" href="dir_33184d9f279d0a35335ee75c08157afa.html" title="User" alt="" coords="94,351,166,399"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000039_000019.html" title="1" alt="" coords="128,324,136,338"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000007_000013.html" title="2" alt="" coords="90,420,98,434"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000007_000019.html" title="8" alt="" coords="104,324,112,338"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000026_000007.html" title="2" alt="" coords="109,247,117,262"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000026_000013.html" title="2" alt="" coords="145,437,153,451"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000019_000013.html" title="1" alt="" coords="113,426,121,440"/>
+<area shape="rect" id="clust2" href="dir_a883162836f1a275488e246ac49670e3.html" alt="" coords="38,52,278,121"/>
+<area shape="rect" id="clust1" href="dir_aaf19c9503b1b9eb45b29cf92fc93337.html" title="WsModules" alt="" coords="28,16,289,132"/>
+</map>

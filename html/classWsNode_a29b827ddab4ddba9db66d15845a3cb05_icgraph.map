@@ -1,0 +1,6 @@
+<map id="WsNode::getPath" name="WsNode::getPath">
+<area shape="rect" id="node2" href="$classWsNode.html#a69661d9fb311dad63c2cb874155f6fcd" title="returns the name of the node " alt="" coords="209,5,343,32"/>
+<area shape="rect" id="node4" href="$classWsLatestNews.html#a5aa30a93b0d59495d444b86f141e4355" title="Called when traversing a fileNode. " alt="" coords="182,56,370,83"/>
+<area shape="rect" id="node5" href="$classWsSearchRSS.html#aa10dc332f6ab2a9cbaffc6af0e62a107" title="Called when traversing a fileNode. " alt="" coords="183,107,369,133"/>
+<area shape="rect" id="node3" href="$classWsNode.html#a839f66ae093084be4c7113df29e1e946" title="returns the display name of the node " alt="" coords="419,5,597,32"/>
+</map>

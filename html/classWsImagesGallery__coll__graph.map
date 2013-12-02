@@ -1,0 +1,4 @@
+<map id="WsImagesGallery" name="WsImagesGallery">
+<area shape="rect" id="node4" href="$classWsImages2.html" title="{WsImages2\n|&#45; m_bDebug\l&#45; m_bReactWhenPathChange\l&#45; m_lDelay\l&#45; m_bLoaded\l&#45; m_sImagesVect\l&#45; m_sImagesText\l&#45; m_sImagesLink\l&#45; m_sImagesLinkType\l&#45; m_sImagesTitle\l&#45; m_bOnLoad\l&#45; m_nCurrentImage\l&#45; m_pTimer\l|+ WsImages2()\l+ ~WsImages2()\l+ load()\l+ loadImage()\l+ build()\l+ count()\l+ text()\l+ doTimeout()\l+ doPathChanged()\l+ doImageClicked()\l+ doCounterClicked()\l}" alt="" coords="73,251,268,637"/>
+<area shape="rect" id="node3" href="$classWsOptions.html" title="{WsOptions\n|&#45; m_vOptions\l&#45; m_noOptions\l|+ WsOptions()\l+ WsOptions()\l+ WsOptions()\l+ setOption()\l+ setOptions()\l+ option()\l+ options()\l+ outOptions()\l}" alt="" coords="207,5,313,200"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classWsAbstractMonitor.html" title="Abstract class used for monitoring the filesystem. " alt="" coords="6,5,141,32"/>
+<area shape="rect" id="node2" href="$classWsMonitor.html" title="Monitors the filesystem and call the WsFsTreeUpdater::update() method accordignly. " alt="" coords="189,5,275,32"/>
+</map>

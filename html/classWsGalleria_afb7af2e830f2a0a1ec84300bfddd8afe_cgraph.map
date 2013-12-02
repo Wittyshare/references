@@ -1,0 +1,6 @@
+<map id="WsGalleria::load" name="WsGalleria::load">
+<area shape="rect" id="node2" href="$classWsApplication.html#a285ae98ebb97586280ead2c75a09ed3b" title="Facility function to access the application object. " alt="" coords="173,5,355,32"/>
+<area shape="rect" id="node3" href="$classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f" title="WsApplication::wsUser" alt="" coords="185,56,343,83"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="189,107,339,133"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="403,99,543,141"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="WsVideo::load" name="WsVideo::load">
+<area shape="rect" id="node2" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="160,16,328,43"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="169,71,319,97"/>
+<area shape="rect" id="node3" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="377,5,517,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="377,70,517,111"/>
+</map>

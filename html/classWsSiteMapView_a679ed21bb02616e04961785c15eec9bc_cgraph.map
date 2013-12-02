@@ -1,0 +1,7 @@
+<map id="WsSiteMapView::makeToolbar" name="WsSiteMapView::makeToolbar">
+<area shape="rect" id="node2" href="$classWsSiteMapView.html#a3de282b95698f38ff9b08ac1b74a4607" title="WsSiteMapView::doNewFolder" alt="" coords="257,5,461,32"/>
+<area shape="rect" id="node4" href="$classWsSiteMapView.html#aac60ad275a96c896c4626338152cb174" title="WsSiteMapView::doConfirm\lDelete" alt="" coords="265,57,452,98"/>
+<area shape="rect" id="node6" href="$classWsSiteMapView.html#a9f2d66c94232be461436bee206923be9" title="WsSiteMapView::doRename" alt="" coords="263,123,454,149"/>
+<area shape="rect" id="node3" href="$classWsSiteMapView.html#a10b1af4aba90f3d1da198a62c2f3c9cc" title="WsSiteMapView::currentFolderPath" alt="" coords="510,5,741,32"/>
+<area shape="rect" id="node5" href="$classWsSiteMapView.html#acc1003159da3b0899c228a247530e3bb" title="WsSiteMapView::doDelete" alt="" coords="536,64,715,91"/>
+</map>

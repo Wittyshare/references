@@ -1,0 +1,6 @@
+<map id="WsFormConfig::doSave" name="WsFormConfig::doSave">
+<area shape="rect" id="node2" href="$classWsUser.html#a0e164dbcc4a0640ade32c9cd823fd68a" title="save the properties of the node on disk. The user must have access and edit rights for the node..." alt="" coords="216,16,381,43"/>
+<area shape="rect" id="node4" href="$classWsUser.html#ae3b1bb8d074b3ec3dfd3601a3e35631c" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="223,71,375,97"/>
+<area shape="rect" id="node3" href="$classWsAbstractFsClient.html#a1bca081692299570498d87e00dd073e1" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="430,5,570,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#ab9dd2c89eb4f57efe87a25b95d78bbfe" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="430,70,570,111"/>
+</map>

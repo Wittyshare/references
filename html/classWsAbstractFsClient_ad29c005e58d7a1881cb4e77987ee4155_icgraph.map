@@ -1,0 +1,6 @@
+<map id="WsAbstractFsClient::deleteNode" name="WsAbstractFsClient::deleteNode">
+<area shape="rect" id="node2" href="$classWsUser.html#ae351a08451e5b9aeb3ebd6ac3f2e5298" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="195,12,339,39"/>
+<area shape="rect" id="node3" href="$classWsContentButtonsBar.html#affed801d5e16adbcfe9731caf537a912" title="WsContentButtonsBar\l::doMBoxRespons" alt="" coords="387,5,541,46"/>
+<area shape="rect" id="node4" href="$classWsContentButtonsBar.html#abfa43219d3073aa69b88f442175621f6" title="WsContentButtonsBar\l::doDeleteNode" alt="" coords="590,5,743,46"/>
+<area shape="rect" id="node5" href="$classWsContentButtonsBar.html#aefe1e0ae6a699cba3452772eb243414d" title="WsContentButtonsBar\l::WsContentButtonsBar" alt="" coords="793,5,954,46"/>
+</map>

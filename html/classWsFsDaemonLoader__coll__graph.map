@@ -1,0 +1,12 @@
+<map id="WsFsDaemonLoader" name="WsFsDaemonLoader">
+<area shape="rect" id="node2" href="$classWsFsDaemon.html" title="Main class of the FsDaemon. " alt="" coords="373,1085,568,1427"/>
+<area shape="rect" id="node3" href="$classWsDecompressor.html" title="Used to decompress data. " alt="" coords="99,871,225,948"/>
+<area shape="rect" id="node4" href="$classWsFsTreeOperations.html" title="Redirect operations to adequate class. " alt="" coords="387,797,553,1021"/>
+<area shape="rect" id="node5" href="$classWsFsTreeModification.html" title="Encapsulates modification operations on tree. " alt="" coords="124,531,297,711"/>
+<area shape="rect" id="node6" href="$classWsGlobalProperties.html" title="Global properties class. " alt="" coords="466,251,624,387"/>
+<area shape="rect" id="node10" href="$classWsFsTreeConsultation.html" title="Encapsulates consultation of tree (no modification) " alt="" coords="321,509,497,733"/>
+<area shape="rect" id="node7" href="$classWsAbstractProperties.html" title="Abstract Properties class. " alt="" coords="460,6,630,127"/>
+<area shape="rect" id="node8" href="$classWsFsTreeUpdater.html" title="handles the update of the FileSystemTree " alt="" coords="112,192,269,445"/>
+<area shape="rect" id="node9" href="$classWsAbstractMonitor.html" title="Abstract class used for monitoring the filesystem. " alt="" coords="109,21,272,113"/>
+<area shape="rect" id="node11" href="$classWsCompressor.html" title="Used to compress data. " alt="" coords="250,871,362,948"/>
+</map>

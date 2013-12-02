@@ -1,0 +1,9 @@
+<map id="src/Compression/WsCompressor.h" name="src/Compression/WsCompressor.h">
+<area shape="rect" id="node2" href="$WsCompressor_8cpp.html" title="src/Compression/WsCompressor.cpp" alt="" coords="5,80,245,107"/>
+<area shape="rect" id="node3" href="$WsFsDaemonClient_8h.html" title="Interacts with the menuTree and FsTree via the daemon. " alt="" coords="271,80,497,107"/>
+<area shape="rect" id="node5" href="$WsFsDaemon_8h.html" title="Take charge of FS operations. " alt="" coords="529,80,735,107"/>
+<area shape="rect" id="node4" href="$WsFsDaemonClient_8cpp.html" title="src/FsClient/WsFsDaemonClient.cpp" alt="" coords="257,155,497,181"/>
+<area shape="rect" id="node6" href="$WsFsDaemon_8cpp.html" title="Take charge of FS operations. " alt="" coords="521,155,743,181"/>
+<area shape="rect" id="node7" href="$WsFsDaemonLoader_8h.html" title="src/FsDaemon/WsFsDaemonLoader.h" alt="" coords="767,155,1013,181"/>
+<area shape="rect" id="node8" href="$WsFsDaemonLoader_8cpp.html" title="src/FsDaemon/WsFsDaemonLoader.cpp" alt="" coords="761,229,1020,256"/>
+</map>

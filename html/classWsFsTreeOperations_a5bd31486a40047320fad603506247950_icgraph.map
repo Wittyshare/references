@@ -1,0 +1,8 @@
+<map id="WsFsTreeOperations::isEditor" name="WsFsTreeOperations::isEditor">
+<area shape="rect" id="node2" href="$classWsFsDaemon.html#ac22500d82c04828e829a51532f2d299a" title="sends the result of an editor request so that the client can know if he is an editor or not ..." alt="" coords="200,5,397,46"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="446,12,647,39"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="696,12,835,39"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1147,12,1325,39"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="883,37,1099,64"/>
+<area shape="rect" id="node6" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1373,12,1424,39"/>
+</map>

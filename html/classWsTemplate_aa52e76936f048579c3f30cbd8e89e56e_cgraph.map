@@ -1,0 +1,65 @@
+<map id="WsTemplate::resolveString" name="WsTemplate::resolveString">
+<area shape="rect" id="node2" href="$classWsContent.html#a07dc0f8e3f6a2aca0afef16679183469" title="WsContent::setPath" alt="" coords="253,291,395,317"/>
+<area shape="rect" id="node17" href="$classWsOptions.html#a1d6f864ac2feb47570c535d1251c2b54" title="Set an options if previously set, update the value. " alt="" coords="999,596,1150,623"/>
+<area shape="rect" id="node55" href="$classWsModule.html#afd81a44b2d3e5a8eab2b710c7dc365ad" title="Set/Get the system path (example the selected file /var/www/mysite/about/me.fhtml). " alt="" coords="735,852,895,879"/>
+<area shape="rect" id="node57" href="$classWsModule.html#a3626bdda2acd874619d4b3dba75a00c2" title="Set/Get the difference between the web server (example Apache /var/www) root path and the wittishare ..." alt="" coords="735,1055,894,1081"/>
+<area shape="rect" id="node59" href="$classWsModule.html#afa69d8c1738d9dc15d7bc266738c64b2" title="WsModule::moduleName" alt="" coords="730,903,899,929"/>
+<area shape="rect" id="node60" href="$classWsModule.html#a8d4a39097c5906c52e9a99e11f86c50d" title="Create the contents. " alt="" coords="724,953,905,980"/>
+<area shape="rect" id="node61" href="$classWsTemplate.html#a57c6a7e56907ca0b40f990c0d5e9c1b2" title="WsTemplate::WsTemplate" alt="" coords="235,1105,413,1132"/>
+<area shape="rect" id="node63" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="739,1135,890,1161"/>
+<area shape="rect" id="node3" href="$classWsUser.html#a05cfb8bb3068579822d364039c554c63" title="return the permissions on specific node " alt="" coords="475,764,643,791"/>
+<area shape="rect" id="node5" href="$classWsContent.html#a76963d6e8fdb93f841cd04bf48002db5" title="WsContent::clear" alt="" coords="1013,59,1137,85"/>
+<area shape="rect" id="node6" href="$classWsContent.html#ac6b7e65584572e46daf473493bd690ef" title="WsContent::viewDirectory" alt="" coords="727,291,903,317"/>
+<area shape="rect" id="node18" href="$classWsContent.html#ac8409aaafe6fefd36a23919f1557486c" title="WsContent::doSearch" alt="" coords="483,77,634,104"/>
+<area shape="rect" id="node19" href="$classWsContent.html#a9b87a01e43a06e77fd5e8225b27d019e" title="WsContent::siteMapChanged" alt="" coords="461,431,656,457"/>
+<area shape="rect" id="node47" href="$classWsContent.html#a8d25739d437e26b889ecee21f2ca04ab" title="WsContent::doEditPage" alt="" coords="733,217,896,244"/>
+<area shape="rect" id="node49" href="$classWsContent.html#a343bc840d9771ff6275ddfe15b757118" title="WsContent::buildFileUpload" alt="" coords="466,153,651,180"/>
+<area shape="rect" id="node50" href="$classWsContent.html#a57e7eeccf6063920de166fec4bd779a0" title="WsContent::selectWidget" alt="" coords="473,659,645,685"/>
+<area shape="rect" id="node4" href="$classWsAbstractFsClient.html#a314f9ac7146877847fc73c7a57f2d8ff" title="get permission on the path for the used with which the client has been initialised ..." alt="" coords="745,786,885,827"/>
+<area shape="rect" id="node7" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="991,160,1159,187"/>
+<area shape="rect" id="node9" href="$classWsUser.html#a24992f478eacf012bef6aa04018dab3e" title="WsUser::isAdministrator" alt="" coords="2297,215,2463,241"/>
+<area shape="rect" id="node11" href="$classWsUser.html#aec1d48fdef3f51e8f0975ec2ea38f504" title="WsUser::isEditor" alt="" coords="2319,284,2441,311"/>
+<area shape="rect" id="node13" href="$classWsLayoutProperties.html#a1467b795cdaf3370f5ad0790901720be" title="Get the singleton instance. " alt="" coords="1005,313,1145,354"/>
+<area shape="rect" id="node15" href="$classWsLayoutProperties.html#ad1d00d237529f6e8fdb3ec3b1135b4ba" title="WsLayoutProperties::get" alt="" coords="991,381,1158,408"/>
+<area shape="rect" id="node8" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="1261,145,1401,186"/>
+<area shape="rect" id="node10" href="$classWsAbstractFsClient.html#aa4699b93273ca4466afadc5b944cf27f" title="WsAbstractFsClient\l::isAdministrator" alt="" coords="2561,207,2701,249"/>
+<area shape="rect" id="node12" href="$classWsAbstractFsClient.html#ada5a57e9059061f9fb055ae0534b9f7b" title="WsAbstractFsClient\l::isEditor" alt="" coords="2561,277,2701,318"/>
+<area shape="rect" id="node14" href="$classWsLayoutProperties.html#a45ec92c0b851148be2526257fe8528dc" title="Default Constructor. " alt="" coords="1257,313,1405,354"/>
+<area shape="rect" id="node16" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="1255,378,1406,419"/>
+<area shape="rect" id="node20" href="$classWsContent.html#a51fdd1ccf00687481ce07b17a77c0566" title="WsContent::buildSiteMap" alt="" coords="729,481,900,508"/>
+<area shape="rect" id="node23" href="$classWsSiteMapView.html#ad11a0cec8caff8283ec4beea83a6660a" title="WsSiteMapView::setRelativePath" alt="" coords="705,431,925,457"/>
+<area shape="rect" id="node21" href="$classWsSiteMapView.html#aeeb8d769c5b9dc2a01cea03520a58c2d" title="WsSiteMapView::fileSelected" alt="" coords="2016,757,2211,784"/>
+<area shape="rect" id="node22" href="$classWsContent.html#a34e1150d718cc684be95101547425f45" title="WsContent::doSiteMapItem\lSelected" alt="" coords="983,647,1167,689"/>
+<area shape="rect" id="node24" href="$classWsSiteMapView.html#a3aa162ad769f4a68d077757f526bf523" title="WsSiteMapView::load" alt="" coords="1510,611,1661,637"/>
+<area shape="rect" id="node44" href="$classWsSiteMapView.html#a4318768239b75649856c784312efc30d" title="WsSiteMapView::init" alt="" coords="1003,444,1147,471"/>
+<area shape="rect" id="node25" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="1783,917,1913,944"/>
+<area shape="rect" id="node26" href="$classWsSiteMapView.html#acf11ed3c01c93c2bdfde100baa439b9a" title="WsSiteMapView::onTreeSelection\lChanged" alt="" coords="1737,515,1959,557"/>
+<area shape="rect" id="node28" href="$classWsSiteMapView.html#a1f7d324cadbc132aead6aa8ed68e5dac" title="WsSiteMapView::loadTree" alt="" coords="2025,413,2202,440"/>
+<area shape="rect" id="node33" href="$classWsSiteMapView.html#a9db194eeb759bc3902d6a8d4025d4598" title="WsSiteMapView::onTreeExpanded" alt="" coords="1735,363,1961,389"/>
+<area shape="rect" id="node34" href="$classWsSiteMapView.html#afe8b0ff22e05999c413221a54f994cbc" title="WsSiteMapView::onDirectory\lNameChanged" alt="" coords="2016,834,2211,875"/>
+<area shape="rect" id="node36" href="$classWsSiteMapView.html#a016194d400cc98d8f6873a48c31845bd" title="WsSiteMapView::onViewDbl\lClick" alt="" coords="1753,633,1943,674"/>
+<area shape="rect" id="node37" href="$classWsSiteMapView.html#a67390beccd8c76a563efc08720c1592c" title="WsSiteMapView::onViewSelection\lChanged" alt="" coords="1736,750,1960,791"/>
+<area shape="rect" id="node38" href="$classWsSiteMapView.html#abd2d51841f4d6446c1b8bfbb109fa0c7" title="WsSiteMapView::onViewExpanded" alt="" coords="1734,699,1962,725"/>
+<area shape="rect" id="node39" href="$classWsSiteMapView.html#a679ed21bb02616e04961785c15eec9bc" title="WsSiteMapView::makeToolbar" alt="" coords="1747,581,1949,608"/>
+<area shape="rect" id="node27" href="$classWsSiteMapItem.html#a753e74818bb05cd567c255c5c149869d" title="WsSiteMapItem::node" alt="" coords="2555,465,2707,492"/>
+<area shape="rect" id="node29" href="$classWsSiteMapView.html#ad8fb71212de0db6f2917ce57a4888d0f" title="WsSiteMapView::path2Site\lMapPath" alt="" coords="2289,399,2471,441"/>
+<area shape="rect" id="node30" href="$classWsSiteMapView.html#a7191e0dd440983e3090d3433f8b5d209" title="WsSiteMapView::loadFolder" alt="" coords="2287,465,2473,492"/>
+<area shape="rect" id="node32" href="$classWsSiteMapView.html#a6dfd3f46a185aa8ba19ee996050d400b" title="WsSiteMapView::loadFile" alt="" coords="2294,567,2466,593"/>
+<area shape="rect" id="node31" href="$classWsSiteMapItem.html#a0a4b0ad1b0f5335ebe1f474ac714819a" title="WsSiteMapItem::setNode" alt="" coords="2544,541,2717,568"/>
+<area shape="rect" id="node35" href="$classWsSiteMapView.html#a10b1af4aba90f3d1da198a62c2f3c9cc" title="WsSiteMapView::currentFolderPath" alt="" coords="2265,769,2495,796"/>
+<area shape="rect" id="node40" href="$classWsSiteMapView.html#a3de282b95698f38ff9b08ac1b74a4607" title="WsSiteMapView::doNewFolder" alt="" coords="2011,699,2215,725"/>
+<area shape="rect" id="node41" href="$classWsSiteMapView.html#aac60ad275a96c896c4626338152cb174" title="WsSiteMapView::doConfirm\lDelete" alt="" coords="2020,622,2207,663"/>
+<area shape="rect" id="node43" href="$classWsSiteMapView.html#a9f2d66c94232be461436bee206923be9" title="WsSiteMapView::doRename" alt="" coords="2018,571,2209,597"/>
+<area shape="rect" id="node42" href="$classWsSiteMapView.html#acc1003159da3b0899c228a247530e3bb" title="WsSiteMapView::doDelete" alt="" coords="2291,629,2469,656"/>
+<area shape="rect" id="node45" href="$classWsSiteMapView.html#abf37285091e189d3d83c0aa4a09e88f3" title="WsSiteMapView::treeMatchPath" alt="" coords="1225,444,1437,471"/>
+<area shape="rect" id="node46" href="$classWsSiteMapView.html#a794ff22bf5e0af852e27c033678d7479" title="WsSiteMapView::treeTraverse" alt="" coords="1485,403,1685,429"/>
+<area shape="rect" id="node48" href="$classWsFormConfig.html#af11d285bd57ed3b7743adc1dc2a475d4" title="WsFormConfig::setEditorFhtml" alt="" coords="973,109,1176,136"/>
+<area shape="rect" id="node51" href="$classWsModule.html#a04e647cf7d62f01cb313b17882c58a45" title="WsModule::isLoaded" alt="" coords="743,735,887,761"/>
+<area shape="rect" id="node52" href="$classWsModule.html#a0c2bcda32270c4c4df4b608a063367f2" title="WsModule::fileName" alt="" coords="743,532,887,559"/>
+<area shape="rect" id="node53" href="$classWsModule.html#afde919cc72b6789a49ed70991a2632a0" title="WsModule::extension" alt="" coords="741,583,889,609"/>
+<area shape="rect" id="node54" href="$classWsModule.html#a92693e3cfafb573455b6b3d11f6a4a99" title="WsModule::hideImages" alt="" coords="735,633,894,660"/>
+<area shape="rect" id="node56" href="$classWsModule.html#a28f73a82cd5bdcf04a4fb0f66fe62507" title="WsModule::sysPath" alt="" coords="1005,852,1145,879"/>
+<area shape="rect" id="node58" href="$classWsModule.html#a6a09416271fad86374a717ec61d4c700" title="WsModule::diffPath" alt="" coords="1006,1055,1143,1081"/>
+<area shape="rect" id="node62" href="$classWsTemplate.html#a976fb4b4dc3d1f41aba4269cdf84442d" title="WsTemplate::matchTemplate" alt="" coords="461,1105,656,1132"/>
+<area shape="rect" id="node64" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="1005,1127,1145,1169"/>
+</map>

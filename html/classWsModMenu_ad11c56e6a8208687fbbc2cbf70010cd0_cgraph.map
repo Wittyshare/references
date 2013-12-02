@@ -1,0 +1,6 @@
+<map id="WsModMenu::createContents" name="WsModMenu::createContents">
+<area shape="rect" id="node2" href="$classWsOptions.html#a323a59ee0cd514354fb6fc049a3de0c6" title="Set all options. " alt="" coords="251,5,410,32"/>
+<area shape="rect" id="node3" href="$classWsOptions.html#ab06d33752bb750f78a3c177a00b0df2c" title="Get all options. " alt="" coords="262,56,399,83"/>
+<area shape="rect" id="node4" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="265,107,396,133"/>
+<area shape="rect" id="node5" href="$classWsOptions.html#adc4c4fdf38c2d3e9675c1bb9713860e5" title="Output all options. " alt="" coords="251,157,410,184"/>
+</map>

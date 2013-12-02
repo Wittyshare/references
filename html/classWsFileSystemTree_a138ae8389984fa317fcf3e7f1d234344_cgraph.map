@@ -1,0 +1,9 @@
+<map id="WsFileSystemTree::start" name="WsFileSystemTree::start">
+<area shape="rect" id="node2" href="$classWsFileSystemTree.html#aeb48fae404eb47b9752cd8f500620d16" title="creates unique stamp for the tree " alt="" coords="221,38,400,79"/>
+<area shape="rect" id="node3" href="$classWsDirectoryCrawler.html#ad01923bf17c2e8b4e5aaebfa9d159436" title="Start crawling over all the files and directories/subdirectories. " alt="" coords="241,103,381,145"/>
+<area shape="rect" id="node4" href="$classWsDirectoryCrawler.html#a6af71994b2645d374d654882c0fec63c" title="applies the required action if file or folder, and browse its children " alt="" coords="449,103,589,145"/>
+<area shape="rect" id="node5" href="$classWsDirectoryCrawler.html#a4f9f0884c2aed4abb4c2c9287a6f3c64" title="this method is called by browse when the boost::filesystem::path is a file " alt="" coords="638,5,778,46"/>
+<area shape="rect" id="node6" href="$classWsDirectoryCrawler.html#a8affd4a4f930e25d4472f5bc40fa1575" title="this method is called by browse when the boost::filesystem::path is a folder " alt="" coords="638,70,778,111"/>
+<area shape="rect" id="node7" href="$classWsDirectoryCrawler.html#afea0e27c93ea4f11f13b9b75c78aa0df" title="this method is called before browsing a subdirectory " alt="" coords="638,135,778,177"/>
+<area shape="rect" id="node8" href="$classWsDirectoryCrawler.html#ad0701c64a63095413d4afe3b261e14d0" title="this method is called when finished browsing the subdir " alt="" coords="638,201,778,242"/>
+</map>

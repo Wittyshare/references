@@ -1,0 +1,5 @@
+<map id="WsFsTreeModification::isAdministrator" name="WsFsTreeModification::isAdministrator">
+<area shape="rect" id="node2" href="$classWsFsTreeModification.html#a780e42cfbf8e31b09f0155b360cd2f38" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="209,5,362,46"/>
+<area shape="rect" id="node3" href="$classWsFsTreeModification.html#a03ed64bf7c489d4fe6b2d8c9a7b424c3" title="delete a node. The user must be an Admin on editor to remove the node " alt="" coords="209,70,362,111"/>
+<area shape="rect" id="node4" href="$classWsFsTreeModification.html#a4c6bde414ae6df95ade0670fefd04e21" title="renames a node " alt="" coords="209,135,362,177"/>
+</map>

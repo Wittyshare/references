@@ -1,0 +1,7 @@
+<map id="WsDirNode::getSize" name="WsDirNode::getSize">
+<area shape="rect" id="node2" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="197,5,336,46"/>
+<area shape="rect" id="node4" href="$classWsNode.html#ae108b80ed1982c902f5324f41f2ccadc" title="combine the vector of files and directories into a single one " alt="" coords="209,71,324,97"/>
+<area shape="rect" id="node3" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="384,5,531,46"/>
+<area shape="rect" id="node5" href="$classWsNode.html#a68151d8d1aefb6041f9b395a2be8749d" title="sort the nodes using the sort number or the name if not provided " alt="" coords="406,71,509,97"/>
+<area shape="rect" id="node6" href="$classWsNode.html#af6decf1365e61fbe5ef93e5c25c5db69" title="get a node property reprensented by section/id If no value found, the value def is returned ..." alt="" coords="579,71,727,97"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="WsNewsLetter::load" name="WsNewsLetter::load">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="1165,119,1296,145"/>
+<area shape="rect" id="node3" href="$classWsNewsLetter.html#a42d7ee5044c1374a9a38b9b9b9a7d483" title="WsNewsLetter::initDB" alt="" coords="451,43,605,69"/>
+<area shape="rect" id="node4" href="$classWsNewsLetter.html#acce3eb3f6d1cff5e112d4896dc73b819" title="WsNewsLetter::doLineEdit\lChanged" alt="" coords="200,145,379,186"/>
+<area shape="rect" id="node5" href="$classWsNewsLetter.html#a198b1cc8bb94ef7fcda31498af703991" title="WsNewsLetter::doSubscribe" alt="" coords="195,93,384,120"/>
+<area shape="rect" id="node6" href="$classWsNewsLetter.html#aaf393a70631c5fd1e1eacc9db5595f3a" title="WsNewsLetter::isEmailExist\lInLdap" alt="" coords="433,115,623,157"/>
+<area shape="rect" id="node7" href="$classWsNewsLetter.html#a338e6b7ff81d2881190832c38e29dcbf" title="WsNewsLetter::emailNotInLdap" alt="" coords="672,245,880,272"/>
+<area shape="rect" id="node13" href="$classWsNewsLetter.html#aefea0752dcb0bc96d1df27d6b5f7e7bf" title="WsNewsLetter::multipleEmail" alt="" coords="679,144,873,171"/>
+<area shape="rect" id="node8" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="948,297,1087,338"/>
+<area shape="rect" id="node10" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="935,365,1099,392"/>
+<area shape="rect" id="node12" href="$classWsNewsLetter.html#a3aed8da5b70e51c2f856aa95479718f8" title="WsNewsLetter::sendEmail" alt="" coords="928,195,1107,221"/>
+<area shape="rect" id="node9" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="1157,294,1304,335"/>
+<area shape="rect" id="node11" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="1155,359,1306,401"/>
+</map>

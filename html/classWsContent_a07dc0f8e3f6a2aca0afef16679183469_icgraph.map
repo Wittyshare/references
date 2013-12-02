@@ -1,0 +1,7 @@
+<map id="WsContent::setPath" name="WsContent::setPath">
+<area shape="rect" id="node2" href="$classWsApplication.html#af7dc5a57f0d2c6c8665448eff58b1ec6" title="WsApplication::doEndDialog\lLogon" alt="" coords="686,22,874,63"/>
+<area shape="rect" id="node4" href="$classWsApplication.html#a956434c65f71c50316accd225f8a6eba" title="WsApplication::setTemplate" alt="" coords="195,29,381,56"/>
+<area shape="rect" id="node6" href="$classWsTemplate.html#aa52e76936f048579c3f30cbd8e89e56e" title="WsTemplate::resolveString" alt="" coords="198,80,378,106"/>
+<area shape="rect" id="node3" href="$classWsApplication.html#a29ac18bb68852e810b83a2c4a07fc076" title="WsApplication::WsApplication" alt="" coords="923,29,1122,56"/>
+<area shape="rect" id="node5" href="$classWsApplication.html#a7711df944987d727e7bed0ce8e77d5b6" title="WsApplication::doPathChanged" alt="" coords="430,80,637,106"/>
+</map>

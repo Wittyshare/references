@@ -1,0 +1,8 @@
+<map id="WsFsDaemonClient::receiveAllGroups" name="WsFsDaemonClient::receiveAllGroups">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#af4661a8e5332f6a1f4c84f630302e9eb" title="receive a string from the daemon. " alt="" coords="246,15,437,41"/>
+<area shape="rect" id="node5" href="$classWsArrayDeserializer.html#af240237903e750f0346f6dbb8a621772" title="Deserialize contents serialized by WsArraySerialize::serialize. " alt="" coords="270,67,413,109"/>
+<area shape="rect" id="node7" href="$classWsArrayDeserializer.html#a0414e453f89e621d9a1e7d3cbd273b83" title="returns the set serialized The method deserialize must be called prior to this method ..." alt="" coords="270,133,413,174"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#ad439887502505543006d0b81df68e247" title="Converts raw data received to string. This method should be used each time data is received from netw..." alt="" coords="485,5,683,46"/>
+<area shape="rect" id="node4" href="$classWsDecompressor.html#a9e416710113e7f86207ebb894fef628c" title="decompress the input data and store result in uncompressedData " alt="" coords="731,12,938,39"/>
+<area shape="rect" id="node6" href="$classWsArrayDeserializer.html#ac28bc5444ada08159c8326f9a7735b47" title="parse the Json " alt="" coords="513,70,655,111"/>
+</map>

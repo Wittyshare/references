@@ -1,0 +1,6 @@
+<map id="WsContent::doEditPage" name="WsContent::doEditPage">
+<area shape="rect" id="node2" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="233,12,401,39"/>
+<area shape="rect" id="node4" href="$classWsContent.html#a76963d6e8fdb93f841cd04bf48002db5" title="WsContent::clear" alt="" coords="255,63,379,89"/>
+<area shape="rect" id="node5" href="$classWsFormConfig.html#af11d285bd57ed3b7743adc1dc2a475d4" title="WsFormConfig::setEditorFhtml" alt="" coords="216,113,419,140"/>
+<area shape="rect" id="node3" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="467,5,607,46"/>
+</map>

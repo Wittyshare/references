@@ -1,0 +1,16 @@
+<map id="WsFormConfig::WsFormConfig" name="WsFormConfig::WsFormConfig">
+<area shape="rect" id="node2" href="$classWsUser.html#a73f8533863784a014d9d73e4f537aa1a" title="return the name of the person " alt="" coords="276,19,433,45"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a59bb917b5c4ef4f2ebb1b3305e43d1c6" title="return the surname of the person " alt="" coords="281,73,429,100"/>
+<area shape="rect" id="node6" href="$classWsFormConfig.html#af832a4f405a006145e516210da407345" title="WsFormConfig::doCancel" alt="" coords="268,124,441,151"/>
+<area shape="rect" id="node7" href="$classWsFormConfig.html#a5f7a470daba1f183371e0714d7f7450a" title="WsFormConfig::doSave" alt="" coords="273,175,436,201"/>
+<area shape="rect" id="node12" href="$classWsModulesLoader.html#a5469c485c29608bfb81468cc7c08a115" title="WsModulesLoader::modules" alt="" coords="261,225,448,252"/>
+<area shape="rect" id="node13" href="$classWsModule.html#a04e647cf7d62f01cb313b17882c58a45" title="WsModule::isLoaded" alt="" coords="283,276,427,303"/>
+<area shape="rect" id="node14" href="$classWsModule.html#aa8b8865d8904171e9a111a4523899480" title="Create the contents for an editor (create a view of options). " alt="" coords="273,327,436,353"/>
+<area shape="rect" id="node15" href="$classWsModule.html#afa69d8c1738d9dc15d7bc266738c64b2" title="WsModule::moduleName" alt="" coords="270,377,439,404"/>
+<area shape="rect" id="node3" href="$classWsAbstractFsClient.html#aebf836e866ef1798bdb2304ad4d8b5c3" title="get the Name of the user " alt="" coords="509,5,649,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a8ca0f15f18a85f583b248df10a79126d" title="get the surname of the user " alt="" coords="509,70,649,111"/>
+<area shape="rect" id="node8" href="$classWsUser.html#a0e164dbcc4a0640ade32c9cd823fd68a" title="save the properties of the node on disk. The user must have access and edit rights for the node..." alt="" coords="496,157,661,184"/>
+<area shape="rect" id="node10" href="$classWsUser.html#ae3b1bb8d074b3ec3dfd3601a3e35631c" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="503,212,655,239"/>
+<area shape="rect" id="node9" href="$classWsAbstractFsClient.html#a1bca081692299570498d87e00dd073e1" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="710,146,850,187"/>
+<area shape="rect" id="node11" href="$classWsAbstractFsClient.html#ab9dd2c89eb4f57efe87a25b95d78bbfe" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="710,211,850,253"/>
+</map>

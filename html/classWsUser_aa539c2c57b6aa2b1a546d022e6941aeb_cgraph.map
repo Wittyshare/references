@@ -1,0 +1,7 @@
+<map id="WsUser::load" name="WsUser::load">
+<area shape="rect" id="node2" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="171,7,309,49"/>
+<area shape="rect" id="node4" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="158,75,322,101"/>
+<area shape="rect" id="node6" href="$classWsAbstractFsClient.html#a16a762b2668b8e1d7dcb4f4e2435af05" title="loads the user info " alt="" coords="170,126,310,167"/>
+<area shape="rect" id="node3" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="373,5,520,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="371,70,522,111"/>
+</map>

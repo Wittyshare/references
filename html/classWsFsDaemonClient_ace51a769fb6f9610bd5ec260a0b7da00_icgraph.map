@@ -1,0 +1,5 @@
+<map id="WsFsDaemonClient::parse" name="WsFsDaemonClient::parse">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#a00d08d111f383888751ad5664309ca44" title="receive the answer after performing an Auth request to the daemon " alt="" coords="235,5,426,46"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#a6455eae7d6b86ef080e8799bcaa87941" title="authenticate user. Sends an auth request to the daemon " alt="" coords="475,12,680,39"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#a00c0033ccd129716dc0caf84aad5d7e4" title="loads the user info " alt="" coords="729,12,901,39"/>
+</map>

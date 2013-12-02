@@ -1,0 +1,10 @@
+<map id="WsNodeProperties::getRoot" name="WsNodeProperties::getRoot">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#a4c209c4991e3f6fd34c6c7bbb735febe" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="240,5,475,32"/>
+<area shape="rect" id="node3" href="$classWsFsTreeClient.html#aaa48647e66e6bb94f0b8a4db060334e9" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="251,56,463,83"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#a0a2358482d318fff85ccea958c3eaef9" title="sends all the properties of a node " alt="" coords="240,107,475,133"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="523,107,725,133"/>
+<area shape="rect" id="node6" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="773,107,912,133"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1224,107,1403,133"/>
+<area shape="rect" id="node9" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="960,132,1176,159"/>
+<area shape="rect" id="node8" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1451,107,1501,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="WsMenu::makeLink" name="WsMenu::makeLink">
+<area shape="rect" id="node2" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="193,12,343,39"/>
+<area shape="rect" id="node3" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="393,5,533,46"/>
+</map>

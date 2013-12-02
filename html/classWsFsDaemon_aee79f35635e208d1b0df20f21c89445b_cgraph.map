@@ -1,0 +1,18 @@
+<map id="WsFsDaemon::handleAuthRequest" name="WsFsDaemon::handleAuthRequest">
+<area shape="rect" id="node2" href="$classWsFsDaemon.html#a1203c38d45d323c00248e9e1d3b1ea16" title="returns true or false whether the section of a user is still active or not " alt="" coords="283,5,491,32"/>
+<area shape="rect" id="node3" href="$classWsUserSession.html#a0ff4ad17e5fad31a99b18b14373de4e6" title="WsUserSession::getName" alt="" coords="297,56,476,83"/>
+<area shape="rect" id="node4" href="$classWsUserSession.html#a812c4f6413df42290f2614fc15b3f3b5" title="WsUserSession::getSurname" alt="" coords="289,107,484,133"/>
+<area shape="rect" id="node5" href="$classWsUserSession.html#ac00ca7722d2d7db5a608b5c97755e2a2" title="WsUserSession::getEmail" alt="" coords="299,157,475,184"/>
+<area shape="rect" id="node6" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="315,208,458,235"/>
+<area shape="rect" id="node8" href="$classWsAuthenticator.html#a7ec1a8a40cece9633815c464abdfe125" title="authentify the user. " alt="" coords="295,259,479,285"/>
+<area shape="rect" id="node9" href="$classWsAuthenticator.html#a664f538d9b56c3acab26751202d57770" title="return the user uid WsAuthenticator::authentify must be called before " alt="" coords="304,309,469,336"/>
+<area shape="rect" id="node10" href="$classWsAuthenticator.html#ae5fd81dfc6a89be3ffed07b320ebb67a" title="return the user name WsAuthenticator::authentify must be called before " alt="" coords="283,360,490,387"/>
+<area shape="rect" id="node11" href="$classWsAuthenticator.html#a09985952ce54e40278c1b441c58812bb" title="return the user surname WsAuthenticator::authentify must be called before " alt="" coords="288,411,485,437"/>
+<area shape="rect" id="node12" href="$classWsAuthenticator.html#a65ce0eca03619d85582582ef2ca6ab08" title="return the user email WsAuthenticator::authentify must be called before " alt="" coords="297,461,476,488"/>
+<area shape="rect" id="node13" href="$classWsAuthenticator.html#a8885a806546abcefd8b1638c46ff4b65" title="return the user groups WsAuthenticator::authentify must be called before " alt="" coords="300,513,473,554"/>
+<area shape="rect" id="node14" href="$classWsUserSession.html#aa100dc0b2b1630af172e29729096d4fc" title="set the name of the user " alt="" coords="297,579,476,605"/>
+<area shape="rect" id="node15" href="$classWsUserSession.html#ab2e27c102b808723847b642c7df01182" title="set the surname of the user " alt="" coords="289,629,484,656"/>
+<area shape="rect" id="node16" href="$classWsUserSession.html#a508d579556e679c89d76a2eddd5f4e7b" title="set the email of the user " alt="" coords="299,680,475,707"/>
+<area shape="rect" id="node17" href="$classWsUserSession.html#a7a337736da48712a8da99396c7f561ee" title="sets the groups of a user " alt="" coords="294,731,479,757"/>
+<area shape="rect" id="node7" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="539,208,717,235"/>
+</map>

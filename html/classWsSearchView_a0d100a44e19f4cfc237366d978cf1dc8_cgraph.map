@@ -1,0 +1,13 @@
+<map id="WsSearchView::WsSearchView" name="WsSearchView::WsSearchView">
+<area shape="rect" id="node2" href="$classWsLayoutProperties.html#a1467b795cdaf3370f5ad0790901720be" title="Get the singleton instance. " alt="" coords="303,13,443,54"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="298,81,449,108"/>
+<area shape="rect" id="node6" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="289,139,457,165"/>
+<area shape="rect" id="node8" href="$classWsUser.html#a911c4ac5d3c3e8318ac472e5d14632d2" title="search for all matching results of terms using WsSearch class " alt="" coords="282,189,465,216"/>
+<area shape="rect" id="node10" href="$classWsSearchItem.html#a1b87e8aa0f2fa2823b1c267fe0c8005d" title="WsSearchItem::setNode" alt="" coords="290,240,457,267"/>
+<area shape="rect" id="node11" href="$classWsSearchView.html#ac0bf9ec08623fb2fc6365901f99c0d1d" title="WsSearchView::onViewDblClick" alt="" coords="267,291,480,317"/>
+<area shape="rect" id="node12" href="$classWsSearchView.html#a679527172b31b2a4e89b32eb03b8d774" title="WsSearchView::onViewSelection\lChanged" alt="" coords="265,342,482,383"/>
+<area shape="rect" id="node3" href="$classWsLayoutProperties.html#a45ec92c0b851148be2526257fe8528dc" title="Default Constructor. " alt="" coords="531,5,679,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="535,70,675,111"/>
+<area shape="rect" id="node7" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="535,135,675,177"/>
+<area shape="rect" id="node9" href="$classWsAbstractFsClient.html#a5103b87e12712ae9a3415c911852d5c8" title="get search results, passing the text that is searched " alt="" coords="535,201,675,242"/>
+</map>

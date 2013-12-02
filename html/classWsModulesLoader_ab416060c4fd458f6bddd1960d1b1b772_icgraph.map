@@ -1,0 +1,12 @@
+<map id="WsModulesLoader::pathWithoutPrefix" name="WsModulesLoader::pathWithoutPrefix">
+<area shape="rect" id="node2" href="$classWsTwitterEditorWidget.html#ae562cfff70374e79a2524c682de050fc" title="WsTwitterEditorWidget\l::load" alt="" coords="267,5,424,46"/>
+<area shape="rect" id="node3" href="$classWsTwitterEditorWidget.html#ae473434ccb6d4e35f182cf202c7c3053" title="WsTwitterEditorWidget\l::saveEditor" alt="" coords="267,70,424,111"/>
+<area shape="rect" id="node4" href="$classWsZipEditorWidget.html#a1077db146aec9662710d5fc71b2ae00a" title="Load the widget. " alt="" coords="262,136,429,163"/>
+<area shape="rect" id="node5" href="$classWsZipEditorWidget.html#ae50bab30cf767931698613bc8ad9c400" title="WsZipEditorWidget::\lsaveEditor" alt="" coords="274,187,417,229"/>
+<area shape="rect" id="node6" href="$classWsModZip.html#a68b5155de3288e55e4af783f4576dc5f" title="WsModZip::handleFiles" alt="" coords="266,253,425,280"/>
+<area shape="rect" id="node11" href="$classWsModZip.html#a4828d70acaa9d1e3e568633fcfb2db45" title="WsModZip::handleAll" alt="" coords="272,304,419,331"/>
+<area shape="rect" id="node7" href="$classWsModZip.html#a0302044f92c076aac60d06ce19f0e653" title="WsModZip::handleAccept" alt="" coords="478,279,650,305"/>
+<area shape="rect" id="node8" href="$classWsModZip.html#a861e0a9290c136361a40164cb9161072" title="WsModZip::handleZipClick" alt="" coords="699,279,877,305"/>
+<area shape="rect" id="node9" href="$classWsModZip.html#a15a8b6b3c9d78cc6bfa23a825c3444fe" title="WsModZip::buildMenuBar" alt="" coords="926,279,1098,305"/>
+<area shape="rect" id="node10" href="$classWsModZip.html#a1b1adb89a0d3a62364d3d26e2d204d41" title="Create the functionalities. " alt="" coords="1147,271,1330,313"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="WsResultItem" name="WsResultItem">
+<area shape="rect" id="node2" href="$classWsFileNode.html" title="Reprensents a File on disk. " alt="" coords="31,809,177,1018"/>
+<area shape="rect" id="node3" href="$classWsNode.html" title="Represents a node on disk. " alt="" coords="31,507,177,760"/>
+<area shape="rect" id="node4" href="$classWsAbstractNode.html" title="Contains Abstract metods on nodes and variables. " alt="" coords="29,147,179,459"/>
+</map>

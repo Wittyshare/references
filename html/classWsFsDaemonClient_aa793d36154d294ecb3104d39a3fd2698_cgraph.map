@@ -1,0 +1,11 @@
+<map id="WsFsDaemonClient::getSearchResults" name="WsFsDaemonClient::getSearchResults">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#a80f2d774d9ee3c2bf0ec9294dbb2c27d" title="sends a string to the daemon " alt="" coords="269,19,445,45"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#ac2fb37cdc3fe98eba12ee3e85a68ea18" title="receive the search results after a getSearchResults() request " alt="" coords="262,95,453,137"/>
+<area shape="rect" id="node3" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="508,5,687,32"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#af4661a8e5332f6a1f4c84f630302e9eb" title="receive a string from the daemon. " alt="" coords="502,56,693,83"/>
+<area shape="rect" id="node8" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="528,107,667,149"/>
+<area shape="rect" id="node10" href="$classWsNode.html#a1ffd963f578a892f07948187220982b9" title="sets the modification date of the file. This method does not change the actual modification date of t..." alt="" coords="514,173,681,200"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#ad439887502505543006d0b81df68e247" title="Converts raw data received to string. This method should be used each time data is received from netw..." alt="" coords="741,45,939,86"/>
+<area shape="rect" id="node7" href="$classWsDecompressor.html#a9e416710113e7f86207ebb894fef628c" title="decompress the input data and store result in uncompressedData " alt="" coords="987,52,1194,79"/>
+<area shape="rect" id="node9" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="767,110,913,151"/>
+</map>

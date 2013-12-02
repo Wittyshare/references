@@ -1,0 +1,24 @@
+<map id="WsMonitor::start" name="WsMonitor::start">
+<area shape="rect" id="node2" href="$classWsMonitor.html#a3d1887ca1598b3f13e602d3bedfee868" title="Starts monitoring the Files of the filesystemtree Should be started in a separated thread..." alt="" coords="174,5,346,32"/>
+<area shape="rect" id="node8" href="$classWsMonitor.html#a5cfb31a222c13cc48adb63beede50068" title="Starts monitoring the config Files of the filesystemtree Should be started in a separated thread..." alt="" coords="174,57,346,98"/>
+<area shape="rect" id="node10" href="$classWsMonitor.html#a3d6b4527581c30919b32b270151d01fe" title="Starts loop that will monitor the m_updated variable every m_delay and update the tree if changed occ..." alt="" coords="176,151,344,177"/>
+<area shape="rect" id="node3" href="$classWsMonitor.html#aa32cab0265d0b81d5937126b46325b41" title="Called when a change occurs on a file monitored. " alt="" coords="663,5,790,32"/>
+<area shape="rect" id="node4" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="897,103,1036,145"/>
+<area shape="rect" id="node6" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="885,49,1049,76"/>
+<area shape="rect" id="node5" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="1115,105,1261,146"/>
+<area shape="rect" id="node7" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="1113,39,1263,81"/>
+<area shape="rect" id="node9" href="$classWsMonitor.html#a578d8f7785f9023df702c87d65d4b768" title="Called when a change occurs on a conf file monitored. " alt="" coords="649,56,804,83"/>
+<area shape="rect" id="node11" href="$classWsFsTreeUpdater.html#acfac488f75979736a1994db6d2116d07" title="update the fsTree " alt="" coords="395,180,571,207"/>
+<area shape="rect" id="node12" href="$classWsFsTreeUpdater.html#a57ada059d4948ec14f990fbaa740c491" title="Updates the tree in a thread. " alt="" coords="619,289,834,316"/>
+<area shape="rect" id="node13" href="$classWsFileSystemTree.html#a138ae8389984fa317fcf3e7f1d234344" title="crawls the diretory and sorts the children. It is called by WsDirectoryCrawler::start() ..." alt="" coords="883,265,1051,292"/>
+<area shape="rect" id="node21" href="$classWsFileSystemTree.html#a707feea4d28d208a0def9d62f8dfd7e1" title="returns the std::vector containing the boost::filesystem::path that should be monitored by the WsUpda..." alt="" coords="625,341,828,382"/>
+<area shape="rect" id="node22" href="$classWsAbstractMonitor.html#abf0987d81929eeb7baade6ac9a60a1b4" title="starts the monitoring process " alt="" coords="655,173,798,214"/>
+<area shape="rect" id="node23" href="$classWsFsTreeUpdater.html#ab15fd036c3dfb4791b2c65804ba60f8e" title="Starts the regular update of the tree. " alt="" coords="623,107,831,149"/>
+<area shape="rect" id="node14" href="$classWsFileSystemTree.html#aeb48fae404eb47b9752cd8f500620d16" title="creates unique stamp for the tree " alt="" coords="1099,194,1277,235"/>
+<area shape="rect" id="node15" href="$classWsDirectoryCrawler.html#ad01923bf17c2e8b4e5aaebfa9d159436" title="Start crawling over all the files and directories/subdirectories. " alt="" coords="1118,259,1258,301"/>
+<area shape="rect" id="node16" href="$classWsDirectoryCrawler.html#a6af71994b2645d374d654882c0fec63c" title="applies the required action if file or folder, and browse its children " alt="" coords="1326,259,1466,301"/>
+<area shape="rect" id="node17" href="$classWsDirectoryCrawler.html#a4f9f0884c2aed4abb4c2c9287a6f3c64" title="this method is called by browse when the boost::filesystem::path is a file " alt="" coords="1515,161,1655,202"/>
+<area shape="rect" id="node18" href="$classWsDirectoryCrawler.html#a8affd4a4f930e25d4472f5bc40fa1575" title="this method is called by browse when the boost::filesystem::path is a folder " alt="" coords="1515,226,1655,267"/>
+<area shape="rect" id="node19" href="$classWsDirectoryCrawler.html#afea0e27c93ea4f11f13b9b75c78aa0df" title="this method is called before browsing a subdirectory " alt="" coords="1515,291,1655,333"/>
+<area shape="rect" id="node20" href="$classWsDirectoryCrawler.html#ad0701c64a63095413d4afe3b261e14d0" title="this method is called when finished browsing the subdir " alt="" coords="1515,357,1655,398"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WsFileUpload::load" name="WsFileUpload::load">
+<area shape="rect" id="node2" href="$classWsFileUpload.html#a9001c6df2a55a10d4c749ea6ead5cf32" title="WsFileUpload::doUpload" alt="" coords="207,5,374,32"/>
+<area shape="rect" id="node3" href="$classWsFileUpload.html#ab75bf5b33323501f9080498afd28df61" title="WsFileUpload::doUploaded" alt="" coords="200,56,381,83"/>
+<area shape="rect" id="node6" href="$classWsFileUpload.html#adc1bde0f92c9c68384572584b8a94215" title="WsFileUpload::doFileTooLarge" alt="" coords="190,107,391,133"/>
+<area shape="rect" id="node4" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="441,56,591,83"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="641,49,781,90"/>
+</map>

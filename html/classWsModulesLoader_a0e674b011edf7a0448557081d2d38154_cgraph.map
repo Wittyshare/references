@@ -1,0 +1,17 @@
+<map id="WsModulesLoader::load" name="WsModulesLoader::load">
+<area shape="rect" id="node2" href="$classWsModulesLoader.html#a5469c485c29608bfb81468cc7c08a115" title="WsModulesLoader::modules" alt="" coords="451,26,637,53"/>
+<area shape="rect" id="node3" href="$classWsModulesLoader.html#ad4f6b4dc69ab16b7a8f0c982bafab995" title="WsModulesLoader::module" alt="" coords="219,51,399,78"/>
+<area shape="rect" id="node4" href="$classWsModule.html#afa69d8c1738d9dc15d7bc266738c64b2" title="WsModule::moduleName" alt="" coords="459,102,629,129"/>
+<area shape="rect" id="node5" href="$classWsModule.html#a90a0a605c94b78a91ed9e8be12f532e2" title="Set/Get the module so name or path ex. libgd.so or /usr/lib/libgd.so. " alt="" coords="229,203,390,230"/>
+<area shape="rect" id="node7" href="$classWsModule.html#a1d5a6023c28cc0631eefc740fa641a81" title="Set/Get the module name. " alt="" coords="216,153,403,179"/>
+<area shape="rect" id="node8" href="$classWsModule.html#ab8f21a93f1991b6b0696ff7b12c36006" title="Set/Get the file name that trigger the module : exemple &quot;Staff List&quot;. " alt="" coords="226,254,393,281"/>
+<area shape="rect" id="node10" href="$classWsModule.html#a9f45dcbe9d8ccd316a4e672d779f7abc" title="Set/Get the file extension managed by the module : exemple .ods|.odp. " alt="" coords="222,305,397,331"/>
+<area shape="rect" id="node11" href="$classWsModule.html#abe7077d25554439c169a945aebfe0907" title="Set/Get prefix for a virtual path, like &quot;/SiteMap&quot;. " alt="" coords="237,355,381,382"/>
+<area shape="rect" id="node13" href="$classWsModule.html#a70f7699779b34b5ba8dfbb83db87e9e0" title="Set/Get the flag to specified if the images is hided. " alt="" coords="219,406,399,433"/>
+<area shape="rect" id="node14" href="$classWsOptions.html#a1d6f864ac2feb47570c535d1251c2b54" title="Set an options if previously set, update the value. " alt="" coords="234,457,385,483"/>
+<area shape="rect" id="node15" href="$classWsModule.html#a8d4a39097c5906c52e9a99e11f86c50d" title="Create the contents. " alt="" coords="219,507,400,534"/>
+<area shape="rect" id="node16" href="$classWsModule.html#a7b1165bd14554245700e6bc79e28f153" title="Some modules can be loaded on startup, no more actions is required by the content widget..." alt="" coords="233,558,385,585"/>
+<area shape="rect" id="node6" href="$classWsModule.html#aaa586fcadcb6435e7301940cfe4a183c" title="WsModule::soName" alt="" coords="473,203,615,230"/>
+<area shape="rect" id="node9" href="$classWsModule.html#a0c2bcda32270c4c4df4b608a063367f2" title="WsModule::fileName" alt="" coords="472,254,616,281"/>
+<area shape="rect" id="node12" href="$classWsModule.html#a46cd4225764c03a9c92672f947f9ff4f" title="WsModule::prefix" alt="" coords="482,355,606,382"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="WsNewsLetter::isEmailExistInLdap" name="WsNewsLetter::isEmailExistInLdap">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="739,28,869,54"/>
+<area shape="rect" id="node3" href="$classWsNewsLetter.html#a338e6b7ff81d2881190832c38e29dcbf" title="WsNewsLetter::emailNotInLdap" alt="" coords="245,104,453,130"/>
+<area shape="rect" id="node9" href="$classWsNewsLetter.html#aefea0752dcb0bc96d1df27d6b5f7e7bf" title="WsNewsLetter::multipleEmail" alt="" coords="252,28,447,54"/>
+<area shape="rect" id="node4" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="521,155,660,196"/>
+<area shape="rect" id="node6" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="509,222,673,249"/>
+<area shape="rect" id="node8" href="$classWsNewsLetter.html#a3aed8da5b70e51c2f856aa95479718f8" title="WsNewsLetter::sendEmail" alt="" coords="501,53,680,80"/>
+<area shape="rect" id="node5" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="731,152,877,194"/>
+<area shape="rect" id="node7" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="729,218,879,259"/>
+</map>

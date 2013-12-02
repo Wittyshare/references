@@ -1,0 +1,25 @@
+<map id="WsContentButtonsBar::WsContentButtonsBar" name="WsContentButtonsBar::WsContentButtonsBar">
+<area shape="rect" id="node2" href="$classWsUser.html#a24992f478eacf012bef6aa04018dab3e" title="WsUser::isAdministrator" alt="" coords="447,23,612,49"/>
+<area shape="rect" id="node4" href="$classWsUser.html#aec1d48fdef3f51e8f0975ec2ea38f504" title="WsUser::isEditor" alt="" coords="468,128,591,155"/>
+<area shape="rect" id="node6" href="$classWsContentButtonsBar.html#a7e72ba71519afdd47d6518c8e10232dd" title="WsContentButtonsBar\l::doMenuEditPage" alt="" coords="230,191,383,233"/>
+<area shape="rect" id="node7" href="$classWsContentButtonsBar.html#a688a3c524a325f6b3494fa98cd7ddf2f" title="WsContentButtonsBar\l::doFolderNew" alt="" coords="230,375,383,417"/>
+<area shape="rect" id="node13" href="$classWsContentButtonsBar.html#a3f7ef9610dc4d76fb5f19196cc5b8460" title="WsContentButtonsBar\l::doFileNew" alt="" coords="230,257,383,298"/>
+<area shape="rect" id="node17" href="$classWsContentButtonsBar.html#abfa43219d3073aa69b88f442175621f6" title="WsContentButtonsBar\l::doDeleteNode" alt="" coords="230,441,383,482"/>
+<area shape="rect" id="node21" href="$classWsContentButtonsBar.html#a38a2c881a61e510f3ba797119dcba5bc" title="WsContentButtonsBar\l::doFileUpload" alt="" coords="230,74,383,115"/>
+<area shape="rect" id="node24" href="$classWsModule.html#ae2ea3dec28e4424df98814416c9eeaa1" title="Create the functionalities. " alt="" coords="216,506,397,547"/>
+<area shape="rect" id="node3" href="$classWsAbstractFsClient.html#aa4699b93273ca4466afadc5b944cf27f" title="WsAbstractFsClient\l::isAdministrator" alt="" coords="665,5,805,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractFsClient.html#ada5a57e9059061f9fb055ae0534b9f7b" title="WsAbstractFsClient\l::isEditor" alt="" coords="665,135,805,177"/>
+<area shape="rect" id="node8" href="$classWsContentButtonsBar.html#a450398f1e5bfd6d66e692c78e65d4967" title="WsContentButtonsBar\l::doEndFolderNew" alt="" coords="453,441,606,482"/>
+<area shape="rect" id="node11" href="$classWsContentButtonsBar.html#a2962542a66963831bac16714aeb4efc3" title="WsContentButtonsBar\l::doFolderNameChanged" alt="" coords="446,506,613,547"/>
+<area shape="rect" id="node12" href="$classWsContentButtonsBar.html#a72e107033d436c0bf20bbc5a9f265b4e" title="WsContentButtonsBar\l::doFolderEnterPressed" alt="" coords="450,375,609,417"/>
+<area shape="rect" id="node9" href="$classWsUser.html#a65d7695786549ef2019f977f3f1d8018" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="662,351,807,377"/>
+<area shape="rect" id="node10" href="$classWsAbstractFsClient.html#a496cb809f9a75949ddfb9ce5c400dfdf" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="857,343,997,385"/>
+<area shape="rect" id="node14" href="$classWsContentButtonsBar.html#abafde425ea9854f6d5261c23f726a9a6" title="WsContentButtonsBar\l::doEndFileNew" alt="" coords="453,245,606,286"/>
+<area shape="rect" id="node15" href="$classWsContentButtonsBar.html#ad18d5641969f7d6cde4fa1a5eed8930d" title="WsContentButtonsBar\l::doFileNameChanged" alt="" coords="453,310,606,351"/>
+<area shape="rect" id="node16" href="$classWsContentButtonsBar.html#aa1295947b748d2fdd772e14137d469d7" title="WsContentButtonsBar\l::doFileEnterPressed" alt="" coords="453,179,606,221"/>
+<area shape="rect" id="node18" href="$classWsContentButtonsBar.html#affed801d5e16adbcfe9731caf537a912" title="WsContentButtonsBar\l::doMBoxRespons" alt="" coords="453,571,606,613"/>
+<area shape="rect" id="node19" href="$classWsUser.html#ae351a08451e5b9aeb3ebd6ac3f2e5298" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="663,579,807,605"/>
+<area shape="rect" id="node20" href="$classWsAbstractFsClient.html#ad29c005e58d7a1881cb4e77987ee4155" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="857,571,997,613"/>
+<area shape="rect" id="node22" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="454,77,605,104"/>
+<area shape="rect" id="node23" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="665,70,805,111"/>
+</map>

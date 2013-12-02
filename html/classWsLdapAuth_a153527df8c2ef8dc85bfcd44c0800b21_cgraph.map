@@ -1,0 +1,6 @@
+<map id="WsLdapAuth::authentify" name="WsLdapAuth::authentify">
+<area shape="rect" id="node2" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="229,7,368,49"/>
+<area shape="rect" id="node4" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="217,75,381,101"/>
+<area shape="rect" id="node3" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="432,5,579,46"/>
+<area shape="rect" id="node5" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="430,70,581,111"/>
+</map>

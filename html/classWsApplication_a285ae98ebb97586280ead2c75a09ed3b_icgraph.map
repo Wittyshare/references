@@ -1,0 +1,26 @@
+<map id="WsApplication::wsInstance" name="WsApplication::wsInstance">
+<area shape="rect" id="node2" href="$classWsModule.html#a540fdf240488acf3e451ce98a2ca5027" title="WittyShare provide a container to add some buttons like export page in pdf, ..., This function allow ..." alt="" coords="235,12,435,39"/>
+<area shape="rect" id="node9" href="$classWsDirectoryView2.html#a91f34cfd73842c53672d8cfecd17c938" title="WsDirectoryView2::load" alt="" coords="253,63,416,89"/>
+<area shape="rect" id="node10" href="$classWsFollowUs.html#adc6882f91586476ab071a4bc22e4a2e9" title="WsFollowUs::load" alt="" coords="270,113,399,140"/>
+<area shape="rect" id="node11" href="$classWsGalleria.html#afb7af2e830f2a0a1ec84300bfddd8afe" title="WsGalleria::load" alt="" coords="275,164,394,191"/>
+<area shape="rect" id="node12" href="$classWsLatestNews2.html#a74b891f9a69c74afc4f56598ddab9f87" title="WsLatestNews2::setTable" alt="" coords="246,316,423,343"/>
+<area shape="rect" id="node14" href="$classWsLinksList.html#acc3c2ecf65ac869cc5d72954961dc463" title="WsLinksList::load" alt="" coords="271,265,398,292"/>
+<area shape="rect" id="node15" href="$classWsRSS.html#a6d0043db0f876f8e5821da35436d0a68" title="WsRSS::buildRSS" alt="" coords="268,215,401,241"/>
+<area shape="rect" id="node16" href="$classWsTwitterEditorWidget.html#ae562cfff70374e79a2524c682de050fc" title="WsTwitterEditorWidget\l::load" alt="" coords="256,367,413,409"/>
+<area shape="rect" id="node17" href="$classWsTwitterEditorWidget.html#ae473434ccb6d4e35f182cf202c7c3053" title="WsTwitterEditorWidget\l::saveEditor" alt="" coords="256,433,413,474"/>
+<area shape="rect" id="node18" href="$classWsZipEditorWidget.html#a1077db146aec9662710d5fc71b2ae00a" title="Load the widget. " alt="" coords="251,499,418,525"/>
+<area shape="rect" id="node19" href="$classWsZipEditorWidget.html#ae50bab30cf767931698613bc8ad9c400" title="WsZipEditorWidget::\lsaveEditor" alt="" coords="263,550,406,591"/>
+<area shape="rect" id="node20" href="$classWsModZip.html#a68b5155de3288e55e4af783f4576dc5f" title="WsModZip::handleFiles" alt="" coords="501,628,659,655"/>
+<area shape="rect" id="node23" href="$classWsModZip.html#a4828d70acaa9d1e3e568633fcfb2db45" title="WsModZip::handleAll" alt="" coords="507,692,653,719"/>
+<area shape="rect" id="node24" href="$classWsModZip.html#a34eb1d111dc2d35d928b001ed0135f75" title="A. " alt="" coords="247,717,422,744"/>
+<area shape="rect" id="node25" href="$classWsModZip.html#abb67852121ad151ead5368091f8a989a" title="WsModZip::writeAndCloseZip" alt="" coords="237,667,433,693"/>
+<area shape="rect" id="node3" href="$classWsModRSS.html#a149db73c1c9c8f6f680b3a55afcd5cc4" title="WsModRSS::buildMenuBar" alt="" coords="489,193,671,220"/>
+<area shape="rect" id="node5" href="$classWsModTwitter.html#a308528b09520fed2df10890c662ef019" title="WsModTwitter::buildMenuBar" alt="" coords="483,12,677,39"/>
+<area shape="rect" id="node7" href="$classWsModZip.html#a15a8b6b3c9d78cc6bfa23a825c3444fe" title="WsModZip::buildMenuBar" alt="" coords="1206,236,1378,263"/>
+<area shape="rect" id="node4" href="$classWsModRSS.html#ab129e34d397a22348c9f0ffbfd32b921" title="Create the functionalities. " alt="" coords="732,186,924,227"/>
+<area shape="rect" id="node6" href="$classWsModTwitter.html#ad146fcd2961141054b29923e7988a282" title="Create the functionalities. " alt="" coords="726,5,930,46"/>
+<area shape="rect" id="node8" href="$classWsModZip.html#a1b1adb89a0d3a62364d3d26e2d204d41" title="Create the functionalities. " alt="" coords="1427,229,1610,270"/>
+<area shape="rect" id="node13" href="$classWsLatestNews2.html#aac7ecdd2d65cf9b3d33c714b8011f2f5" title="WsLatestNews2::load" alt="" coords="505,316,655,343"/>
+<area shape="rect" id="node21" href="$classWsModZip.html#a0302044f92c076aac60d06ce19f0e653" title="WsModZip::handleAccept" alt="" coords="742,628,914,655"/>
+<area shape="rect" id="node22" href="$classWsModZip.html#a861e0a9290c136361a40164cb9161072" title="WsModZip::handleZipClick" alt="" coords="979,379,1157,405"/>
+</map>

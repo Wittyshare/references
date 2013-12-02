@@ -1,0 +1,22 @@
+<map id="WsFsTreeModification::deleteNode" name="WsFsTreeModification::deleteNode">
+<area shape="rect" id="node2" href="$classWsFsTreeUpdater.html#a1c2d27324258de0d74fc1424c87fae44" title="returns the last created tree " alt="" coords="209,260,415,287"/>
+<area shape="rect" id="node20" href="$classWsFsTreeModification.html#ab5b756bbd3191636d99167289d608892" title="WsFsTreeModification\l::isEditor" alt="" coords="475,335,629,377"/>
+<area shape="rect" id="node21" href="$classWsFsTreeModification.html#a81103ca8f67763eb8e056d386ef3fe0e" title="WsFsTreeModification\l::isAdministrator" alt="" coords="235,394,389,435"/>
+<area shape="rect" id="node3" href="$classWsFsTreeUpdater.html#acfac488f75979736a1994db6d2116d07" title="update the fsTree " alt="" coords="464,227,640,253"/>
+<area shape="rect" id="node4" href="$classWsFsTreeUpdater.html#a57ada059d4948ec14f990fbaa740c491" title="Updates the tree in a thread. " alt="" coords="689,52,903,79"/>
+<area shape="rect" id="node5" href="$classWsFileSystemTree.html#a138ae8389984fa317fcf3e7f1d234344" title="crawls the diretory and sorts the children. It is called by WsDirectoryCrawler::start() ..." alt="" coords="952,77,1120,104"/>
+<area shape="rect" id="node13" href="$classWsFileSystemTree.html#a707feea4d28d208a0def9d62f8dfd7e1" title="returns the std::vector containing the boost::filesystem::path that should be monitored by the WsUpda..." alt="" coords="695,154,897,195"/>
+<area shape="rect" id="node14" href="$classWsAbstractMonitor.html#abf0987d81929eeb7baade6ac9a60a1b4" title="starts the monitoring process " alt="" coords="725,219,867,261"/>
+<area shape="rect" id="node15" href="$classWsFsTreeUpdater.html#ab15fd036c3dfb4791b2c65804ba60f8e" title="Starts the regular update of the tree. " alt="" coords="692,285,900,326"/>
+<area shape="rect" id="node6" href="$classWsFileSystemTree.html#aeb48fae404eb47b9752cd8f500620d16" title="creates unique stamp for the tree " alt="" coords="1168,38,1347,79"/>
+<area shape="rect" id="node7" href="$classWsDirectoryCrawler.html#ad01923bf17c2e8b4e5aaebfa9d159436" title="Start crawling over all the files and directories/subdirectories. " alt="" coords="1187,103,1327,145"/>
+<area shape="rect" id="node8" href="$classWsDirectoryCrawler.html#a6af71994b2645d374d654882c0fec63c" title="applies the required action if file or folder, and browse its children " alt="" coords="1395,103,1535,145"/>
+<area shape="rect" id="node9" href="$classWsDirectoryCrawler.html#a4f9f0884c2aed4abb4c2c9287a6f3c64" title="this method is called by browse when the boost::filesystem::path is a file " alt="" coords="1585,5,1725,46"/>
+<area shape="rect" id="node10" href="$classWsDirectoryCrawler.html#a8affd4a4f930e25d4472f5bc40fa1575" title="this method is called by browse when the boost::filesystem::path is a folder " alt="" coords="1585,70,1725,111"/>
+<area shape="rect" id="node11" href="$classWsDirectoryCrawler.html#afea0e27c93ea4f11f13b9b75c78aa0df" title="this method is called before browsing a subdirectory " alt="" coords="1585,135,1725,177"/>
+<area shape="rect" id="node12" href="$classWsDirectoryCrawler.html#ad0701c64a63095413d4afe3b261e14d0" title="this method is called when finished browsing the subdir " alt="" coords="1585,201,1725,242"/>
+<area shape="rect" id="node16" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="967,283,1105,325"/>
+<area shape="rect" id="node18" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="954,352,1118,379"/>
+<area shape="rect" id="node17" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="1184,281,1331,322"/>
+<area shape="rect" id="node19" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="1182,346,1333,387"/>
+</map>

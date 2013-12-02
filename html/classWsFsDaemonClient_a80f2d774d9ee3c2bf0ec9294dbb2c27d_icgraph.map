@@ -1,0 +1,22 @@
+<map id="WsFsDaemonClient::send" name="WsFsDaemonClient::send">
+<area shape="rect" id="node2" href="$classWsFsDaemonClient.html#a6455eae7d6b86ef080e8799bcaa87941" title="authenticate user. Sends an auth request to the daemon " alt="" coords="527,17,732,43"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#acc106281f61e3d828f3b13bbbd6f76e5" title="clears the server cache (removes the ldap results cached " alt="" coords="242,363,457,404"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#a53c5a67612c6893da2a300a5b1f1bf60" title="get the root node of the menu The root node contains as children all the menu items ..." alt="" coords="236,159,463,186"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonClient.html#a79c958ee0f5b4c68d4bef7c8668c8c6d" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="522,159,737,186"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonClient.html#abbfea61b4460a75c7b95ffd0b91826d0" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="522,210,737,237"/>
+<area shape="rect" id="node9" href="$classWsFsDaemonClient.html#a28c2eef0613c1c9b6be7d933bdc795b4" title="renames a node In case of a WsDirNode, all the contents of the directory and the directory will be mo..." alt="" coords="518,261,741,287"/>
+<area shape="rect" id="node10" href="$classWsFsDaemonClient.html#abf9525f9a34ac2ba5dc9f9e11769c12a" title="Launch the routine that will retrieve new AccessTree from fsdaemon This method should be called in a ..." alt="" coords="537,76,721,117"/>
+<area shape="rect" id="node11" href="$classWsFsDaemonClient.html#ac29790ded4328aefc9bc1c4df36361bb" title="return the root node of the access tree " alt="" coords="230,210,469,237"/>
+<area shape="rect" id="node12" href="$classWsFsDaemonClient.html#a13e75c10dbef7373eafb19a398422df1" title="get the root path " alt="" coords="239,429,460,455"/>
+<area shape="rect" id="node13" href="$classWsFsDaemonClient.html#a2939fe00901ec4c14967e76996c899e5" title="get permission on the path for the used with which the client has been initialised ..." alt="" coords="230,479,469,506"/>
+<area shape="rect" id="node14" href="$classWsFsDaemonClient.html#a3b870d07bd054223559ad12d6e5885b1" title="WsFsDaemonClient::getProperties" alt="" coords="237,530,462,557"/>
+<area shape="rect" id="node15" href="$classWsFsDaemonClient.html#a31c264d184b145201fc062707bde9a8d" title="returns one property of a node If the property does not exist, a empty std::string is returned..." alt="" coords="242,581,457,607"/>
+<area shape="rect" id="node16" href="$classWsFsDaemonClient.html#aa793d36154d294ecb3104d39a3fd2698" title="get search results, passing the text that is searched " alt="" coords="246,632,453,673"/>
+<area shape="rect" id="node17" href="$classWsFsDaemonClient.html#a23ac598707aa7315708ff562b9a09a51" title="returns all possible groups " alt="" coords="259,697,440,739"/>
+<area shape="rect" id="node18" href="$classWsFsDaemonClient.html#a4c209c4991e3f6fd34c6c7bbb735febe" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="232,763,467,790"/>
+<area shape="rect" id="node19" href="$classWsFsDaemonClient.html#ab2a1a27373f0c1dfb7801a037fef9f7b" title="sets one property of the node and save it. " alt="" coords="237,814,462,841"/>
+<area shape="rect" id="node20" href="$classWsFsDaemonClient.html#ab7dba05baaf03b7a01e0bb5211791631" title="WsFsDaemonClient::isEditor" alt="" coords="253,865,445,891"/>
+<area shape="rect" id="node21" href="$classWsFsDaemonClient.html#a795701612784d2969d9a53c63977f28f" title="WsFsDaemonClient::isAdministrator" alt="" coords="232,915,467,942"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#a00c0033ccd129716dc0caf84aad5d7e4" title="loads the user info " alt="" coords="790,50,962,77"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#a8dc291ff305dcdc657327aff61297007" title="destructor " alt="" coords="555,363,703,404"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="WsContentButtonsBar::doEndFolderNew" name="WsContentButtonsBar::doEndFolderNew">
+<area shape="rect" id="node2" href="$classWsUser.html#a65d7695786549ef2019f977f3f1d8018" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="209,12,354,39"/>
+<area shape="rect" id="node3" href="$classWsAbstractFsClient.html#a496cb809f9a75949ddfb9ce5c400dfdf" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="403,5,543,46"/>
+</map>

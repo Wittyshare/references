@@ -1,0 +1,5 @@
+<map id="WsTemplate::WsTemplate" name="WsTemplate::WsTemplate">
+<area shape="rect" id="node2" href="$classWsTemplate.html#a976fb4b4dc3d1f41aba4269cdf84442d" title="WsTemplate::matchTemplate" alt="" coords="232,12,427,39"/>
+<area shape="rect" id="node3" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="475,12,626,39"/>
+<area shape="rect" id="node4" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="675,5,815,46"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="WsUserSession::setName" name="WsUserSession::setName">
+<area shape="rect" id="node2" href="$classWsFsDaemon.html#aee79f35635e208d1b0df20f21c89445b" title="Authenticate user on server Loads the groups which the user belongs to, uid, email, etc.. " alt="" coords="233,5,461,32"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="510,5,711,32"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="760,5,899,32"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1211,5,1389,32"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="947,31,1163,57"/>
+<area shape="rect" id="node6" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1437,5,1488,32"/>
+</map>

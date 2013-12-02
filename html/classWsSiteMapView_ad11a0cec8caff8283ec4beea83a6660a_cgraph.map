@@ -1,0 +1,30 @@
+<map id="WsSiteMapView::setRelativePath" name="WsSiteMapView::setRelativePath">
+<area shape="rect" id="node2" href="$classWsSiteMapView.html#a3aa162ad769f4a68d077757f526bf523" title="WsSiteMapView::load" alt="" coords="753,263,903,289"/>
+<area shape="rect" id="node27" href="$classWsSiteMapView.html#a4318768239b75649856c784312efc30d" title="WsSiteMapView::init" alt="" coords="275,481,419,508"/>
+<area shape="rect" id="node3" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="1025,187,1156,213"/>
+<area shape="rect" id="node4" href="$classWsSiteMapView.html#acf11ed3c01c93c2bdfde100baa439b9a" title="WsSiteMapView::onTreeSelection\lChanged" alt="" coords="980,339,1201,381"/>
+<area shape="rect" id="node6" href="$classWsSiteMapView.html#a1f7d324cadbc132aead6aa8ed68e5dac" title="WsSiteMapView::loadTree" alt="" coords="1267,507,1445,533"/>
+<area shape="rect" id="node15" href="$classWsSiteMapView.html#a9db194eeb759bc3902d6a8d4025d4598" title="WsSiteMapView::onTreeExpanded" alt="" coords="978,456,1203,483"/>
+<area shape="rect" id="node16" href="$classWsSiteMapView.html#afe8b0ff22e05999c413221a54f994cbc" title="WsSiteMapView::onDirectory\lNameChanged" alt="" coords="1259,135,1453,177"/>
+<area shape="rect" id="node18" href="$classWsSiteMapView.html#a016194d400cc98d8f6873a48c31845bd" title="WsSiteMapView::onViewDbl\lClick" alt="" coords="995,70,1186,111"/>
+<area shape="rect" id="node20" href="$classWsSiteMapView.html#a67390beccd8c76a563efc08720c1592c" title="WsSiteMapView::onViewSelection\lChanged" alt="" coords="979,5,1203,46"/>
+<area shape="rect" id="node21" href="$classWsSiteMapView.html#abd2d51841f4d6446c1b8bfbb109fa0c7" title="WsSiteMapView::onViewExpanded" alt="" coords="977,136,1205,163"/>
+<area shape="rect" id="node22" href="$classWsSiteMapView.html#a679ed21bb02616e04961785c15eec9bc" title="WsSiteMapView::makeToolbar" alt="" coords="989,288,1192,315"/>
+<area shape="rect" id="node5" href="$classWsSiteMapItem.html#a753e74818bb05cd567c255c5c149869d" title="WsSiteMapItem::node" alt="" coords="1797,420,1949,447"/>
+<area shape="rect" id="node7" href="$classWsSiteMapView.html#ad8fb71212de0db6f2917ce57a4888d0f" title="WsSiteMapView::path2Site\lMapPath" alt="" coords="1531,623,1714,665"/>
+<area shape="rect" id="node8" href="$classWsUser.html#a24992f478eacf012bef6aa04018dab3e" title="WsUser::isAdministrator" alt="" coords="1540,572,1705,599"/>
+<area shape="rect" id="node10" href="$classWsUser.html#aec1d48fdef3f51e8f0975ec2ea38f504" title="WsUser::isEditor" alt="" coords="1561,689,1684,716"/>
+<area shape="rect" id="node12" href="$classWsSiteMapView.html#a7191e0dd440983e3090d3433f8b5d209" title="WsSiteMapView::loadFolder" alt="" coords="1529,471,1716,497"/>
+<area shape="rect" id="node14" href="$classWsSiteMapView.html#a6dfd3f46a185aa8ba19ee996050d400b" title="WsSiteMapView::loadFile" alt="" coords="1537,521,1709,548"/>
+<area shape="rect" id="node9" href="$classWsAbstractFsClient.html#aa4699b93273ca4466afadc5b944cf27f" title="WsAbstractFsClient\l::isAdministrator" alt="" coords="1803,565,1943,606"/>
+<area shape="rect" id="node11" href="$classWsAbstractFsClient.html#ada5a57e9059061f9fb055ae0534b9f7b" title="WsAbstractFsClient\l::isEditor" alt="" coords="1803,682,1943,723"/>
+<area shape="rect" id="node13" href="$classWsSiteMapItem.html#a0a4b0ad1b0f5335ebe1f474ac714819a" title="WsSiteMapItem::setNode" alt="" coords="1787,492,1960,519"/>
+<area shape="rect" id="node17" href="$classWsSiteMapView.html#a10b1af4aba90f3d1da198a62c2f3c9cc" title="WsSiteMapView::currentFolderPath" alt="" coords="1507,172,1738,199"/>
+<area shape="rect" id="node19" href="$classWsSiteMapView.html#aeeb8d769c5b9dc2a01cea03520a58c2d" title="WsSiteMapView::fileSelected" alt="" coords="1259,63,1453,89"/>
+<area shape="rect" id="node23" href="$classWsSiteMapView.html#a3de282b95698f38ff9b08ac1b74a4607" title="WsSiteMapView::doNewFolder" alt="" coords="1254,201,1458,228"/>
+<area shape="rect" id="node24" href="$classWsSiteMapView.html#aac60ad275a96c896c4626338152cb174" title="WsSiteMapView::doConfirm\lDelete" alt="" coords="1263,303,1449,345"/>
+<area shape="rect" id="node26" href="$classWsSiteMapView.html#a9f2d66c94232be461436bee206923be9" title="WsSiteMapView::doRename" alt="" coords="1261,252,1451,279"/>
+<area shape="rect" id="node25" href="$classWsSiteMapView.html#acc1003159da3b0899c228a247530e3bb" title="WsSiteMapView::doDelete" alt="" coords="1533,311,1712,337"/>
+<area shape="rect" id="node28" href="$classWsSiteMapView.html#abf37285091e189d3d83c0aa4a09e88f3" title="WsSiteMapView::treeMatchPath" alt="" coords="467,481,679,508"/>
+<area shape="rect" id="node29" href="$classWsSiteMapView.html#a794ff22bf5e0af852e27c033678d7479" title="WsSiteMapView::treeTraverse" alt="" coords="728,456,928,483"/>
+</map>

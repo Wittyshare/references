@@ -1,0 +1,4 @@
+<map id="WsBottomBanner::setText" name="WsBottomBanner::setText">
+<area shape="rect" id="node2" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="233,12,383,39"/>
+<area shape="rect" id="node3" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="433,5,573,46"/>
+</map>

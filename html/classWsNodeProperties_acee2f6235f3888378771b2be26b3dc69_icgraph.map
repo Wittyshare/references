@@ -1,0 +1,18 @@
+<map id="WsNodeProperties::getPath" name="WsNodeProperties::getPath">
+<area shape="rect" id="node2" href="$classWsNodeProperties.html#a041231e08896487922388098d8cec32f" title="WsNodeProperties::get" alt="" coords="261,16,419,43"/>
+<area shape="rect" id="node4" href="$classWsNodeProperties.html#a8c4d77ca3d1f4800f0a6f5557c58df8a" title="Returns the groups that have access to the node If no groups are found in the file, an empty set is returned. " alt="" coords="240,68,440,95"/>
+<area shape="rect" id="node5" href="$classWsNodeProperties.html#a01e7d8ad3f0d93fcf9adc39aef74d220" title="Compare the gids with the node groups. If the user has access, true is returned, otherwise false is r..." alt="" coords="507,71,703,97"/>
+<area shape="rect" id="node6" href="$classWsNodeProperties.html#ae89729a7ab7f330fd5ad61992a3795b2" title="Return the root of the Json tree. " alt="" coords="247,169,433,196"/>
+<area shape="rect" id="node15" href="$classWsNodeProperties.html#a85541b722748ba0f5d9bf6d57413d808" title="Changes or sets the propety with key &#39;key&#39; to value &#39;value&#39; If the property already exist..." alt="" coords="261,220,419,247"/>
+<area shape="rect" id="node16" href="$classWsNodeProperties.html#a6707a93808c0d38547b4b202a47c0668" title="Sets the groups of the node to grps. All groups will be overriden. This method does not however..." alt="" coords="240,271,440,297"/>
+<area shape="rect" id="node17" href="$classWsNodeProperties.html#a7e7090d12c4924dec5570e9b02aef3d5" title="save the properties to the disk The path of the file is set in m_nodePath and is set when building th..." alt="" coords="256,321,424,348"/>
+<area shape="rect" id="node3" href="$classWsFsTreeConsultation.html#a6da84fdb56ef63981c7e38e2b407cd76" title="get a property for a node corresponding to the path " alt="" coords="527,5,683,46"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonClient.html#a4c209c4991e3f6fd34c6c7bbb735febe" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="488,121,723,148"/>
+<area shape="rect" id="node8" href="$classWsFsTreeClient.html#aaa48647e66e6bb94f0b8a4db060334e9" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="499,172,711,199"/>
+<area shape="rect" id="node9" href="$classWsFsDaemon.html#a0a2358482d318fff85ccea958c3eaef9" title="sends all the properties of a node " alt="" coords="488,223,723,249"/>
+<area shape="rect" id="node10" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="771,223,973,249"/>
+<area shape="rect" id="node11" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="1021,223,1160,249"/>
+<area shape="rect" id="node12" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1472,223,1651,249"/>
+<area shape="rect" id="node14" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1208,248,1424,275"/>
+<area shape="rect" id="node13" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1699,223,1749,249"/>
+</map>

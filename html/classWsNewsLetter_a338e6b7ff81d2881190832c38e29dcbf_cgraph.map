@@ -1,0 +1,8 @@
+<map id="WsNewsLetter::emailNotInLdap" name="WsNewsLetter::emailNotInLdap">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="499,5,629,32"/>
+<area shape="rect" id="node3" href="$classWsGlobalProperties.html#a16f71d8b7f230d0b2f69bcd9908277e8" title="WsGlobalProperties\l::instance" alt="" coords="281,83,420,125"/>
+<area shape="rect" id="node5" href="$classWsGlobalProperties.html#abd25ec7a371e434fea667fb9a3467181" title="WsGlobalProperties::get" alt="" coords="269,151,433,177"/>
+<area shape="rect" id="node7" href="$classWsNewsLetter.html#a3aed8da5b70e51c2f856aa95479718f8" title="WsNewsLetter::sendEmail" alt="" coords="261,32,440,59"/>
+<area shape="rect" id="node4" href="$classWsGlobalProperties.html#afe6b517bc72699b1e6d8ebab5541135a" title="Constructor. " alt="" coords="491,81,637,122"/>
+<area shape="rect" id="node6" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="489,146,639,187"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="WsBanners::doPathChanged" name="WsBanners::doPathChanged">
+<area shape="rect" id="node2" href="$classWsOptions.html#a422a60389226ee00d7e631e33e187a1f" title="Get an options value. " alt="" coords="1157,264,1288,291"/>
+<area shape="rect" id="node3" href="$classWsUser.html#a008fe764930d51045895197a7e0a94bf" title="return the root path of the filesystem tree, example : /var/www/demo_site " alt="" coords="250,60,401,87"/>
+<area shape="rect" id="node5" href="$classWsUser.html#a23c765166b9396b722bd102b1a248284" title="return the root node of the access tree starting from the root " alt="" coords="696,160,864,187"/>
+<area shape="rect" id="node7" href="$classWsOptions.html#a323a59ee0cd514354fb6fc049a3de0c6" title="Set all options. " alt="" coords="246,163,405,189"/>
+<area shape="rect" id="node8" href="$classWsOptions.html#ab06d33752bb750f78a3c177a00b0df2c" title="Get all options. " alt="" coords="257,213,394,240"/>
+<area shape="rect" id="node9" href="$classWsOptions.html#a1d6f864ac2feb47570c535d1251c2b54" title="Set an options if previously set, update the value. " alt="" coords="250,264,401,291"/>
+<area shape="rect" id="node10" href="$classWsImages2.html#a1b189c1da53e948c6b946a78ced327d0" title="Build the vector. " alt="" coords="487,264,614,291"/>
+<area shape="rect" id="node11" href="$classWsImages2.html#a4ac10be38f5e0df1371f2ad786f8f599" title="Load the widget (traditional wt virtual function). " alt="" coords="263,365,387,392"/>
+<area shape="rect" id="node4" href="$classWsAbstractFsClient.html#a9bb1c696ffdfd530ee836feb5028483e" title="get the root path " alt="" coords="481,49,621,90"/>
+<area shape="rect" id="node6" href="$classWsAbstractFsClient.html#a63fac061528dc4fbb950225fb5e1f404" title="return the root node of the access tree " alt="" coords="922,153,1062,194"/>
+<area shape="rect" id="node12" href="$classWsImages2.html#af8e9dbd06e23e3a36004b3ec056449a6" title="WsImages2::doPathChanged" alt="" coords="454,315,647,341"/>
+<area shape="rect" id="node13" href="$classWsImages2.html#a9857a340a54c4661daacaa2721ee3638" title="WsImages2::doTimeout" alt="" coords="699,365,861,392"/>
+<area shape="rect" id="node14" href="$classWsImages2.html#a36d13eac56aa512ec4c8f4e4460b9a34" title="Load the image with the current index. " alt="" coords="912,365,1072,392"/>
+<area shape="rect" id="node15" href="$classwsi2Anchor.html#a673da2d1dcc44bdeb6a2b128f741ffbc" title="wsi2Anchor::imageSelected" alt="" coords="1131,315,1315,341"/>
+<area shape="rect" id="node16" href="$classWsImages2.html#ac9066c5e59e94028a1a3b12e5202e613" title="WsImages2::doCounterClicked" alt="" coords="1121,365,1325,392"/>
+<area shape="rect" id="node17" href="$classwsi2Anchor.html#a14bea6117de2a8d9de0c00b864d851fd" title="wsi2Anchor::setImageIndex" alt="" coords="1131,416,1315,443"/>
+<area shape="rect" id="node18" href="$classWsImages2.html#ad3e3f6d6ead8ebd1303a945fd39943b8" title="WsImages2::doImageClicked" alt="" coords="1125,467,1320,493"/>
+</map>

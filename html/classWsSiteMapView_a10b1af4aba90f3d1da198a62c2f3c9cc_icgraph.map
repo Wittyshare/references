@@ -1,0 +1,15 @@
+<map id="WsSiteMapView::currentFolderPath" name="WsSiteMapView::currentFolderPath">
+<area shape="rect" id="node2" href="$classWsSiteMapView.html#a3de282b95698f38ff9b08ac1b74a4607" title="WsSiteMapView::doNewFolder" alt="" coords="286,8,490,35"/>
+<area shape="rect" id="node14" href="$classWsSiteMapView.html#afe8b0ff22e05999c413221a54f994cbc" title="WsSiteMapView::onDirectory\lNameChanged" alt="" coords="543,57,737,98"/>
+<area shape="rect" id="node3" href="$classWsSiteMapView.html#a679ed21bb02616e04961785c15eec9bc" title="WsSiteMapView::makeToolbar" alt="" coords="539,5,741,32"/>
+<area shape="rect" id="node4" href="$classWsSiteMapView.html#a3aa162ad769f4a68d077757f526bf523" title="WsSiteMapView::load" alt="" coords="790,35,941,61"/>
+<area shape="rect" id="node5" href="$classWsSiteMapView.html#a3a2f641712fc0af372d3c0e09884cf84" title="WsSiteMapView::WsSiteMapView" alt="" coords="989,9,1213,36"/>
+<area shape="rect" id="node6" href="$classWsSiteMapView.html#ad11a0cec8caff8283ec4beea83a6660a" title="WsSiteMapView::setRelativePath" alt="" coords="991,60,1211,87"/>
+<area shape="rect" id="node7" href="$classWsContent.html#a9b87a01e43a06e77fd5e8225b27d019e" title="WsContent::siteMapChanged" alt="" coords="1261,60,1456,87"/>
+<area shape="rect" id="node8" href="$classWsContent.html#a07dc0f8e3f6a2aca0afef16679183469" title="WsContent::setPath" alt="" coords="1504,60,1645,87"/>
+<area shape="rect" id="node9" href="$classWsApplication.html#af7dc5a57f0d2c6c8665448eff58b1ec6" title="WsApplication::doEndDialog\lLogon" alt="" coords="2185,53,2373,94"/>
+<area shape="rect" id="node11" href="$classWsApplication.html#a956434c65f71c50316accd225f8a6eba" title="WsApplication::setTemplate" alt="" coords="1693,60,1880,87"/>
+<area shape="rect" id="node13" href="$classWsTemplate.html#aa52e76936f048579c3f30cbd8e89e56e" title="WsTemplate::resolveString" alt="" coords="1697,111,1877,137"/>
+<area shape="rect" id="node10" href="$classWsApplication.html#a29ac18bb68852e810b83a2c4a07fc076" title="WsApplication::WsApplication" alt="" coords="2422,60,2621,87"/>
+<area shape="rect" id="node12" href="$classWsApplication.html#a7711df944987d727e7bed0ce8e77d5b6" title="WsApplication::doPathChanged" alt="" coords="1929,111,2135,137"/>
+</map>

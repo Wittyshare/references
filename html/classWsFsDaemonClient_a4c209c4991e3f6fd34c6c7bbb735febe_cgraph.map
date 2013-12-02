@@ -1,0 +1,11 @@
+<map id="WsFsDaemonClient::saveProperties" name="WsFsDaemonClient::saveProperties">
+<area shape="rect" id="node2" href="$classWsNodeProperties.html#ae89729a7ab7f330fd5ad61992a3795b2" title="Return the root of the Json tree. " alt="" coords="291,64,477,91"/>
+<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#a80f2d774d9ee3c2bf0ec9294dbb2c27d" title="sends a string to the daemon " alt="" coords="296,119,472,145"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonClient.html#a7fcf6b52b636039059f26ccbf506effd" title="receive the success code after a request that returns a SUCCESS or FAILURE answer only ..." alt="" coords="289,170,479,211"/>
+<area shape="rect" id="node3" href="$classWsNodeProperties.html#acee2f6235f3888378771b2be26b3dc69" title="Get path of the node which the configuration belongs to. " alt="" coords="531,5,717,32"/>
+<area shape="rect" id="node4" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="549,57,699,98"/>
+<area shape="rect" id="node6" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="535,123,713,149"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonClient.html#af4661a8e5332f6a1f4c84f630302e9eb" title="receive a string from the daemon. " alt="" coords="529,177,719,204"/>
+<area shape="rect" id="node9" href="$classWsFsDaemonClient.html#ad439887502505543006d0b81df68e247" title="Converts raw data received to string. This method should be used each time data is received from netw..." alt="" coords="768,170,965,211"/>
+<area shape="rect" id="node10" href="$classWsDecompressor.html#a9e416710113e7f86207ebb894fef628c" title="decompress the input data and store result in uncompressedData " alt="" coords="1014,177,1221,204"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="WsFsTreeOperations::getRootPath" name="WsFsTreeOperations::getRootPath">
+<area shape="rect" id="node2" href="$classWsFsTreeClient.html#ab2f5a603b1b3eb351c36ecef63f84c2f" title="get the root path " alt="" coords="205,5,403,32"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#a2ee82583c18926bac0715ae0e489d451" title="send the rootPath to the client " alt="" coords="201,57,407,98"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="457,64,658,91"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="707,64,845,91"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1157,64,1336,91"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="893,89,1109,116"/>
+<area shape="rect" id="node7" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1384,64,1435,91"/>
+</map>

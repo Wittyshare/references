@@ -1,0 +1,11 @@
+<map id="WsImages2::text" name="WsImages2::text">
+<area shape="rect" id="node2" href="$classWsImagesGallery.html#a03e4b3f66b7906dd7f11db29b6f241f0" title="WsImagesGallery::renderImage" alt="" coords="177,170,383,196"/>
+<area shape="rect" id="node3" href="$classWsImagesGallery.html#aef002a818c1c226ecf1d62cc524ef2ad" title="WsImagesGallery::load" alt="" coords="1187,144,1346,171"/>
+<area shape="rect" id="node4" href="$classWsImagesGallery.html#af0f5f814fce617537c29541be8e9338b" title="WsImagesGallery::doTimeout\lImage" alt="" coords="944,78,1139,120"/>
+<area shape="rect" id="node5" href="$classWsImagesGallery.html#a7a0e676df7c157d0ed6644f9079da498" title="WsImagesGallery::doThumb\lClicked" alt="" coords="438,133,626,174"/>
+<area shape="rect" id="node8" href="$classWsImagesGallery.html#abeddcae92342b68a5fac3e0b814274ef" title="WsImagesGallery::doPrevious" alt="" coords="433,250,631,276"/>
+<area shape="rect" id="node10" href="$classWsImagesGallery.html#ac131debf587180283b78d33c9cdee267" title="WsImagesGallery::doNext" alt="" coords="444,300,620,327"/>
+<area shape="rect" id="node6" href="$classWsImagesGallery.html#ab06e1482ea18c7df5e9deb7dc50fc03b" title="WsImagesGallery::renderThumb" alt="" coords="683,172,893,199"/>
+<area shape="rect" id="node7" href="$classWsImagesGallery.html#a471f65c913d2a4c2f742b066c2d30555" title="WsImagesGallery::doTimeout\lThumb" alt="" coords="944,196,1139,237"/>
+<area shape="rect" id="node9" href="$classWsImagesGallery.html#a1c5d29ddde95576caf54c5667dba080a" title="WsImagesGallery::renderButtons" alt="" coords="681,262,895,288"/>
+</map>

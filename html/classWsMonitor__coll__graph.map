@@ -1,0 +1,4 @@
+<map id="WsMonitor" name="WsMonitor">
+<area shape="rect" id="node2" href="$classWsAbstractMonitor.html" title="Abstract class used for monitoring the filesystem. " alt="" coords="28,6,191,98"/>
+<area shape="rect" id="node3" href="$classWsFsTreeUpdater.html" title="handles the update of the FileSystemTree " alt="" coords="107,163,264,416"/>
+</map>

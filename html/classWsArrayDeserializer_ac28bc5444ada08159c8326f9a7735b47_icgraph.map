@@ -1,0 +1,5 @@
+<map id="WsArrayDeserializer::parse" name="WsArrayDeserializer::parse">
+<area shape="rect" id="node2" href="$classWsArrayDeserializer.html#af240237903e750f0346f6dbb8a621772" title="Deserialize contents serialized by WsArraySerialize::serialize. " alt="" coords="198,5,341,46"/>
+<area shape="rect" id="node3" href="$classWsFsDaemonClient.html#ae2a8fb8d6036bc98191728a699c139f0" title="receive all the groups after a getAllGroups() request " alt="" coords="390,5,581,46"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonClient.html#a23ac598707aa7315708ff562b9a09a51" title="returns all possible groups " alt="" coords="629,5,811,46"/>
+</map>

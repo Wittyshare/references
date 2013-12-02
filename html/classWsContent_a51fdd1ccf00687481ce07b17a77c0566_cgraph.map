@@ -1,0 +1,5 @@
+<map id="WsContent::buildSiteMap" name="WsContent::buildSiteMap">
+<area shape="rect" id="node2" href="$classWsContent.html#a76963d6e8fdb93f841cd04bf48002db5" title="WsContent::clear" alt="" coords="259,5,383,32"/>
+<area shape="rect" id="node3" href="$classWsSiteMapView.html#aeeb8d769c5b9dc2a01cea03520a58c2d" title="WsSiteMapView::fileSelected" alt="" coords="224,56,419,83"/>
+<area shape="rect" id="node4" href="$classWsContent.html#a34e1150d718cc684be95101547425f45" title="WsContent::doSiteMapItem\lSelected" alt="" coords="229,107,413,149"/>
+</map>

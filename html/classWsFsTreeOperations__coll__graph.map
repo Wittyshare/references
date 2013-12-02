@@ -1,0 +1,8 @@
+<map id="WsFsTreeOperations" name="WsFsTreeOperations">
+<area shape="rect" id="node2" href="$classWsFsTreeModification.html" title="Encapsulates modification operations on tree. " alt="" coords="93,531,266,711"/>
+<area shape="rect" id="node3" href="$classWsGlobalProperties.html" title="Global properties class. " alt="" coords="49,251,206,387"/>
+<area shape="rect" id="node7" href="$classWsFsTreeConsultation.html" title="Encapsulates consultation of tree (no modification) " alt="" coords="290,509,466,733"/>
+<area shape="rect" id="node4" href="$classWsAbstractProperties.html" title="Abstract Properties class. " alt="" coords="42,6,213,127"/>
+<area shape="rect" id="node5" href="$classWsFsTreeUpdater.html" title="handles the update of the FileSystemTree " alt="" coords="330,192,487,445"/>
+<area shape="rect" id="node6" href="$classWsAbstractMonitor.html" title="Abstract class used for monitoring the filesystem. " alt="" coords="327,21,490,113"/>
+</map>

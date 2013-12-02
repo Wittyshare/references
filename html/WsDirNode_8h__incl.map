@@ -1,0 +1,11 @@
+<map id="src/FileSystemTree/WsDirNode.h" name="src/FileSystemTree/WsDirNode.h">
+<area shape="rect" id="node2" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="774,96,857,123"/>
+<area shape="rect" id="node24" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1325,253,1565,280"/>
+<area shape="rect" id="node25" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="802,253,1040,280"/>
+<area shape="rect" id="node5" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="1065,253,1299,280"/>
+<area shape="rect" id="node18" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="409,171,543,197"/>
+<area shape="rect" id="node23" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="45,485,219,512"/>
+<area shape="rect" id="node9" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1102,336,1263,363"/>
+<area shape="rect" id="node11" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="818,411,952,437"/>
+<area shape="rect" id="node13" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="1411,485,1520,512"/>
+</map>
