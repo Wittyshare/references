@@ -1,4 +1,0 @@
-<map id="WsFsDaemon::handleClearCache" name="WsFsDaemon::handleClearCache">
-<area shape="rect" id="node2" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="275,5,418,32"/>
-<area shape="rect" id="node3" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="467,5,645,32"/>
-</map>

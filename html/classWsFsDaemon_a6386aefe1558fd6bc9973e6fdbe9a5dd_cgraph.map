@@ -1,5 +1,0 @@
-<map id="WsFsDaemon::handleSearchRequest" name="WsFsDaemon::handleSearchRequest">
-<area shape="rect" id="node2" href="$classWsFsTreeOperations.html#a67788ada881f3dc19c1819fb54b6f709" title="Get the results for searching for &quot;terms&quot;. " alt="" coords="248,5,395,46"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="250,71,393,97"/>
-<area shape="rect" id="node4" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="443,71,621,97"/>
-</map>

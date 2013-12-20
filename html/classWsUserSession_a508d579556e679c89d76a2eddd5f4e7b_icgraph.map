@@ -1,8 +1,9 @@
 <map id="WsUserSession::setEmail" name="WsUserSession::setEmail">
-<area shape="rect" id="node2" href="$classWsFsDaemon.html#aee79f35635e208d1b0df20f21c89445b" title="Authenticate user on server Loads the groups which the user belongs to, uid, email, etc.. " alt="" coords="230,5,458,32"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="507,5,709,32"/>
-<area shape="rect" id="node4" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="757,5,896,32"/>
-<area shape="rect" id="node5" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1208,5,1387,32"/>
-<area shape="rect" id="node7" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="944,31,1160,57"/>
-<area shape="rect" id="node6" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1435,5,1485,32"/>
+<area shape="rect" id="node2" href="$classWsFsDaemon.html#a1c092db458f83e36e04af5bb3e797231" title="Authenticate user on server Loads the groups which the user belongs to, uid, email, etc.. " alt="" coords="230,5,458,32"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="507,5,709,32"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="758,5,957,32"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="1005,5,1144,32"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1456,5,1635,32"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1192,31,1408,57"/>
+<area shape="rect" id="node7" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1683,5,1733,32"/>
 </map>

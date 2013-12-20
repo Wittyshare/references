@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['workerroutine',['workerRoutine',['../classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26',1,'WsFsDaemon']]],
   ['write',['write',['../classWsLogWriter.html#a50398f5fbd41b850a47d7c8f16ec14c5',1,'WsLogWriter']]],
   ['writeandclosezip',['writeAndCloseZip',['../classWsModZip.html#abb67852121ad151ead5368091f8a989a',1,'WsModZip']]],
   ['wsabstractproperties',['WsAbstractProperties',['../classWsAbstractProperties.html#ac44455f1ee8bee7d11c1b50ca331b5c1',1,'WsAbstractProperties']]],
@@ -11,6 +12,8 @@ var searchData=
   ['wsarrayserializer',['WsArraySerializer',['../classWsArraySerializer.html#aba92c7da95c4e4daf8d7c17bbd0d861d',1,'WsArraySerializer']]],
   ['wsauthenticator',['WsAuthenticator',['../classWsAuthenticator.html#abaf1f97c70e95f70cddaebb18649ffdc',1,'WsAuthenticator']]],
   ['wsbanners',['WsBanners',['../classWsBanners.html#a3ed677ac352cb4be8f7bca881029fd32',1,'WsBanners']]],
+  ['wsbasicauth',['WsBasicAuth',['../classWsBasicAuth.html#a9982b5b271c3693ab5b6528f1317ddda',1,'WsBasicAuth']]],
+  ['wsbasicauthinit',['WsBasicAuthInit',['../WsBasicAuth_8cpp.html#a0f69bddfc65ed8733c8306cf78d7fc71',1,'WsBasicAuthInit(void):&#160;WsBasicAuth.cpp'],['../WsBasicAuth_8h.html#a1997e6da0cd26efa665e705d717d094f',1,'WsBasicAuthInit(void) __attribute__((constructor)):&#160;WsBasicAuth.cpp']]],
   ['wsbottombanner',['WsBottomBanner',['../classWsBottomBanner.html#a4f7a50f78d6d3831616665c310b64892',1,'WsBottomBanner']]],
   ['wsbreadcrumb',['WsBreadCrumb',['../classWsBreadCrumb.html#ab1e8080dcd170f4f1ba3b319448a5697',1,'WsBreadCrumb']]],
   ['wsconfimemail',['WsConfimEmail',['../classWsConfimEmail.html#a9679fa7b9b234bd0712f39055de527cf',1,'WsConfimEmail']]],
@@ -130,7 +133,7 @@ var searchData=
   ['wstreetraversal',['WsTreeTraversal',['../classWsTreeTraversal.html#a0d79f7a5bdcb7982cad1bd8bdffeba82',1,'WsTreeTraversal']]],
   ['wstreeview',['WsTreeView',['../classWsTreeView.html#a44e3b824ea254142b65be4fb9628479a',1,'WsTreeView']]],
   ['wstwittereditorwidget',['WsTwitterEditorWidget',['../classWsTwitterEditorWidget.html#a9b98f64065f500d7ee100a412f621be4',1,'WsTwitterEditorWidget']]],
-  ['wsuser',['wsUser',['../classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f',1,'WsApplication::wsUser()'],['../classWsUser.html#aa3dd767b3af9300ab3c6ca258239341e',1,'WsUser::WsUser()']]],
+  ['wsuser',['WsUser',['../classWsUser.html#aa3dd767b3af9300ab3c6ca258239341e',1,'WsUser::WsUser()'],['../classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f',1,'WsApplication::wsUser()']]],
   ['wsusersession',['WsUserSession',['../classWsUserSession.html#a12be1f64516e2661a987df364467eb6d',1,'WsUserSession']]],
   ['wsvideo',['WsVideo',['../classWsVideo.html#aea749aad1f15e7d98a0d81dcd63454b9',1,'WsVideo']]],
   ['wszipeditorwidget',['WsZipEditorWidget',['../classWsZipEditorWidget.html#a0bb8d6440dcf416a5e12ed53fd981e51',1,'WsZipEditorWidget']]]

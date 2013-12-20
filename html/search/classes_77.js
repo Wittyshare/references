@@ -14,6 +14,7 @@ var searchData=
   ['wsarrayserializer',['WsArraySerializer',['../classWsArraySerializer.html',1,'']]],
   ['wsauthenticator',['WsAuthenticator',['../classWsAuthenticator.html',1,'']]],
   ['wsbanners',['WsBanners',['../classWsBanners.html',1,'']]],
+  ['wsbasicauth',['WsBasicAuth',['../classWsBasicAuth.html',1,'']]],
   ['wsbottombanner',['WsBottomBanner',['../classWsBottomBanner.html',1,'']]],
   ['wsbreadcrumb',['WsBreadCrumb',['../classWsBreadCrumb.html',1,'']]],
   ['wscompressor',['WsCompressor',['../classWsCompressor.html',1,'']]],

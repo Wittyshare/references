@@ -1,18 +1,18 @@
 <map id="src/WsModules/WsModMenuImages" name="src/WsModules/WsModMenuImages">
 <area shape="rect" id="node2" href="dir_2799acc2505f5011b7fefacf8a215f2d.html" title="src" alt="" coords="102,63,174,111"/>
 <area shape="rect" id="node3" href="dir_4bb77202a85366e5a69049a6555c5ad7.html" title="Main" alt="" coords="128,255,200,303"/>
-<area shape="rect" id="edge6-headlabel" href="dir_000055_000007.html" title="1" alt="" coords="169,229,177,244"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000057_000007.html" title="1" alt="" coords="169,229,177,244"/>
 <area shape="rect" id="node4" href="dir_ce44ad55c7286bf5a6cd8cf01717cab8.html" title="Logger" alt="" coords="32,351,104,399"/>
-<area shape="rect" id="edge7-headlabel" href="dir_000055_000013.html" title="1" alt="" coords="47,323,55,338"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000057_000013.html" title="1" alt="" coords="47,323,55,338"/>
 <area shape="rect" id="node5" href="dir_f288f2bb6ba995c8a016ff0461ccf88d.html" title="WsModule" alt="" coords="128,351,212,399"/>
-<area shape="rect" id="edge8-headlabel" href="dir_000055_000023.html" title="1" alt="" coords="201,333,209,347"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000057_000025.html" title="1" alt="" coords="201,333,209,347"/>
 <area shape="rect" id="node6" href="dir_d7076de5bfa473e124d0c78279c39095.html" title="WsModImages2" alt="" coords="32,159,148,207"/>
-<area shape="rect" id="edge9-headlabel" href="dir_000055_000042.html" title="1" alt="" coords="114,139,122,154"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000057_000044.html" title="1" alt="" coords="114,139,122,154"/>
 <area shape="rect" id="edge1-headlabel" href="dir_000007_000013.html" title="2" alt="" coords="106,337,114,351"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000007_000023.html" title="1" alt="" coords="163,324,171,339"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000023_000007.html" title="1" alt="" coords="163,315,171,330"/>
-<area shape="rect" id="edge4-headlabel" href="dir_000042_000007.html" title="2" alt="" coords="137,228,145,242"/>
-<area shape="rect" id="edge5-headlabel" href="dir_000042_000013.html" title="1" alt="" coords="77,326,85,341"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000007_000025.html" title="1" alt="" coords="163,324,171,339"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000025_000007.html" title="1" alt="" coords="163,315,171,330"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000044_000007.html" title="2" alt="" coords="137,228,145,242"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000044_000013.html" title="1" alt="" coords="77,326,85,341"/>
 <area shape="rect" id="clust2" href="dir_106f712c863a5e5e8f35c93ccdf4fc6d.html" alt="" coords="92,52,352,121"/>
 <area shape="rect" id="clust1" href="dir_aaf19c9503b1b9eb45b29cf92fc93337.html" title="WsModules" alt="" coords="81,16,362,132"/>
 </map>

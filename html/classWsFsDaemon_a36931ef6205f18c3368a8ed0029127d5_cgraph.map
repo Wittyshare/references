@@ -1,5 +1,0 @@
-<map id="WsFsDaemon::handleDeleteNodeRequest" name="WsFsDaemon::handleDeleteNodeRequest">
-<area shape="rect" id="node2" href="$classWsFsTreeOperations.html#ac5fcf594f2f6af45f813643debed08f2" title="delete a node. The user must be an Admin on editor to remove the node " alt="" coords="245,5,392,46"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="247,71,390,97"/>
-<area shape="rect" id="node4" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="440,71,619,97"/>
-</map>

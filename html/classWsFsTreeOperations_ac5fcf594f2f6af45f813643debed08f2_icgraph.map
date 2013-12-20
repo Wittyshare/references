@@ -1,9 +1,10 @@
 <map id="WsFsTreeOperations::deleteNode" name="WsFsTreeOperations::deleteNode">
 <area shape="rect" id="node2" href="$classWsFsTreeClient.html#ab79da5f86977374f42352868983de90c" title="delete a node. The user must be an Admin on editor to remove the node In case of a WsDirNode..." alt="" coords="201,5,391,32"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a36931ef6205f18c3368a8ed0029127d5" title="delete a node requested by the client " alt="" coords="201,57,391,98"/>
-<area shape="rect" id="node4" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="441,64,642,91"/>
-<area shape="rect" id="node5" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="691,64,829,91"/>
-<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1141,64,1320,91"/>
-<area shape="rect" id="node8" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="877,89,1093,116"/>
-<area shape="rect" id="node7" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1368,64,1419,91"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#a417efb5aa215eee3dd4ac7532b65f114" title="delete a node requested by the client " alt="" coords="201,57,391,98"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="441,64,642,91"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="691,64,890,91"/>
+<area shape="rect" id="node6" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="939,64,1077,91"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1389,64,1568,91"/>
+<area shape="rect" id="node9" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1125,89,1341,116"/>
+<area shape="rect" id="node8" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1616,64,1667,91"/>
 </map>

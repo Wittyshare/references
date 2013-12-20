@@ -1,5 +1,0 @@
-<map id="WsFsDaemon::handleAllGroupsRequest" name="WsFsDaemon::handleAllGroupsRequest">
-<area shape="rect" id="node2" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="265,5,407,32"/>
-<area shape="rect" id="node4" href="$classWsArraySerializer.html#ac1ca46b920a6a7393a0dabba81647e24" title="returns the serailized form of the directory " alt="" coords="269,57,403,98"/>
-<area shape="rect" id="node3" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="456,5,635,32"/>
-</map>

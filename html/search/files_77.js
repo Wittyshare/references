@@ -28,6 +28,8 @@ var searchData=
   ['wsauthenticator_2eh',['WsAuthenticator.h',['../WsAuthenticator_8h.html',1,'']]],
   ['wsbanners_2ecpp',['WsBanners.cpp',['../WsBanners_8cpp.html',1,'']]],
   ['wsbanners_2eh',['WsBanners.h',['../WsBanners_8h.html',1,'']]],
+  ['wsbasicauth_2ecpp',['WsBasicAuth.cpp',['../WsBasicAuth_8cpp.html',1,'']]],
+  ['wsbasicauth_2eh',['WsBasicAuth.h',['../WsBasicAuth_8h.html',1,'']]],
   ['wsbottombanner_2ecpp',['WsBottomBanner.cpp',['../WsBottomBanner_8cpp.html',1,'']]],
   ['wsbottombanner_2eh',['WsBottomBanner.h',['../WsBottomBanner_8h.html',1,'']]],
   ['wsbreadcrumb_2ecpp',['WsBreadCrumb.cpp',['../WsBreadCrumb_8cpp.html',1,'']]],

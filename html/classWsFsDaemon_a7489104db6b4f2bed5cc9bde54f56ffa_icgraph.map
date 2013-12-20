@@ -1,7 +1,0 @@
-<map id="WsFsDaemon::handleMenuRequest" name="WsFsDaemon::handleMenuRequest">
-<area shape="rect" id="node2" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="289,5,490,32"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="539,5,677,32"/>
-<area shape="rect" id="node4" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="989,5,1168,32"/>
-<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="725,31,941,57"/>
-<area shape="rect" id="node5" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1216,5,1267,32"/>
-</map>

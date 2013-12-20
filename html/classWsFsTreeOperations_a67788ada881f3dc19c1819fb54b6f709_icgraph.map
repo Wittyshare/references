@@ -1,9 +1,10 @@
 <map id="WsFsTreeOperations::getSearchResults" name="WsFsTreeOperations::getSearchResults">
 <area shape="rect" id="node2" href="$classWsFsTreeClient.html#adbc9334af886566306b4fa3c0260945a" title="get search results, passing the text that is searched " alt="" coords="205,5,389,46"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a6386aefe1558fd6bc9973e6fdbe9a5dd" title="sends the result of a search request to the client. Only nodes where the user has access are returned..." alt="" coords="201,70,394,111"/>
-<area shape="rect" id="node4" href="$classWsFsDaemon.html#a246260412a5903e2a45ad6415bc13c2a" title="Handle received request and redirect to correct method. " alt="" coords="443,77,645,104"/>
-<area shape="rect" id="node5" href="$classWsFsDaemon.html#ab361168927a5222e4e646f2bceff9d58" title="start listening on the port " alt="" coords="693,77,832,104"/>
-<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1144,77,1323,104"/>
-<area shape="rect" id="node8" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="880,103,1096,129"/>
-<area shape="rect" id="node7" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1371,77,1421,104"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#aa1db4185b295b469b5f4532f6b9d3394" title="sends the result of a search request to the client. Only nodes where the user has access are returned..." alt="" coords="201,70,394,111"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="443,77,645,104"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="694,77,893,104"/>
+<area shape="rect" id="node6" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="941,77,1080,104"/>
+<area shape="rect" id="node7" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1392,77,1571,104"/>
+<area shape="rect" id="node9" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1128,103,1344,129"/>
+<area shape="rect" id="node8" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1619,77,1669,104"/>
 </map>

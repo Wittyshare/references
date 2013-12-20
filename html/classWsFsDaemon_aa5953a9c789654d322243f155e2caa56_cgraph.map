@@ -1,5 +1,0 @@
-<map id="WsFsDaemon::handleRenameNodeRequest" name="WsFsDaemon::handleRenameNodeRequest">
-<area shape="rect" id="node2" href="$classWsFsTreeOperations.html#ada6cb030e447b75249e42a38e38988e1" title="renames a node " alt="" coords="256,5,403,46"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="258,71,401,97"/>
-<area shape="rect" id="node4" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="451,71,629,97"/>
-</map>

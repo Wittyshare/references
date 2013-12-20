@@ -1,5 +1,0 @@
-<map id="WsFsDaemon::bind" name="WsFsDaemon::bind">
-<area shape="rect" id="node2" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="456,5,635,32"/>
-<area shape="rect" id="node4" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="192,31,408,57"/>
-<area shape="rect" id="node3" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="683,5,733,32"/>
-</map>

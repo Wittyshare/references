@@ -1,5 +1,0 @@
-<map id="WsFsDaemon::handleSavePropertiesRequest" name="WsFsDaemon::handleSavePropertiesRequest">
-<area shape="rect" id="node2" href="$classWsFsTreeOperations.html#ae21caec73c1d3b29a4f9444b470c6dcf" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="296,5,443,46"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="298,71,441,97"/>
-<area shape="rect" id="node4" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="491,71,669,97"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="WsFsDaemon::handlePropsRequest" name="WsFsDaemon::handlePropsRequest">
-<area shape="rect" id="node2" href="$classWsFsTreeOperations.html#ae656db5a758f0fcd8b608f9fc9c306b8" title="get properties of a node corresponding to the path " alt="" coords="308,5,455,46"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="310,71,453,97"/>
-<area shape="rect" id="node5" href="$classWsNodeProperties.html#ae89729a7ab7f330fd5ad61992a3795b2" title="Return the root of the Json tree. " alt="" coords="288,121,475,148"/>
-<area shape="rect" id="node4" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="527,71,705,97"/>
-<area shape="rect" id="node6" href="$classWsNodeProperties.html#acee2f6235f3888378771b2be26b3dc69" title="Get path of the node which the configuration belongs to. " alt="" coords="523,121,709,148"/>
-<area shape="rect" id="node7" href="$classWsAbstractProperties.html#a68c2819f1fb03f1c346b4b73836fd7ed" title="parse the Json config file " alt="" coords="541,173,691,214"/>
-</map>

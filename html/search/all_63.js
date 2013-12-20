@@ -7,6 +7,7 @@ var searchData=
   ['comparenodes',['compareNodes',['../structWsNode_1_1compareNodes.html',1,'WsNode']]],
   ['compress',['compress',['../classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2',1,'WsCompressor']]],
   ['confext',['ConfExt',['../namespaceGlobalConfig.html#abd4379c6dcb682c8501558b3c3d4c854',1,'GlobalConfig']]],
+  ['configuration',['Configuration',['../config.html',1,'']]],
   ['contentbuttonsbar',['contentButtonsBar',['../classWsApplication.html#a986654b8bffba63e49011ead31ccf738',1,'WsApplication::contentButtonsBar()'],['../classWsModule.html#a540fdf240488acf3e451ce98a2ca5027',1,'WsModule::contentButtonsBar()']]],
   ['count',['count',['../classWsImages2.html#ad2c526773f0ee92fa52cc0dcae85c4be',1,'WsImages2']]],
   ['crashlogpath',['CrashLogPath',['../namespaceGlobalConfig.html#ac7649cfebb3630cc6e17424350aca1e6',1,'GlobalConfig']]],
