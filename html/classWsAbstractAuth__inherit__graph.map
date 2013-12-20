@@ -1,3 +1,4 @@
 <map id="WsAbstractAuth" name="WsAbstractAuth">
-<area shape="rect" id="node2" href="$classWsLdapAuth.html" title="Ldap authentication module. " alt="" coords="4,219,133,546"/>
+<area shape="rect" id="node2" href="$classWsBasicAuth.html" title="Basic authentication module. " alt="" coords="5,227,135,539"/>
+<area shape="rect" id="node3" href="$classWsLdapAuth.html" title="Ldap authentication module. " alt="" coords="160,219,289,546"/>
 </map>

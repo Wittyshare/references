@@ -1,5 +1,5 @@
 <map id="WsDirNode" name="WsDirNode">
-<area shape="rect" id="node2" href="$classWsNode.html" title="Represents a node on disk. " alt="" coords="31,512,177,765"/>
+<area shape="rect" id="node2" href="$classWsNode.html" title="Represents a node on disk. " alt="" coords="31,513,177,781"/>
 <area shape="rect" id="node3" href="$classWsAbstractNode.html" title="Contains Abstract metods on nodes and variables. " alt="" coords="29,149,179,461"/>
-<area shape="rect" id="node5" href="$classWsNodeResources.html" title="Resources of a WsNode. " alt="" coords="202,556,405,721"/>
+<area shape="rect" id="node5" href="$classWsNodeResources.html" title="Resources of a WsNode. " alt="" coords="202,564,405,729"/>
 </map>

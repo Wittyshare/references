@@ -1,0 +1,8 @@
+<map id="WsFsDaemon::handleMenuRequest" name="WsFsDaemon::handleMenuRequest">
+<area shape="rect" id="node2" href="$classWsFsTreeOperations.html#a9e7994b204222ef59816d33f75f8654c" title="Get the menu tree starting from rootPath. " alt="" coords="332,5,479,46"/>
+<area shape="rect" id="node3" href="$classWsTreeSerializer.html#ab872a2e213e5e9c6388f06d4ff234549" title="serialize the given data structur " alt="" coords="316,71,495,97"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="334,121,477,148"/>
+<area shape="rect" id="node7" href="$classWsTreeSerializer.html#a0f64335108b8fefbfc8416c119d9f3c0" title="returns the Json text representing the given structure " alt="" coords="288,172,523,199"/>
+<area shape="rect" id="node4" href="$classWsTreeSerializer.html#a5e848c3baf94d741437b3c55489eab12" title="adds a SubNode to the tree corresponding to the Json entry " alt="" coords="573,71,747,97"/>
+<area shape="rect" id="node6" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="571,121,749,148"/>
+</map>

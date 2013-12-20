@@ -105,14 +105,14 @@ Inheritance diagram for WsDirNode:</div>
 <div class="dyncontent">
 <div class="center"><img src="classWsDirNode__inherit__graph.png" border="0" usemap="#WsDirNode_inherit__map" alt="Inheritance graph"/></div>
 <map name="WsDirNode_inherit__map" id="WsDirNode_inherit__map">
-<area shape="rect" id="node2" href="classWsNode.html" title="Represents a node on disk. " alt="" coords="31,507,177,760"/><area shape="rect" id="node3" href="classWsAbstractNode.html" title="Contains Abstract metods on nodes and variables. " alt="" coords="29,147,179,459"/></map>
+<area shape="rect" id="node2" href="classWsNode.html" title="Represents a node on disk. " alt="" coords="31,507,177,775"/><area shape="rect" id="node3" href="classWsAbstractNode.html" title="Contains Abstract metods on nodes and variables. " alt="" coords="29,147,179,459"/></map>
 </div>
 <div class="dynheader">
 Collaboration diagram for WsDirNode:</div>
 <div class="dyncontent">
 <div class="center"><img src="classWsDirNode__coll__graph.png" border="0" usemap="#WsDirNode_coll__map" alt="Collaboration graph"/></div>
 <map name="WsDirNode_coll__map" id="WsDirNode_coll__map">
-<area shape="rect" id="node2" href="classWsNode.html" title="Represents a node on disk. " alt="" coords="31,512,177,765"/><area shape="rect" id="node3" href="classWsAbstractNode.html" title="Contains Abstract metods on nodes and variables. " alt="" coords="29,149,179,461"/><area shape="rect" id="node5" href="classWsNodeResources.html" title="Resources of a WsNode. " alt="" coords="202,556,405,721"/></map>
+<area shape="rect" id="node2" href="classWsNode.html" title="Represents a node on disk. " alt="" coords="31,513,177,781"/><area shape="rect" id="node3" href="classWsAbstractNode.html" title="Contains Abstract metods on nodes and variables. " alt="" coords="29,149,179,461"/><area shape="rect" id="node5" href="classWsNodeResources.html" title="Resources of a WsNode. " alt="" coords="202,564,405,729"/></map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
@@ -252,6 +252,8 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a8ca6256e0e7adb1787de26c7ea785c23"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a19cd9fd52e1f31329f5c2a37333c478c"><td class="memItemLeft" align="right" valign="top">time_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWsNode.html#a19cd9fd52e1f31329f5c2a37333c478c">m_modifyTime</a></td></tr>
 <tr class="separator:a19cd9fd52e1f31329f5c2a37333c478c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a642eca80947b5466f9f8760e9f650f42"><td class="memItemLeft" align="right" valign="top">boost::mutex *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classWsNode.html#a642eca80947b5466f9f8760e9f650f42">m_mutexSort</a></td></tr>
+<tr class="separator:a642eca80947b5466f9f8760e9f650f42"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -400,7 +402,7 @@ Private Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#aef4b0bb3381be70dcc8b28635162e217">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00046">46</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00047">47</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -436,7 +438,7 @@ Private Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a5ba7e9c09dc8e52e18bd1624683b1ca2">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00059">59</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00060">60</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -472,7 +474,7 @@ Private Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#ab7400daf37e99878a2f6976f06350009">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00072">72</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00073">73</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -509,7 +511,7 @@ Private Attributes</h2></td></tr>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a94af144ae7dbc8305e845e5ff4295df5">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00205">205</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00207">207</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -548,7 +550,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#ab739543a9df9281008416a6874338d52">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00129">129</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00130">130</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -595,7 +597,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#adad5a25d2b087c9b2df31940ae7be3cd">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00242">242</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00244">244</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -625,7 +627,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#aff83b943225f7bae57e07ed3e6dc0d9e">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00123">123</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00124">124</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -663,7 +665,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a2a85fc106c26e441354199e101b6f62f">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00155">155</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00156">156</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -713,7 +715,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a159a8933e97a65e38888d4db9491926c">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00110">110</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00111">111</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -752,7 +754,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a67acc7e13a1dd7f462bdb49999627099">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00117">117</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00118">118</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -790,7 +792,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a6e5eb9957e6858c37866d826fafed1ed">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00098">98</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00099">99</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -839,7 +841,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a807e3fafc60bdbcf63ef86fa8413c41a">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00237">237</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00239">239</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -870,7 +872,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#ae4ae4d099c700a5dc2ff2609bb5337e1">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00103">103</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00104">104</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -925,7 +927,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a0c42e8014ac98819ff31fb42b180c3c6">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00137">137</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00138">138</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -964,7 +966,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a25e456c3ecb9e4bd276ba368fa848bd0">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00087">87</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00088">88</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -994,7 +996,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a195b7a3ad7edfb0c5b343865f4297e2b">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00093">93</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00094">94</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -1033,7 +1035,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#ae98bfc09ad803393db89d076293e4af5">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00174">174</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00175">175</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -1103,7 +1105,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a23b224711f16a83643f0ba05456bc64b">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00179">179</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00180">180</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -1315,7 +1317,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a170529433adfb1ee27c57fa4f9e3adfe">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00247">247</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00249">249</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -1345,7 +1347,7 @@ Here is the call graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#afada32faa86d6dd5a2ae80a2de0da402">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00252">252</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00254">254</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -1390,7 +1392,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#ada8d480f01e4ee0e5fbdf15c2706d0fc">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00082">82</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00083">83</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 </div>
 </div>
@@ -1426,7 +1428,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a1e15df97b11bd40d56deef203e9cc1e1">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00164">164</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00165">165</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -1483,7 +1485,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#ad687c6c2e8f2527a148e5bc0950f8a8e">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00169">169</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00170">170</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -1521,7 +1523,7 @@ Here is the caller graph for this function:</div>
 
 <p>Implements <a class="el" href="classWsAbstractNode.html#a06684a9369659e7d5da56dc3d0e2fc32">WsAbstractNode</a>.</p>
 
-<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00191">191</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
+<p>Definition at line <a class="el" href="WsNode_8cpp_source.html#l00192">192</a> of file <a class="el" href="WsNode_8cpp_source.html">WsNode.cpp</a>.</p>
 
 <p><div class="dynheader">
 Here is the call graph for this function:</div>
@@ -1682,6 +1684,28 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
+<a class="anchor" id="a642eca80947b5466f9f8760e9f650f42"></a>
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">boost::mutex* WsNode::m_mutexSort</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span><span class="mlabel">inherited</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Definition at line <a class="el" href="WsNode_8h_source.html#l00228">228</a> of file <a class="el" href="WsNode_8h_source.html">WsNode.h</a>.</p>
+
+</div>
+</div>
 <a class="anchor" id="a5756cdbf76c22fd068ee0b88ebd7ec4d"></a>
 <div class="memitem">
 <div class="memproto">
@@ -1804,7 +1828,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Dec 2 2013 16:33:45 for WittyShare by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Dec 20 2013 11:53:05 for WittyShare by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.5
 </small></address>

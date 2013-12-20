@@ -1,6 +1,6 @@
 <map id="WsNode" name="WsNode">
-<area shape="rect" id="node4" href="$classWsDirNode.html" title="Reprensents a Directory on disk. " alt="" coords="5,808,157,1032"/>
-<area shape="rect" id="node5" href="$classWsFileNode.html" title="Reprensents a File on disk. " alt="" coords="183,815,329,1025"/>
+<area shape="rect" id="node4" href="$classWsDirNode.html" title="Reprensents a Directory on disk. " alt="" coords="5,824,157,1048"/>
+<area shape="rect" id="node5" href="$classWsFileNode.html" title="Reprensents a File on disk. " alt="" coords="183,831,329,1041"/>
 <area shape="rect" id="node2" href="$classWsAbstractNode.html" title="Contains Abstract metods on nodes and variables. " alt="" coords="93,147,243,459"/>
-<area shape="rect" id="node6" href="$classWsResultItem.html" title="Represents a Result of a search. " alt="" coords="189,1080,323,1216"/>
+<area shape="rect" id="node6" href="$classWsResultItem.html" title="Represents a Result of a search. " alt="" coords="189,1096,323,1232"/>
 </map>

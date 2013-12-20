@@ -1,15 +1,15 @@
 <map id="src/Include/WsGlobalConfig.h" name="src/Include/WsGlobalConfig.h">
-<area shape="rect" id="node2" href="$WsAuthenticator_8cpp.html" title="src/Auth/WsAuthenticator.cpp" alt="" coords="3868,88,4065,115"/>
-<area shape="rect" id="node3" href="$WsCompressor_8cpp.html" title="src/Compression/WsCompressor.cpp" alt="" coords="4090,88,4331,115"/>
-<area shape="rect" id="node4" href="$WsDecompressor_8cpp.html" title="src/Compression/WsDecompressor.cpp" alt="" coords="4355,88,4609,115"/>
-<area shape="rect" id="node5" href="$WsAbstractProperties_8cpp.html" title="Abstract class for properties. " alt="" coords="4635,81,4840,122"/>
-<area shape="rect" id="node6" href="$WsGlobalProperties_8cpp.html" title="Global properties. " alt="" coords="4865,81,5057,122"/>
-<area shape="rect" id="node7" href="$WsLayoutProperties_8cpp.html" title="src/ConfigManager/WsLayout\lProperties.cpp" alt="" coords="5083,81,5277,122"/>
-<area shape="rect" id="node8" href="$WsNodeProperties_8cpp.html" title="Node properties. " alt="" coords="5301,81,5488,122"/>
-<area shape="rect" id="node9" href="$WsNodeResources_8cpp.html" title="Node Resources. " alt="" coords="5512,81,5699,122"/>
-<area shape="rect" id="node10" href="$WsDirectoryCrawler_8cpp.html" title="src/DirCrawler/WsDirectory\lCrawler.cpp" alt="" coords="5723,81,5905,122"/>
-<area shape="rect" id="node11" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="6148,81,6283,122"/>
-<area shape="rect" id="node13" href="$WsDirNode_8cpp.html" title="src/FileSystemTree\l/WsDirNode.cpp" alt="" coords="5735,262,5869,303"/>
+<area shape="rect" id="node2" href="$WsAuthenticator_8cpp.html" title="src/Auth/WsAuthenticator.cpp" alt="" coords="3937,88,4135,115"/>
+<area shape="rect" id="node3" href="$WsCompressor_8cpp.html" title="src/Compression/WsCompressor.cpp" alt="" coords="4159,88,4400,115"/>
+<area shape="rect" id="node4" href="$WsDecompressor_8cpp.html" title="src/Compression/WsDecompressor.cpp" alt="" coords="4425,88,4679,115"/>
+<area shape="rect" id="node5" href="$WsAbstractProperties_8cpp.html" title="Abstract class for properties. " alt="" coords="4704,81,4909,122"/>
+<area shape="rect" id="node6" href="$WsGlobalProperties_8cpp.html" title="Global properties. " alt="" coords="4934,81,5127,122"/>
+<area shape="rect" id="node7" href="$WsLayoutProperties_8cpp.html" title="src/ConfigManager/WsLayout\lProperties.cpp" alt="" coords="5152,81,5347,122"/>
+<area shape="rect" id="node8" href="$WsNodeProperties_8cpp.html" title="Node properties. " alt="" coords="5371,81,5557,122"/>
+<area shape="rect" id="node9" href="$WsNodeResources_8cpp.html" title="Node Resources. " alt="" coords="5581,81,5768,122"/>
+<area shape="rect" id="node10" href="$WsDirectoryCrawler_8cpp.html" title="src/DirCrawler/WsDirectory\lCrawler.cpp" alt="" coords="5793,81,5975,122"/>
+<area shape="rect" id="node11" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="6217,81,6352,122"/>
+<area shape="rect" id="node13" href="$WsDirNode_8cpp.html" title="src/FileSystemTree\l/WsDirNode.cpp" alt="" coords="5804,262,5939,303"/>
 <area shape="rect" id="node17" href="$WsFileSystemTree_8cpp.html" title="src/FileSystemTree\l/WsFileSystemTree.cpp" alt="" coords="3605,443,3768,485"/>
 <area shape="rect" id="node19" href="$WsFsDaemon_8cpp.html" title="Take charge of FS operations. " alt="" coords="4229,880,4451,907"/>
 <area shape="rect" id="node26" href="$WsFsTreeClient_8cpp.html" title="src/FsClient/WsFsTreeClient.cpp" alt="" coords="6482,880,6699,907"/>
@@ -17,35 +17,36 @@
 <area shape="rect" id="node43" href="$WsBanners_8cpp.html" title="src/WsModules/WsModBanners\l/src/WsBanners.cpp" alt="" coords="8369,1179,8579,1221"/>
 <area shape="rect" id="node60" href="$WsMenu_8cpp.html" title="src/WsModules/WsModMenu\l/src/WsMenu.cpp" alt="" coords="8604,1179,8799,1221"/>
 <area shape="rect" id="node78" href="$WsUser_8cpp.html" title="src/User/WsUser.cpp" alt="" coords="8117,955,8265,981"/>
-<area shape="rect" id="node87" href="$WsAbstractTree_8cpp.html" title="Reprensents the access tree of a user If a user does not have access to a Node, this Node will not sh..." alt="" coords="6240,541,6435,568"/>
+<area shape="rect" id="node87" href="$WsAbstractTree_8cpp.html" title="Reprensents the access tree of a user If a user does not have access to a Node, this Node will not sh..." alt="" coords="6308,541,6503,568"/>
 <area shape="rect" id="node95" href="$WsAccessTree_8cpp.html" title="Reprensents the access tree of a user If a user does not have access to a Node, this Node will not sh..." alt="" coords="5868,632,6057,659"/>
 <area shape="rect" id="node102" href="$WsFsDaemonClient_8cpp.html" title="src/FsClient/WsFsDaemonClient.cpp" alt="" coords="7125,723,7365,749"/>
 <area shape="rect" id="node106" href="$WsFsTreeUpdater_8cpp.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="6081,632,6308,659"/>
 <area shape="rect" id="node107" href="$WsMonitor_8cpp.html" title="Monitors the FileSystem for any modification. " alt="" coords="6534,632,6716,659"/>
-<area shape="rect" id="node117" href="$WsNode_8cpp.html" title="src/FileSystemTree\l/WsNode.cpp" alt="" coords="6279,171,6413,213"/>
+<area shape="rect" id="node117" href="$WsNode_8cpp.html" title="src/FileSystemTree\l/WsNode.cpp" alt="" coords="6348,171,6483,213"/>
 <area shape="rect" id="node118" href="$WsCrashLogger_8cpp.html" title="src/Logger/WsCrashLogger.cpp" alt="" coords="7958,88,8164,115"/>
 <area shape="rect" id="node119" href="$WsLogWriter_8cpp.html" title="src/Logger/WsLogWriter.cpp" alt="" coords="8189,88,8376,115"/>
 <area shape="rect" id="node120" href="$WsModulesLoader_8cpp.html" title="src/Main/WsModulesLoader.cpp" alt="" coords="8401,88,8609,115"/>
 <area shape="rect" id="node121" href="$WsSearchObject_8cpp.html" title="src/Main/WsSearchObject.cpp" alt="" coords="8635,88,8833,115"/>
 <area shape="rect" id="node122" href="$WsSiteMap_8cpp.html" title="src/Main/WsSiteMap.cpp" alt="" coords="8859,88,9028,115"/>
 <area shape="rect" id="node123" href="$WsTopBanner_8cpp.html" title="src/Main/WsTopBanner.cpp" alt="" coords="9053,88,9237,115"/>
-<area shape="rect" id="node124" href="$WsLdapAuth_8cpp.html" title="Ldap connector class. " alt="" coords="9262,81,9433,122"/>
-<area shape="rect" id="node12" href="$WsDirNode_8h.html" title="src/FileSystemTree\l/WsDirNode.h" alt="" coords="6017,171,6152,213"/>
-<area shape="rect" id="node14" href="$WsFileNode_8h.html" title="src/FileSystemTree\l/WsFileNode.h" alt="" coords="5945,262,6080,303"/>
-<area shape="rect" id="node16" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="5512,353,5660,394"/>
-<area shape="rect" id="node115" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="6154,353,6328,394"/>
-<area shape="rect" id="node113" href="$WsArrayDeserializer_8h.html" title="Deserializes contents of a directory sent. " alt="" coords="5897,360,6129,387"/>
-<area shape="rect" id="node15" href="$WsFileNode_8cpp.html" title="src/FileSystemTree\l/WsFileNode.cpp" alt="" coords="5736,353,5871,394"/>
+<area shape="rect" id="node124" href="$WsBasicAuth_8cpp.html" title="Basic connector class. " alt="" coords="9262,81,9465,122"/>
+<area shape="rect" id="node125" href="$WsLdapAuth_8cpp.html" title="Ldap connector class. " alt="" coords="9490,81,9661,122"/>
+<area shape="rect" id="node12" href="$WsDirNode_8h.html" title="src/FileSystemTree\l/WsDirNode.h" alt="" coords="6087,171,6221,213"/>
+<area shape="rect" id="node14" href="$WsFileNode_8h.html" title="src/FileSystemTree\l/WsFileNode.h" alt="" coords="6015,262,6149,303"/>
+<area shape="rect" id="node16" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="5581,353,5729,394"/>
+<area shape="rect" id="node115" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="6223,353,6397,394"/>
+<area shape="rect" id="node113" href="$WsArrayDeserializer_8h.html" title="Deserializes contents of a directory sent. " alt="" coords="5966,360,6199,387"/>
+<area shape="rect" id="node15" href="$WsFileNode_8cpp.html" title="src/FileSystemTree\l/WsFileNode.cpp" alt="" coords="5805,353,5940,394"/>
 <area shape="rect" id="node108" href="$WsResultItem_8h.html" title="src/Search/WsResultItem.h" alt="" coords="5288,451,5472,477"/>
 <area shape="rect" id="node18" href="$WsFsDaemon_8h.html" title="Take charge of FS operations. " alt="" coords="4095,805,4301,832"/>
 <area shape="rect" id="node22" href="$WsAbstractSearch_8h.html" title="src/Search/WsAbstractSearch.h" alt="" coords="4571,541,4780,568"/>
 <area shape="rect" id="node24" href="$WsSearch_8h.html" title="src/Search/WsSearch.h" alt="" coords="4595,632,4756,659"/>
 <area shape="rect" id="node84" href="$WsArraySerializer_8h.html" title="Serializes the array. " alt="" coords="4161,451,4380,477"/>
-<area shape="rect" id="node86" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="5930,451,6109,477"/>
+<area shape="rect" id="node86" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="5991,451,6171,477"/>
 <area shape="rect" id="node96" href="$WsLatestNews_8h.html" title="src/WsModules/WsModLatest\lNews2/src/WsLatestNews.h" alt="" coords="1867,625,2065,666"/>
 <area shape="rect" id="node98" href="$WsSearchRSS_8h.html" title="src/WsModules/WsModRSS\l/src/WsSearchRSS.h" alt="" coords="3707,625,3897,666"/>
 <area shape="rect" id="node105" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="5661,541,5872,568"/>
-<area shape="rect" id="node20" href="$WsFsDaemonLoader_8h.html" title="src/FsDaemon/WsFsDaemonLoader.h" alt="" coords="2227,880,2473,907"/>
+<area shape="rect" id="node20" href="$WsFsDaemonLoader_8h.html" title="src/FsDaemon/WsFsDaemonLoader.h" alt="" coords="3022,880,3268,907"/>
 <area shape="rect" id="node21" href="$WsFsDaemonLoader_8cpp.html" title="src/FsDaemon/WsFsDaemonLoader.cpp" alt="" coords="297,955,556,981"/>
 <area shape="rect" id="node23" href="$WsAbstractSearch_8cpp.html" title="src/Search/WsAbstractSearch.cpp" alt="" coords="3973,632,4196,659"/>
 <area shape="rect" id="node82" href="$WsMnoGoSearch_8h.html" title="src/WsSearchModules\l/MnoGoSearch/src/WsMnoGoSearch.h" alt="" coords="4221,625,4469,666"/>
@@ -120,6 +121,6 @@
 <area shape="rect" id="node112" href="$WsResultItem_8cpp.html" title="src/Search/WsResultItem.cpp" alt="" coords="5438,541,5636,568"/>
 <area shape="rect" id="node110" href="$WsAbstractFsClient_8cpp.html" title="src/FsClient/WsAbstractFs\lClient.cpp" alt="" coords="7397,625,7579,666"/>
 <area shape="rect" id="node111" href="$WsFsDaemonClient_8h.html" title="Interacts with the menuTree and FsTree via the daemon. " alt="" coords="7147,632,7373,659"/>
-<area shape="rect" id="node114" href="$WsArrayDeserializer_8cpp.html" title="Deserializes contents of a set sent. " alt="" coords="5659,451,5905,477"/>
-<area shape="rect" id="node116" href="$WsTreeTraversal_8cpp.html" title="Traverses the fileSystemTree. " alt="" coords="6239,443,6413,485"/>
+<area shape="rect" id="node114" href="$WsArrayDeserializer_8cpp.html" title="Deserializes contents of a set sent. " alt="" coords="5721,451,5967,477"/>
+<area shape="rect" id="node116" href="$WsTreeTraversal_8cpp.html" title="Traverses the fileSystemTree. " alt="" coords="6309,443,6483,485"/>
 </map>

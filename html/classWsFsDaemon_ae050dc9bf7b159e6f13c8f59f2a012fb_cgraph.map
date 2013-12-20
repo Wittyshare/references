@@ -1,0 +1,5 @@
+<map id="WsFsDaemon::handleIsAdminRequest" name="WsFsDaemon::handleIsAdminRequest">
+<area shape="rect" id="node2" href="$classWsFsTreeOperations.html#a7a9e88326b4f6e06e7487596ff868178" title="WsFsTreeOperations\l::isAdministrator" alt="" coords="253,5,400,46"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#a2f5f8c9bc46cfb1b61f901d89a81de8f" title="Sends data on the socket. " alt="" coords="255,71,398,97"/>
+<area shape="rect" id="node4" href="$classWsCompressor.html#a92eaa36679d39358fd25beaa23dcc2d2" title="compress the input string (data) and puts it in compressedData. " alt="" coords="448,71,627,97"/>
+</map>

@@ -1,13 +1,13 @@
 <map id="src/TreeTraversal/WsTreeTraversal.h" name="src/TreeTraversal/WsTreeTraversal.h">
-<area shape="rect" id="node2" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="325,321,512,362"/>
-<area shape="rect" id="node20" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="691,245,871,272"/>
-<area shape="rect" id="node24" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="767,96,968,123"/>
-<area shape="rect" id="node25" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1013,171,1115,197"/>
-<area shape="rect" id="node6" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="755,419,988,445"/>
-<area shape="rect" id="node11" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="889,576,1023,603"/>
-<area shape="rect" id="node9" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1119,501,1280,528"/>
-<area shape="rect" id="node13" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="1456,651,1565,677"/>
-<area shape="rect" id="node23" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="587,651,761,677"/>
-<area shape="rect" id="node26" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1327,419,1568,445"/>
-<area shape="rect" id="node27" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="1065,419,1303,445"/>
+<area shape="rect" id="node2" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="408,321,595,362"/>
+<area shape="rect" id="node21" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="690,245,869,272"/>
+<area shape="rect" id="node25" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="853,96,1053,123"/>
+<area shape="rect" id="node26" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1064,171,1165,197"/>
+<area shape="rect" id="node6" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="688,419,921,445"/>
+<area shape="rect" id="node12" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="427,576,561,603"/>
+<area shape="rect" id="node10" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1102,501,1263,528"/>
+<area shape="rect" id="node14" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="221,651,331,677"/>
+<area shape="rect" id="node24" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="713,651,887,677"/>
+<area shape="rect" id="node27" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1210,419,1451,445"/>
+<area shape="rect" id="node28" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="947,419,1185,445"/>
 </map>

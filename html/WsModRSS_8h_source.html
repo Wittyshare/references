@@ -124,7 +124,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="keyword">extern</span> <span class="stringliteral">&quot;C&quot;</span> {</div>
 <div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;  <span class="keywordtype">void</span> <a class="code" href="WsModRSS_8cpp.html#afbc47ffa3a1e1e679a39c68b41c2a0b7">WsModRSSInit</a>(<span class="keywordtype">void</span>) __attribute__((constructor));</div>
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;</div>
-<div class="line"><a name="l00035"></a><span class="lineno"><a class="line" href="WsModRSS_8h.html#a4f3379b3bba43541cc62eeda49da0a58">   35</a></span>&#160;  <a class="code" href="classWsModRSS.html">WsModRSS</a>* <a class="code" href="WsLdapAuth_8h.html#abbaa997cd219d8eeba5232dbf4e7e610">buildModule</a>()</div>
+<div class="line"><a name="l00035"></a><span class="lineno"><a class="line" href="WsModRSS_8h.html#a4f3379b3bba43541cc62eeda49da0a58">   35</a></span>&#160;  <a class="code" href="classWsModRSS.html">WsModRSS</a>* <a class="code" href="WsBasicAuth_8h.html#a09932dd1be11342a4fdf7efe214c8472">buildModule</a>()</div>
 <div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;  {</div>
 <div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classWsModRSS.html">WsModRSS</a>();</div>
 <div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;  }</div>
@@ -133,6 +133,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<span class="preprocessor"></span></div>
 <div class="ttc" id="WsModRSS_8cpp_html_afbc47ffa3a1e1e679a39c68b41c2a0b7"><div class="ttname"><a href="WsModRSS_8cpp.html#afbc47ffa3a1e1e679a39c68b41c2a0b7">WsModRSSInit</a></div><div class="ttdeci">void WsModRSSInit(void)</div><div class="ttdef"><b>Definition:</b> <a href="WsModRSS_8cpp_source.html#l00041">WsModRSS.cpp:41</a></div></div>
+<div class="ttc" id="WsBasicAuth_8h_html_a09932dd1be11342a4fdf7efe214c8472"><div class="ttname"><a href="WsBasicAuth_8h.html#a09932dd1be11342a4fdf7efe214c8472">buildModule</a></div><div class="ttdeci">WsBasicAuth * buildModule()</div><div class="ttdef"><b>Definition:</b> <a href="WsBasicAuth_8h_source.html#l00105">WsBasicAuth.h:105</a></div></div>
 <div class="ttc" id="classWsModRSS_html_a68b85d70d41f7345951a3c87847b6623"><div class="ttname"><a href="classWsModRSS.html#a68b85d70d41f7345951a3c87847b6623">WsModRSS::description</a></div><div class="ttdeci">std::string description() const </div><div class="ttdoc">Return the description of the module. </div><div class="ttdef"><b>Definition:</b> <a href="WsModRSS_8cpp_source.html#l00086">WsModRSS.cpp:86</a></div></div>
 <div class="ttc" id="classWsModRSS_html_a7163e9d2a6989c58ff84ab4f1ba06798"><div class="ttname"><a href="classWsModRSS.html#a7163e9d2a6989c58ff84ab4f1ba06798">WsModRSS::createContents</a></div><div class="ttdeci">Wt::WWidget * createContents(Wt::WContainerWidget *parent=0) const </div><div class="ttdoc">Create the contents. </div><div class="ttdef"><b>Definition:</b> <a href="WsModRSS_8cpp_source.html#l00071">WsModRSS.cpp:71</a></div></div>
 <div class="ttc" id="WsApplication_8h_html"><div class="ttname"><a href="WsApplication_8h.html">WsApplication.h</a></div></div>
@@ -145,11 +146,10 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="classWsModRSS_html_a2c83d3c207ae37ba06b14c13a7f3a24b"><div class="ttname"><a href="classWsModRSS.html#a2c83d3c207ae37ba06b14c13a7f3a24b">WsModRSS::WsModRSS</a></div><div class="ttdeci">WsModRSS()</div><div class="ttdef"><b>Definition:</b> <a href="WsModRSS_8cpp_source.html#l00052">WsModRSS.cpp:52</a></div></div>
 <div class="ttc" id="classWsModRSS_html_a73e4a155e877707ee511cf9d99c4a5e4"><div class="ttname"><a href="classWsModRSS.html#a73e4a155e877707ee511cf9d99c4a5e4">WsModRSS::createEditor</a></div><div class="ttdeci">WsEditorWidget * createEditor(Wt::WContainerWidget *parent=0) const </div><div class="ttdoc">Create the contents for an editor (create a view of options). </div><div class="ttdef"><b>Definition:</b> <a href="WsModRSS_8cpp_source.html#l00076">WsModRSS.cpp:76</a></div></div>
 <div class="ttc" id="classWsModRSS_html_aa3f6bf2cc94448d99824fb185aaef7c2"><div class="ttname"><a href="classWsModRSS.html#aa3f6bf2cc94448d99824fb185aaef7c2">WsModRSS::createAdmin</a></div><div class="ttdeci">Wt::WWidget * createAdmin(Wt::WContainerWidget *parent=0) const </div><div class="ttdoc">Create the contents for an administrator. </div><div class="ttdef"><b>Definition:</b> <a href="WsModRSS_8cpp_source.html#l00081">WsModRSS.cpp:81</a></div></div>
-<div class="ttc" id="WsLdapAuth_8h_html_abbaa997cd219d8eeba5232dbf4e7e610"><div class="ttname"><a href="WsLdapAuth_8h.html#abbaa997cd219d8eeba5232dbf4e7e610">buildModule</a></div><div class="ttdeci">WsLdapAuth * buildModule()</div><div class="ttdef"><b>Definition:</b> <a href="WsLdapAuth_8h_source.html#l00107">WsLdapAuth.h:107</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Dec 2 2013 16:33:43 for WittyShare by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Dec 20 2013 11:53:02 for WittyShare by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.5
 </small></address>

@@ -216,7 +216,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00145"></a><span class="lineno">  145</span>&#160;<span class="keyword">extern</span> <span class="stringliteral">&quot;C&quot;</span> {</div>
 <div class="line"><a name="l00146"></a><span class="lineno">  146</span>&#160;  <span class="keywordtype">void</span> <a class="code" href="WsModZip_8cpp.html#a674d13c30c01024f56f3d10118130f42">WsModZipInit</a>(<span class="keywordtype">void</span>) __attribute__((constructor));</div>
 <div class="line"><a name="l00147"></a><span class="lineno">  147</span>&#160;</div>
-<div class="line"><a name="l00148"></a><span class="lineno"><a class="line" href="WsModZip_8h.html#a5c59c51717c09c0b3012a1f33c579a21">  148</a></span>&#160;  <a class="code" href="classWsModZip.html">WsModZip</a>* <a class="code" href="WsLdapAuth_8h.html#abbaa997cd219d8eeba5232dbf4e7e610">buildModule</a>()</div>
+<div class="line"><a name="l00148"></a><span class="lineno"><a class="line" href="WsModZip_8h.html#a5c59c51717c09c0b3012a1f33c579a21">  148</a></span>&#160;  <a class="code" href="classWsModZip.html">WsModZip</a>* <a class="code" href="WsBasicAuth_8h.html#a09932dd1be11342a4fdf7efe214c8472">buildModule</a>()</div>
 <div class="line"><a name="l00149"></a><span class="lineno">  149</span>&#160;  {</div>
 <div class="line"><a name="l00150"></a><span class="lineno">  150</span>&#160;    <span class="keywordflow">return</span> <span class="keyword">new</span> <a class="code" href="classWsModZip.html">WsModZip</a>();</div>
 <div class="line"><a name="l00151"></a><span class="lineno">  151</span>&#160;  }</div>
@@ -225,6 +225,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00154"></a><span class="lineno">  154</span>&#160;<span class="preprocessor">#endif</span></div>
 <div class="line"><a name="l00155"></a><span class="lineno">  155</span>&#160;<span class="preprocessor"></span></div>
 <div class="ttc" id="WsModZip_8cpp_html_a674d13c30c01024f56f3d10118130f42"><div class="ttname"><a href="WsModZip_8cpp.html#a674d13c30c01024f56f3d10118130f42">WsModZipInit</a></div><div class="ttdeci">void WsModZipInit(void)</div><div class="ttdef"><b>Definition:</b> <a href="WsModZip_8cpp_source.html#l00023">WsModZip.cpp:23</a></div></div>
+<div class="ttc" id="WsBasicAuth_8h_html_a09932dd1be11342a4fdf7efe214c8472"><div class="ttname"><a href="WsBasicAuth_8h.html#a09932dd1be11342a4fdf7efe214c8472">buildModule</a></div><div class="ttdeci">WsBasicAuth * buildModule()</div><div class="ttdef"><b>Definition:</b> <a href="WsBasicAuth_8h_source.html#l00105">WsBasicAuth.h:105</a></div></div>
 <div class="ttc" id="classWsModZip_html_a8fde838fc59e16f3ae848352081d5408"><div class="ttname"><a href="classWsModZip.html#a8fde838fc59e16f3ae848352081d5408">WsModZip::m_tar</a></div><div class="ttdeci">Wt::WRadioButton * m_tar</div><div class="ttdef"><b>Definition:</b> <a href="WsModZip_8h_source.html#l00124">WsModZip.h:124</a></div></div>
 <div class="ttc" id="classWsModZip_html_ab698004e422540e39648ddb2f7df28a4"><div class="ttname"><a href="classWsModZip.html#ab698004e422540e39648ddb2f7df28a4">WsModZip::m_archiveType</a></div><div class="ttdeci">Wt::WButtonGroup * m_archiveType</div><div class="ttdef"><b>Definition:</b> <a href="WsModZip_8h_source.html#l00128">WsModZip.h:128</a></div></div>
 <div class="ttc" id="classWsModZip_html_a571410328688af40fd56baf1dd3bedee"><div class="ttname"><a href="classWsModZip.html#a571410328688af40fd56baf1dd3bedee">WsModZip::m_all</a></div><div class="ttdeci">Wt::WRadioButton * m_all</div><div class="ttdef"><b>Definition:</b> <a href="WsModZip_8h_source.html#l00122">WsModZip.h:122</a></div></div>
@@ -246,14 +247,13 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="classWsModZip_html_ab68e48f1f3cb4f37155f8e55932b6946"><div class="ttname"><a href="classWsModZip.html#ab68e48f1f3cb4f37155f8e55932b6946">WsModZip::m_loading</a></div><div class="ttdeci">Wt::WLabel * m_loading</div><div class="ttdef"><b>Definition:</b> <a href="WsModZip_8h_source.html#l00132">WsModZip.h:132</a></div></div>
 <div class="ttc" id="classWsModZip_html"><div class="ttname"><a href="classWsModZip.html">WsModZip</a></div><div class="ttdef"><b>Definition:</b> <a href="WsModZip_8h_source.html#l00085">WsModZip.h:85</a></div></div>
 <div class="ttc" id="classWsModZip_html_ad8cd8643d4c0067e02eec6c64159c4e1"><div class="ttname"><a href="classWsModZip.html#ad8cd8643d4c0067e02eec6c64159c4e1">WsModZip::m_errmsg</a></div><div class="ttdeci">string m_errmsg</div><div class="ttdef"><b>Definition:</b> <a href="WsModZip_8h_source.html#l00135">WsModZip.h:135</a></div></div>
-<div class="ttc" id="WsLdapAuth_8h_html_abbaa997cd219d8eeba5232dbf4e7e610"><div class="ttname"><a href="WsLdapAuth_8h.html#abbaa997cd219d8eeba5232dbf4e7e610">buildModule</a></div><div class="ttdeci">WsLdapAuth * buildModule()</div><div class="ttdef"><b>Definition:</b> <a href="WsLdapAuth_8h_source.html#l00107">WsLdapAuth.h:107</a></div></div>
 <div class="ttc" id="WsAbstractNode_8h_html"><div class="ttname"><a href="WsAbstractNode_8h.html">WsAbstractNode.h</a></div><div class="ttdoc">Abstract Node class. </div></div>
 <div class="ttc" id="WsUser_8h_html"><div class="ttname"><a href="WsUser_8h.html">WsUser.h</a></div><div class="ttdoc">User class. </div></div>
 <div class="ttc" id="classWsZipEditorWidget_html_affb0cff2636873fe8055374f85467880"><div class="ttname"><a href="classWsZipEditorWidget.html#affb0cff2636873fe8055374f85467880">WsZipEditorWidget::m_bState</a></div><div class="ttdeci">bool m_bState</div><div class="ttdef"><b>Definition:</b> <a href="WsModZip_8h_source.html#l00081">WsModZip.h:81</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Mon Dec 2 2013 16:33:44 for WittyShare by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Fri Dec 20 2013 11:53:02 for WittyShare by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.5
 </small></address>
