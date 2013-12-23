@@ -1,6 +1,6 @@
-<map id="src/FileSystemTree/WsAbstractNode.h" name="src/FileSystemTree/WsAbstractNode.h">
-<area shape="rect" id="node5" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="455,104,688,131"/>
-<area shape="rect" id="node11" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="482,261,616,288"/>
-<area shape="rect" id="node9" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="218,187,379,213"/>
-<area shape="rect" id="node13" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="375,336,484,363"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wscore/src/FileSystemTree/WsAbstractNode.h" name="/home/ben/Programming/C++/Wittyshare/wscore/src/FileSystemTree/WsAbstractNode.h">
+<area shape="rect" id="node5" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="455,133,688,160"/>
+<area shape="rect" id="node11" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="482,291,616,317"/>
+<area shape="rect" id="node9" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="218,216,379,243"/>
+<area shape="rect" id="node13" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="375,365,484,392"/>
 </map>

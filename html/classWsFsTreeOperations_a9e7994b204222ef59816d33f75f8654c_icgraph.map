@@ -1,11 +1,11 @@
 <map id="WsFsTreeOperations::getMenuTree" name="WsFsTreeOperations::getMenuTree">
-<area shape="rect" id="node2" href="$classWsFsTreeClient.html#addd5156acc9d6c74e8726d808625d80b" title="get the root node of the menu The root node contains as children all the menu items ..." alt="" coords="224,5,427,32"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#ac22a6afd304eeb439974a2d13dc6b497" title="Sends the menu to the client. " alt="" coords="209,56,442,83"/>
-<area shape="rect" id="node10" href="$classWsFsDaemon.html#a7381f737725341bafd270fa588669465" title="Sends the menu to the client, the client requested a menu with exclusion of extensions. " alt="" coords="201,107,450,133"/>
-<area shape="rect" id="node4" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="499,81,701,108"/>
-<area shape="rect" id="node5" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="750,81,949,108"/>
-<area shape="rect" id="node6" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="997,81,1136,108"/>
-<area shape="rect" id="node7" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1448,81,1627,108"/>
-<area shape="rect" id="node9" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1184,107,1400,133"/>
-<area shape="rect" id="node8" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1675,81,1725,108"/>
+<area shape="rect" id="node2" href="$classWsFsDaemon.html#ac22a6afd304eeb439974a2d13dc6b497" title="Sends the menu to the client. " alt="" coords="209,5,442,32"/>
+<area shape="rect" id="node9" href="$classWsFsDaemon.html#a7381f737725341bafd270fa588669465" title="Sends the menu to the client, the client requested a menu with exclusion of extensions. " alt="" coords="201,56,450,83"/>
+<area shape="rect" id="node10" href="$classWsFsTreeClient.html#addd5156acc9d6c74e8726d808625d80b" title="get the root node of the menu The root node contains as children all the menu items ..." alt="" coords="224,107,427,133"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="499,31,701,57"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="750,31,949,57"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="997,31,1136,57"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1448,31,1627,57"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1184,56,1400,83"/>
+<area shape="rect" id="node7" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1675,31,1725,57"/>
 </map>

@@ -1,112 +1,113 @@
-<map id="src/ConfigManager/WsNodeProperties.h" name="src/ConfigManager/WsNodeProperties.h">
-<area shape="rect" id="node2" href="$WsNodeProperties_8cpp.html" title="Node properties. " alt="" coords="320,97,507,138"/>
-<area shape="rect" id="node3" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="6559,97,6696,138"/>
-<area shape="rect" id="node5" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="2749,187,2884,229"/>
-<area shape="rect" id="node8" href="$WsFileNode_8h.html" title="src/FileSystemTree\l/WsFileNode.h" alt="" coords="2437,369,2572,410"/>
-<area shape="rect" id="node11" href="$WsFileSystemTree_8cpp.html" title="src/FileSystemTree\l/WsFileSystemTree.cpp" alt="" coords="1049,550,1212,591"/>
-<area shape="rect" id="node20" href="$WsFsTreeClient_8cpp.html" title="src/FsClient/WsFsTreeClient.cpp" alt="" coords="1730,987,1947,1013"/>
-<area shape="rect" id="node103" href="$WsAbstractFsClient_8h.html" title="src/FsClient/WsAbstractFs\lClient.h" alt="" coords="4611,641,4792,682"/>
-<area shape="rect" id="node4" href="$WsAbstractNode_8cpp.html" title="src/FileSystemTree\l/WsAbstractNode.cpp" alt="" coords="8591,187,8741,229"/>
-<area shape="rect" id="node10" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="2729,459,2877,501"/>
-<area shape="rect" id="node42" href="$WsModDirectoryView2_8cpp.html" title="src/WsModules/WsModDirectory\lView2/src/WsModDirectoryView2.cpp" alt="" coords="8453,1377,8696,1418"/>
-<area shape="rect" id="node50" href="$WsLatestNews2_8cpp.html" title="src/WsModules/WsModLatest\lNews2/src/WsLatestNews2.cpp" alt="" coords="1413,1377,1623,1418"/>
-<area shape="rect" id="node51" href="$WsModLatestNews2_8cpp.html" title="src/WsModules/WsModLatest\lNews2/src/WsModLatestNews2.cpp" alt="" coords="3579,1377,3815,1418"/>
-<area shape="rect" id="node60" href="$WsModRSS_8cpp.html" title="src/WsModules/WsModRSS\l/src/WsModRSS.cpp" alt="" coords="8721,1377,8911,1418"/>
-<area shape="rect" id="node62" href="$WsRSS_8cpp.html" title="src/WsModules/WsModRSS\l/src/WsRSS.cpp" alt="" coords="9149,1377,9339,1418"/>
-<area shape="rect" id="node66" href="$WsModZip_8h.html" title="src/WsModules/WsModZip\l/src/WsModZip.h" alt="" coords="8933,1286,9112,1327"/>
-<area shape="rect" id="node109" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="3043,459,3217,501"/>
-<area shape="rect" id="node6" href="$WsDirNode_8h.html" title="src/FileSystemTree\l/WsDirNode.h" alt="" coords="2749,278,2884,319"/>
-<area shape="rect" id="node111" href="$WsNode_8cpp.html" title="src/FileSystemTree\l/WsNode.cpp" alt="" coords="2539,278,2673,319"/>
-<area shape="rect" id="node7" href="$WsDirNode_8cpp.html" title="src/FileSystemTree\l/WsDirNode.cpp" alt="" coords="2597,369,2732,410"/>
-<area shape="rect" id="node107" href="$WsArrayDeserializer_8h.html" title="Deserializes contents of a directory sent. " alt="" coords="2471,467,2704,493"/>
-<area shape="rect" id="node9" href="$WsFileNode_8cpp.html" title="src/FileSystemTree\l/WsFileNode.cpp" alt="" coords="2311,459,2445,501"/>
-<area shape="rect" id="node102" href="$WsResultItem_8h.html" title="src/Search/WsResultItem.h" alt="" coords="1677,557,1861,584"/>
-<area shape="rect" id="node12" href="$WsFsDaemon_8h.html" title="Take charge of FS operations. " alt="" coords="1019,912,1225,939"/>
-<area shape="rect" id="node16" href="$WsAbstractSearch_8h.html" title="src/Search/WsAbstractSearch.h" alt="" coords="1155,648,1364,675"/>
-<area shape="rect" id="node18" href="$WsSearch_8h.html" title="src/Search/WsSearch.h" alt="" coords="1203,739,1364,765"/>
-<area shape="rect" id="node78" href="$WsArraySerializer_8h.html" title="Serializes the array. " alt="" coords="2553,557,2772,584"/>
-<area shape="rect" id="node80" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="3041,557,3220,584"/>
-<area shape="rect" id="node90" href="$WsLatestNews_8h.html" title="src/WsModules/WsModLatest\lNews2/src/WsLatestNews.h" alt="" coords="2951,731,3149,773"/>
-<area shape="rect" id="node92" href="$WsSearchRSS_8h.html" title="src/WsModules/WsModRSS\l/src/WsSearchRSS.h" alt="" coords="4281,731,4471,773"/>
-<area shape="rect" id="node99" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="1963,648,2175,675"/>
-<area shape="rect" id="node13" href="$WsFsDaemon_8cpp.html" title="Take charge of FS operations. " alt="" coords="2461,987,2683,1013"/>
-<area shape="rect" id="node14" href="$WsFsDaemonLoader_8h.html" title="src/FsDaemon/WsFsDaemonLoader.h" alt="" coords="497,987,743,1013"/>
-<area shape="rect" id="node15" href="$WsFsDaemonLoader_8cpp.html" title="src/FsDaemon/WsFsDaemonLoader.cpp" alt="" coords="5,1061,264,1088"/>
-<area shape="rect" id="node17" href="$WsAbstractSearch_8cpp.html" title="src/Search/WsAbstractSearch.cpp" alt="" coords="904,739,1127,765"/>
-<area shape="rect" id="node76" href="$WsMnoGoSearch_8h.html" title="src/WsSearchModules\l/MnoGoSearch/src/WsMnoGoSearch.h" alt="" coords="631,731,880,773"/>
-<area shape="rect" id="node19" href="$WsFsTreeClient_8h.html" title="Interacts directly with the menuTree and the fsTree. " alt="" coords="2556,912,2759,939"/>
-<area shape="rect" id="node32" href="$WsSearchView_8cpp.html" title="src/Main/WsSearchView.cpp" alt="" coords="1265,1293,1455,1320"/>
-<area shape="rect" id="node73" href="$WsFsTreeConsultation_8cpp.html" title="src/FsTreeOp/WsFsTreeConsultation.cpp" alt="" coords="1603,829,1868,856"/>
-<area shape="rect" id="node74" href="$WsFsTreeModification_8cpp.html" title="src/FsTreeOp/WsFsTreeModification.cpp" alt="" coords="1893,829,2155,856"/>
-<area shape="rect" id="node75" href="$WsSearch_8cpp.html" title="src/Search/WsSearch.cpp" alt="" coords="1302,829,1476,856"/>
-<area shape="rect" id="node21" href="$WsUser_8h.html" title="User class. " alt="" coords="4621,987,4755,1013"/>
-<area shape="rect" id="node22" href="$Main_2main_8cpp.html" title="src/Main/main.cpp" alt="" coords="8137,1293,8265,1320"/>
-<area shape="rect" id="node23" href="$WsApplication_8h.html" title="src/Main/WsApplication.h" alt="" coords="4588,1211,4759,1237"/>
-<area shape="rect" id="node26" href="$WsContent_8cpp.html" title="src/Main/WsContent.cpp" alt="" coords="537,1384,703,1411"/>
-<area shape="rect" id="node27" href="$WsTemplate_8h.html" title="src/Main/WsTemplate.h" alt="" coords="763,1293,924,1320"/>
-<area shape="rect" id="node28" href="$WsTemplate_8cpp.html" title="src/Main/WsTemplate.cpp" alt="" coords="315,1384,489,1411"/>
-<area shape="rect" id="node44" href="$WsModFollowUs_8cpp.html" title="src/WsModules/WsModFollow\lUs/src/WsModFollowUs.cpp" alt="" coords="8289,1286,8488,1327"/>
-<area shape="rect" id="node46" href="$WsImages2_8cpp.html" title="src/WsModules/WsModImages2\l/src/WsImages2.cpp" alt="" coords="1631,1286,1843,1327"/>
-<area shape="rect" id="node53" href="$WsModLinksList_8cpp.html" title="src/WsModules/WsModLinks\lList/src/WsModLinksList.cpp" alt="" coords="7649,1286,7841,1327"/>
-<area shape="rect" id="node65" href="$WsVideo_8cpp.html" title="src/WsModules/WsModVideo\l/src/WsVideo.cpp" alt="" coords="7917,1286,8112,1327"/>
-<area shape="rect" id="node68" href="$WsSiteMapView_8h.html" title="src/Main/WsSiteMapView.h" alt="" coords="548,1061,732,1088"/>
-<area shape="rect" id="node70" href="$WsSearchView_8h.html" title="src/Main/WsSearchView.h" alt="" coords="1302,1211,1479,1237"/>
-<area shape="rect" id="node71" href="$WsFormConfig_8h.html" title="src/Main/WsFormConfig.h" alt="" coords="1051,1211,1225,1237"/>
-<area shape="rect" id="node72" href="$WsUser_8cpp.html" title="src/User/WsUser.cpp" alt="" coords="7580,1061,7728,1088"/>
-<area shape="rect" id="node24" href="$WsApplication_8cpp.html" title="src/Main/WsApplication.cpp" alt="" coords="977,1384,1161,1411"/>
-<area shape="rect" id="node25" href="$WsBottomBanner_8cpp.html" title="src/Main/WsBottomBanner.cpp" alt="" coords="5071,1293,5275,1320"/>
-<area shape="rect" id="node29" href="$WsContentButtonsBar_8cpp.html" title="src/Main/WsContentButtons\lBar.cpp" alt="" coords="5300,1286,5487,1327"/>
-<area shape="rect" id="node30" href="$WsFormConfig_8cpp.html" title="src/Main/WsFormConfig.cpp" alt="" coords="1000,1293,1189,1320"/>
-<area shape="rect" id="node31" href="$WsFunctionnalities_8cpp.html" title="src/Main/WsFunctionnalities.cpp" alt="" coords="5511,1293,5723,1320"/>
-<area shape="rect" id="node33" href="$WsSiteMapView_8cpp.html" title="src/Main/WsSiteMapView.cpp" alt="" coords="541,1293,739,1320"/>
-<area shape="rect" id="node34" href="$WsModule_8cpp.html" title="src/WsModule/src/WsModule.cpp" alt="" coords="1968,1293,2187,1320"/>
-<area shape="rect" id="node35" href="$WsAnchor_8cpp.html" title="src/WsModules/WsModAnchor\l/src/WsAnchor.cpp" alt="" coords="2211,1286,2413,1327"/>
-<area shape="rect" id="node36" href="$WsModAnchor_8cpp.html" title="src/WsModules/WsModAnchor\l/src/WsModAnchor.cpp" alt="" coords="2437,1286,2640,1327"/>
-<area shape="rect" id="node37" href="$WsBanners_8cpp.html" title="src/WsModules/WsModBanners\l/src/WsBanners.cpp" alt="" coords="2664,1286,2873,1327"/>
-<area shape="rect" id="node38" href="$WsModBanners_8cpp.html" title="src/WsModules/WsModBanners\l/src/WsModBanners.cpp" alt="" coords="2899,1286,3108,1327"/>
-<area shape="rect" id="node39" href="$WsBreadCrumb_8cpp.html" title="src/WsModules/WsModBread\lCrumb/src/WsBreadCrumb.cpp" alt="" coords="3133,1286,3339,1327"/>
-<area shape="rect" id="node40" href="$WsModBreadCrumb_8cpp.html" title="src/WsModules/WsModBread\lCrumb/src/WsModBreadCrumb.cpp" alt="" coords="3833,1286,4063,1327"/>
-<area shape="rect" id="node41" href="$WsModDirectoryView2_8h.html" title="src/WsModules/WsModDirectory\lView2/src/WsModDirectoryView2.h" alt="" coords="7180,1286,7409,1327"/>
-<area shape="rect" id="node43" href="$WsModFileUpload_8cpp.html" title="src/WsModules/WsModFileUpload\l/src/WsModFileUpload.cpp" alt="" coords="4088,1286,4311,1327"/>
-<area shape="rect" id="node45" href="$WsModGalleria_8cpp.html" title="src/WsModules/WsModGalleria\l/src/WsModGalleria.cpp" alt="" coords="4337,1286,4543,1327"/>
-<area shape="rect" id="node47" href="$WsModImages2_8cpp.html" title="src/WsModules/WsModImages2\l/src/WsModImages2.cpp" alt="" coords="4567,1286,4779,1327"/>
-<area shape="rect" id="node48" href="$WsModImagesGallery_8cpp.html" title="src/WsModules/WsModImages\lGallery/src/WsModImagesGallery.cpp" alt="" coords="4804,1286,5047,1327"/>
-<area shape="rect" id="node49" href="$WsLatestNews2_8h.html" title="src/WsModules/WsModLatest\lNews2/src/WsLatestNews2.h" alt="" coords="3363,1286,3561,1327"/>
-<area shape="rect" id="node52" href="$WsModLatestNews2_8h.html" title="src/WsModules/WsModLatest\lNews2/src/WsModLatestNews2.h" alt="" coords="3586,1286,3808,1327"/>
-<area shape="rect" id="node54" href="$WsMenu_8cpp.html" title="src/WsModules/WsModMenu\l/src/WsMenu.cpp" alt="" coords="5748,1286,5943,1327"/>
-<area shape="rect" id="node55" href="$WsModMenu_8cpp.html" title="src/WsModules/WsModMenu\l/src/WsModMenu.cpp" alt="" coords="5967,1286,6161,1327"/>
-<area shape="rect" id="node56" href="$WsModMenuImages_8cpp.html" title="src/WsModules/WsModMenuImages\l/src/WsModMenuImages.cpp" alt="" coords="6185,1286,6421,1327"/>
-<area shape="rect" id="node57" href="$WsModNewsLetter_8cpp.html" title="src/WsModules/WsModNewsLetter\l/src/WsModNewsLetter.cpp" alt="" coords="6447,1286,6676,1327"/>
-<area shape="rect" id="node58" href="$WsNewsLetter_8cpp.html" title="src/WsModules/WsModNewsLetter\l/src/WsNewsLetter.cpp" alt="" coords="6700,1286,6929,1327"/>
-<area shape="rect" id="node59" href="$WsModRSS_8h.html" title="src/WsModules/WsModRSS\l/src/WsModRSS.h" alt="" coords="7434,1286,7624,1327"/>
-<area shape="rect" id="node61" href="$WsRSS_8h.html" title="src/WsModules/WsModRSS\l/src/WsRSS.h" alt="" coords="8666,1286,8856,1327"/>
-<area shape="rect" id="node63" href="$WsModTwitter_8h.html" title="src/WsModules/WsModTwitter\l/src/WsModTwitter.h" alt="" coords="6953,1286,7156,1327"/>
-<area shape="rect" id="node64" href="$WsModTwitter_8cpp.html" title="src/WsModules/WsModTwitter\l/src/WsModTwitter.cpp" alt="" coords="6953,1377,7156,1418"/>
-<area shape="rect" id="node67" href="$WsModZip_8cpp.html" title="src/WsModules/WsModZip\l/src/WsModZip.cpp" alt="" coords="8935,1377,9115,1418"/>
-<area shape="rect" id="node69" href="$WsContent_8h.html" title="src/Main/WsContent.h" alt="" coords="419,1136,572,1163"/>
-<area shape="rect" id="node77" href="$WsMnoGoSearch_8cpp.html" title="src/WsSearchModules\l/MnoGoSearch/src/WsMnoGoSearch.cpp" alt="" coords="633,822,895,863"/>
-<area shape="rect" id="node79" href="$WsArraySerializer_8cpp.html" title="src/Serializer/WsArraySerializer.cpp" alt="" coords="2547,648,2779,675"/>
-<area shape="rect" id="node81" href="$WsAbstractTree_8cpp.html" title="Reprensents the access tree of a user If a user does not have access to a Node, this Node will not sh..." alt="" coords="3243,648,3437,675"/>
-<area shape="rect" id="node82" href="$WsAccessTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="3043,648,3217,675"/>
-<area shape="rect" id="node94" href="$WsMenuTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="2803,648,2965,675"/>
-<area shape="rect" id="node83" href="$WsFsTreeConsultation_8h.html" title="src/FsTreeOp/WsFsTreeConsultation.h" alt="" coords="1899,739,2149,765"/>
-<area shape="rect" id="node84" href="$WsFsTreeOperations_8h.html" title="src/FsTreeOp/WsFsTreeOperations.h" alt="" coords="2179,829,2420,856"/>
-<area shape="rect" id="node86" href="$WsFsTreeModification_8h.html" title="src/FsTreeOp/WsFsTreeModification.h" alt="" coords="2224,739,2471,765"/>
-<area shape="rect" id="node87" href="$WsTreeSerializer_8h.html" title="Serialize the menuTree to send it over network. " alt="" coords="3691,739,3904,765"/>
-<area shape="rect" id="node89" href="$WsAccessTree_8cpp.html" title="Reprensents the access tree of a user If a user does not have access to a Node, this Node will not sh..." alt="" coords="3477,739,3667,765"/>
-<area shape="rect" id="node85" href="$WsFsTreeOperations_8cpp.html" title="src/FsTreeOp/WsFsTreeOperations.cpp" alt="" coords="2173,912,2427,939"/>
-<area shape="rect" id="node88" href="$WsTreeSerializer_8cpp.html" title="src/Serializer/WsTreeSerializer.cpp" alt="" coords="3677,829,3904,856"/>
-<area shape="rect" id="node91" href="$WsLatestNews_8cpp.html" title="src/WsModules/WsModLatest\lNews2/src/WsLatestNews.cpp" alt="" coords="2945,822,3148,863"/>
-<area shape="rect" id="node93" href="$WsSearchRSS_8cpp.html" title="src/WsModules/WsModRSS\l/src/WsSearchRSS.cpp" alt="" coords="4243,822,4433,863"/>
-<area shape="rect" id="node95" href="$WsTreeDeserializer_8h.html" title="Deserializes received contents on network. " alt="" coords="3225,739,3452,765"/>
-<area shape="rect" id="node98" href="$WsMenuTree_8cpp.html" title="src/Tree/WsMenuTree.cpp" alt="" coords="2598,739,2775,765"/>
-<area shape="rect" id="node96" href="$WsFsDaemonClient_8cpp.html" title="src/FsClient/WsFsDaemonClient.cpp" alt="" coords="3979,829,4219,856"/>
-<area shape="rect" id="node97" href="$WsTreeDeserializer_8cpp.html" title="Deserializes received contents on network. " alt="" coords="3275,829,3517,856"/>
-<area shape="rect" id="node100" href="$WsFsTreeUpdater_8cpp.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="1440,739,1667,765"/>
-<area shape="rect" id="node101" href="$WsMonitor_8cpp.html" title="Monitors the FileSystem for any modification. " alt="" coords="1691,739,1873,765"/>
-<area shape="rect" id="node106" href="$WsResultItem_8cpp.html" title="src/Search/WsResultItem.cpp" alt="" coords="1641,648,1839,675"/>
-<area shape="rect" id="node104" href="$WsAbstractFsClient_8cpp.html" title="src/FsClient/WsAbstractFs\lClient.cpp" alt="" coords="4725,731,4907,773"/>
-<area shape="rect" id="node105" href="$WsFsDaemonClient_8h.html" title="Interacts with the menuTree and FsTree via the daemon. " alt="" coords="4029,739,4256,765"/>
-<area shape="rect" id="node108" href="$WsArrayDeserializer_8cpp.html" title="Deserializes contents of a set sent. " alt="" coords="778,557,1024,584"/>
-<area shape="rect" id="node110" href="$WsTreeTraversal_8cpp.html" title="Traverses the fileSystemTree. " alt="" coords="3983,550,4157,591"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wscore/src/ConfigManager/WsNodeProperties.h" name="/home/ben/Programming/C++/Wittyshare/wscore/src/ConfigManager/WsNodeProperties.h">
+<area shape="rect" id="node2" href="$WsNodeProperties_8cpp.html" title="Node properties. " alt="" coords="5,117,280,173"/>
+<area shape="rect" id="node3" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="4361,110,4575,181"/>
+<area shape="rect" id="node5" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="2585,237,2791,293"/>
+<area shape="rect" id="node8" href="$WsFileNode_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FileSystemTree/WsFileNode.h" alt="" coords="2724,453,2951,509"/>
+<area shape="rect" id="node11" href="$WsFileSystemTree_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FileSystemTree/WsFileSystem\lTree.cpp" alt="" coords="431,678,661,749"/>
+<area shape="rect" id="node16" href="$WsFsTreeClient_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsClient/WsFsTreeClient.cpp" alt="" coords="135,1245,356,1301"/>
+<area shape="rect" id="node104" href="$WsAbstractFsClient_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsClient/WsAbstractFsClient.h" alt="" coords="4281,797,4511,853"/>
+<area shape="rect" id="node4" href="$WsAbstractNode_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FileSystemTree/WsAbstract\lNode.cpp" alt="" coords="4433,230,4647,301"/>
+<area shape="rect" id="node10" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1882,558,2112,629"/>
+<area shape="rect" id="node40" href="$WsModDirectoryView2_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModDirectoryView2\l/src/WsModDirectoryView2.cpp" alt="" coords="11101,1782,11355,1853"/>
+<area shape="rect" id="node48" href="$WsLatestNews2_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModLatestNews2\l/src/WsLatestNews2.cpp" alt="" coords="1271,1782,1513,1853"/>
+<area shape="rect" id="node49" href="$WsModLatestNews2_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModLatestNews2\l/src/WsModLatestNews2.cpp" alt="" coords="1680,1782,1923,1853"/>
+<area shape="rect" id="node58" href="$WsModRSS_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModRSS/src\l/WsModRSS.cpp" alt="" coords="8911,1782,9127,1853"/>
+<area shape="rect" id="node60" href="$WsRSS_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModRSS/src\l/WsRSS.cpp" alt="" coords="3265,1782,3481,1853"/>
+<area shape="rect" id="node64" href="$WsModZip_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModZip/src\l/WsModZip.h" alt="" coords="10933,1662,11139,1733"/>
+<area shape="rect" id="node110" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="3135,565,3377,621"/>
+<area shape="rect" id="node6" href="$WsDirNode_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FileSystemTree/WsDirNode.h" alt="" coords="2651,349,2873,405"/>
+<area shape="rect" id="node112" href="$WsNode_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FileSystemTree/WsNode.cpp" alt="" coords="2117,349,2336,405"/>
+<area shape="rect" id="node7" href="$WsDirNode_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FileSystemTree/WsDirNode.cpp" alt="" coords="2412,453,2648,509"/>
+<area shape="rect" id="node108" href="$WsArrayDeserializer_8h.html" title="Deserializes contents of a directory sent. " alt="" coords="2873,565,3109,621"/>
+<area shape="rect" id="node9" href="$WsFileNode_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FileSystemTree/WsFileNode.cpp" alt="" coords="2557,565,2797,621"/>
+<area shape="rect" id="node103" href="$WsResultItem_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Search/WsResultItem.h" alt="" coords="2318,685,2505,741"/>
+<area shape="rect" id="node12" href="$WsAbstractSearch_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Search/WsAbstractSearch.h" alt="" coords="1745,797,1959,853"/>
+<area shape="rect" id="node14" href="$WsSearch_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Search/WsSearch.h" alt="" coords="1889,909,2053,965"/>
+<area shape="rect" id="node76" href="$WsArraySerializer_8h.html" title="Serializes the array. " alt="" coords="1537,685,1759,741"/>
+<area shape="rect" id="node78" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="2708,685,2892,741"/>
+<area shape="rect" id="node84" href="$WsFsDaemon_8h.html" title="Take charge of FS operations. " alt="" coords="932,1141,1141,1197"/>
+<area shape="rect" id="node91" href="$WsLatestNews_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModLatestNews2\l/src/WsLatestNews.h" alt="" coords="1268,902,1511,973"/>
+<area shape="rect" id="node93" href="$WsSearchRSS_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModRSS/src\l/WsSearchRSS.h" alt="" coords="3657,902,3873,973"/>
+<area shape="rect" id="node100" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="1085,797,1301,853"/>
+<area shape="rect" id="node13" href="$WsAbstractSearch_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Search/WsAbstractSearch.cpp" alt="" coords="1637,909,1864,965"/>
+<area shape="rect" id="node74" href="$WsMnoGoSearch_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/WsSearchModules/MnoGoSearch\l/src/WsMnoGoSearch.h" alt="" coords="999,902,1244,973"/>
+<area shape="rect" id="node15" href="$WsFsTreeClient_8h.html" title="Interacts directly with the menuTree and the fsTree. " alt="" coords="2775,1141,2981,1197"/>
+<area shape="rect" id="node30" href="$WsSearchView_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsSearchView.cpp" alt="" coords="1839,1669,2033,1725"/>
+<area shape="rect" id="node70" href="$WsFsTreeConsultation_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsTreeOp/WsFsTreeConsultation.cpp" alt="" coords="2092,1029,2361,1085"/>
+<area shape="rect" id="node71" href="$WsFsTreeModification_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsTreeOp/WsFsTreeModification.cpp" alt="" coords="2385,1029,2652,1085"/>
+<area shape="rect" id="node72" href="$WsSearch_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Search/WsSearch.cpp" alt="" coords="1737,1029,1916,1085"/>
+<area shape="rect" id="node73" href="$WsFsDaemon_8cpp.html" title="Take charge of FS operations. " alt="" coords="2423,1245,2648,1301"/>
+<area shape="rect" id="node17" href="$WsUser_8h.html" title="User class. " alt="" coords="9009,1245,9173,1301"/>
+<area shape="rect" id="node18" href="$WsUser_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/User/WsUser.cpp" alt="" coords="9129,1349,9293,1405"/>
+<area shape="rect" id="node19" href="$Main_2main_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/main.cpp" alt="" coords="2543,1669,2725,1725"/>
+<area shape="rect" id="node20" href="$WsApplication_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsApplication.h" alt="" coords="6815,1557,6997,1613"/>
+<area shape="rect" id="node23" href="$WsContent_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsContent.cpp" alt="" coords="10322,1789,10504,1845"/>
+<area shape="rect" id="node24" href="$WsTemplate_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsTemplate.h" alt="" coords="9975,1669,10157,1725"/>
+<area shape="rect" id="node25" href="$WsTemplate_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsTemplate.cpp" alt="" coords="10663,1789,10845,1845"/>
+<area shape="rect" id="node42" href="$WsModFollowUs_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModFollowUs\l/src/WsModFollowUs.cpp" alt="" coords="2057,1662,2279,1733"/>
+<area shape="rect" id="node44" href="$WsImages2_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModImages2\l/src/WsImages2.cpp" alt="" coords="2303,1662,2519,1733"/>
+<area shape="rect" id="node51" href="$WsModLinksList_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModLinksList\l/src/WsModLinksList.cpp" alt="" coords="9231,1662,9449,1733"/>
+<area shape="rect" id="node63" href="$WsVideo_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModVideo\l/src/WsVideo.cpp" alt="" coords="9474,1662,9672,1733"/>
+<area shape="rect" id="node66" href="$WsSiteMapView_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsSiteMapView.h" alt="" coords="9874,1349,10061,1405"/>
+<area shape="rect" id="node68" href="$WsSearchView_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsSearchView.h" alt="" coords="6609,1557,6791,1613"/>
+<area shape="rect" id="node69" href="$WsFormConfig_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsFormConfig.h" alt="" coords="10466,1557,10648,1613"/>
+<area shape="rect" id="node21" href="$WsApplication_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsApplication.cpp" alt="" coords="9525,1789,9715,1845"/>
+<area shape="rect" id="node22" href="$WsBottomBanner_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsBottomBanner.cpp" alt="" coords="3436,1669,3644,1725"/>
+<area shape="rect" id="node26" href="$WsContentButtonsBar_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsContentButtonsBar.cpp" alt="" coords="3669,1669,3904,1725"/>
+<area shape="rect" id="node27" href="$WsFormConfig_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsFormConfig.cpp" alt="" coords="10461,1669,10653,1725"/>
+<area shape="rect" id="node28" href="$WsFunctionnalities_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsFunctionnalities.cpp" alt="" coords="3929,1669,4145,1725"/>
+<area shape="rect" id="node29" href="$WsOption_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsOption.cpp" alt="" coords="4170,1669,4352,1725"/>
+<area shape="rect" id="node31" href="$WsSiteMapView_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsSiteMapView.cpp" alt="" coords="9697,1669,9900,1725"/>
+<area shape="rect" id="node32" href="$WsModule_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModule/src/WsModule.cpp" alt="" coords="5602,1669,5824,1725"/>
+<area shape="rect" id="node33" href="$WsAnchor_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModAnchor\l/src/WsAnchor.cpp" alt="" coords="5849,1662,6055,1733"/>
+<area shape="rect" id="node34" href="$WsModAnchor_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModAnchor\l/src/WsModAnchor.cpp" alt="" coords="6079,1662,6285,1733"/>
+<area shape="rect" id="node35" href="$WsBanners_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModBanners\l/src/WsBanners.cpp" alt="" coords="6310,1662,6524,1733"/>
+<area shape="rect" id="node36" href="$WsModBanners_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModBanners\l/src/WsModBanners.cpp" alt="" coords="6549,1662,6763,1733"/>
+<area shape="rect" id="node37" href="$WsBreadCrumb_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModBreadCrumb\l/src/WsBreadCrumb.cpp" alt="" coords="6787,1662,7025,1733"/>
+<area shape="rect" id="node38" href="$WsModBreadCrumb_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModBreadCrumb\l/src/WsModBreadCrumb.cpp" alt="" coords="7050,1662,7288,1733"/>
+<area shape="rect" id="node39" href="$WsModDirectoryView2_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModDirectoryView2\l/src/WsModDirectoryView2.h" alt="" coords="10182,1662,10436,1733"/>
+<area shape="rect" id="node41" href="$WsModFileUpload_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModFileUpload\l/src/WsModFileUpload.cpp" alt="" coords="7605,1662,7832,1733"/>
+<area shape="rect" id="node43" href="$WsModGalleria_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModGalleria\l/src/WsModGalleria.cpp" alt="" coords="7857,1662,8067,1733"/>
+<area shape="rect" id="node45" href="$WsModImages2_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModImages2\l/src/WsModImages2.cpp" alt="" coords="8092,1662,8308,1733"/>
+<area shape="rect" id="node46" href="$WsModImagesGallery_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModImagesGallery\l/src/WsModImagesGallery.cpp" alt="" coords="8332,1662,8583,1733"/>
+<area shape="rect" id="node47" href="$WsLatestNews2_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModLatestNews2\l/src/WsLatestNews2.h" alt="" coords="2751,1662,2993,1733"/>
+<area shape="rect" id="node50" href="$WsModLatestNews2_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModLatestNews2\l/src/WsModLatestNews2.h" alt="" coords="3017,1662,3260,1733"/>
+<area shape="rect" id="node52" href="$WsMenu_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModMenu\l/src/WsMenu.cpp" alt="" coords="4377,1662,4575,1733"/>
+<area shape="rect" id="node53" href="$WsModMenu_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModMenu\l/src/WsModMenu.cpp" alt="" coords="4599,1662,4797,1733"/>
+<area shape="rect" id="node54" href="$WsModMenuImages_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModMenuImages\l/src/WsModMenuImages.cpp" alt="" coords="4822,1662,5063,1733"/>
+<area shape="rect" id="node55" href="$WsModNewsLetter_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModNewsLetter\l/src/WsModNewsLetter.cpp" alt="" coords="5087,1662,5320,1733"/>
+<area shape="rect" id="node56" href="$WsNewsLetter_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModNewsLetter\l/src/WsNewsLetter.cpp" alt="" coords="5345,1662,5577,1733"/>
+<area shape="rect" id="node57" href="$WsModRSS_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModRSS/src\l/WsModRSS.h" alt="" coords="8839,1662,9055,1733"/>
+<area shape="rect" id="node59" href="$WsRSS_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModRSS/src\l/WsRSS.h" alt="" coords="7313,1662,7529,1733"/>
+<area shape="rect" id="node61" href="$WsModTwitter_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModTwitter\l/src/WsModTwitter.h" alt="" coords="8607,1662,8813,1733"/>
+<area shape="rect" id="node62" href="$WsModTwitter_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModTwitter\l/src/WsModTwitter.cpp" alt="" coords="8607,1782,8813,1853"/>
+<area shape="rect" id="node65" href="$WsModZip_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModZip/src\l/WsModZip.cpp" alt="" coords="10870,1782,11076,1853"/>
+<area shape="rect" id="node67" href="$WsContent_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/Main/WsContent.h" alt="" coords="10074,1453,10256,1509"/>
+<area shape="rect" id="node75" href="$WsMnoGoSearch_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/WsSearchModules/MnoGoSearch\l/src/WsMnoGoSearch.cpp" alt="" coords="999,1022,1244,1093"/>
+<area shape="rect" id="node77" href="$WsArraySerializer_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Serializer/WsArraySerializer.cpp" alt="" coords="1375,797,1611,853"/>
+<area shape="rect" id="node79" href="$WsAbstractTree_8cpp.html" title="Reprensents the access tree of a user If a user does not have access to a Node, this Node will not sh..." alt="" coords="2657,797,2855,853"/>
+<area shape="rect" id="node80" href="$WsAccessTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="2880,797,3059,853"/>
+<area shape="rect" id="node95" href="$WsMenuTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="3255,797,3421,853"/>
+<area shape="rect" id="node81" href="$WsFsTreeConsultation_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsTreeOp/WsFsTreeConsultation.h" alt="" coords="2079,909,2333,965"/>
+<area shape="rect" id="node82" href="$WsFsTreeOperations_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsTreeOp/WsFsTreeOperations.h" alt="" coords="2676,1029,2921,1085"/>
+<area shape="rect" id="node87" href="$WsFsTreeModification_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsTreeOp/WsFsTreeModification.h" alt="" coords="2410,909,2661,965"/>
+<area shape="rect" id="node88" href="$WsTreeSerializer_8h.html" title="Serialize the menuTree to send it over network. " alt="" coords="3109,909,3325,965"/>
+<area shape="rect" id="node90" href="$WsAccessTree_8cpp.html" title="Reprensents the access tree of a user If a user does not have access to a Node, this Node will not sh..." alt="" coords="2738,909,2931,965"/>
+<area shape="rect" id="node83" href="$WsFsTreeOperations_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsTreeOp/WsFsTreeOperations.cpp" alt="" coords="2492,1141,2749,1197"/>
+<area shape="rect" id="node85" href="$WsFsDaemonLoader_8h.html" title="/home/ben/Programming\l/C++/Wittyshare/fsdaemon\l/src/FsDaemon/WsFsDaemonLoader.h" alt="" coords="912,1245,1163,1301"/>
+<area shape="rect" id="node86" href="$WsFsDaemonLoader_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/fsdaemon\l/src/FsDaemon/WsFsDaemonLoader.cpp" alt="" coords="905,1349,1169,1405"/>
+<area shape="rect" id="node89" href="$WsTreeSerializer_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Serializer/WsTreeSerializer.cpp" alt="" coords="3109,1029,3339,1085"/>
+<area shape="rect" id="node92" href="$WsLatestNews_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModLatestNews2\l/src/WsLatestNews.cpp" alt="" coords="1369,1022,1612,1093"/>
+<area shape="rect" id="node94" href="$WsSearchRSS_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModRSS/src\l/WsSearchRSS.cpp" alt="" coords="3465,1022,3681,1093"/>
+<area shape="rect" id="node96" href="$WsTreeDeserializer_8h.html" title="Deserializes received contents on network. " alt="" coords="3897,909,4129,965"/>
+<area shape="rect" id="node99" href="$WsMenuTree_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Tree/WsMenuTree.cpp" alt="" coords="3401,909,3583,965"/>
+<area shape="rect" id="node97" href="$WsFsDaemonClient_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsClient/WsFsDaemonClient.cpp" alt="" coords="4102,1029,4345,1085"/>
+<area shape="rect" id="node98" href="$WsTreeDeserializer_8cpp.html" title="Deserializes received contents on network. " alt="" coords="3831,1029,4077,1085"/>
+<area shape="rect" id="node101" href="$WsFsTreeUpdater_8cpp.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="482,909,712,965"/>
+<area shape="rect" id="node102" href="$WsMonitor_8cpp.html" title="Monitors the FileSystem for any modification. " alt="" coords="737,909,924,965"/>
+<area shape="rect" id="node107" href="$WsResultItem_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/Search/WsResultItem.cpp" alt="" coords="2380,797,2583,853"/>
+<area shape="rect" id="node105" href="$WsAbstractFsClient_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wscore\l/src/FsClient/WsAbstractFsClient.cpp" alt="" coords="4511,909,4755,965"/>
+<area shape="rect" id="node106" href="$WsFsDaemonClient_8h.html" title="Interacts with the menuTree and FsTree via the daemon. " alt="" coords="4205,909,4435,965"/>
+<area shape="rect" id="node109" href="$WsArrayDeserializer_8cpp.html" title="Deserializes contents of a set sent. " alt="" coords="2967,685,3217,741"/>
+<area shape="rect" id="node111" href="$WsTreeTraversal_8cpp.html" title="Traverses the fileSystemTree. " alt="" coords="3343,685,3600,741"/>
 </map>

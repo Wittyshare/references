@@ -1,4 +1,5 @@
-<map id="src/WsModules/WsModImagesGallery/src/WsModImagesGallery.h" name="src/WsModules/WsModImagesGallery/src/WsModImagesGallery.h">
-<area shape="rect" id="node8" href="$WsModule_8h.html" title="base class for building a wittyShare module " alt="" coords="45,104,227,131"/>
-<area shape="rect" id="node12" href="$WsImages2_8h.html" title="a wittyShare class that render images randomly " alt="" coords="1005,97,1195,138"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wittyshare/src/WsModules/WsModImagesGallery/src/WsModImagesGallery.h" name="/home/ben/Programming/C++/Wittyshare/wittyshare/src/WsModules/WsModImagesGallery/src/WsModImagesGallery.h">
+<area shape="rect" id="node8" href="$WsModule_8h.html" title="base class for building a wittyShare module " alt="" coords="255,133,437,160"/>
+<area shape="rect" id="node13" href="$WsImages2_8h.html" title="a wittyShare class that render images randomly " alt="" coords="613,126,803,167"/>
+<area shape="rect" id="node12" href="$WsOption_8h.html" title="Main/WsOption.h" alt="" coords="5,216,128,243"/>
 </map>

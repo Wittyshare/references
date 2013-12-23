@@ -133,7 +133,7 @@ var searchData=
   ['wstreetraversal',['WsTreeTraversal',['../classWsTreeTraversal.html#a0d79f7a5bdcb7982cad1bd8bdffeba82',1,'WsTreeTraversal']]],
   ['wstreeview',['WsTreeView',['../classWsTreeView.html#a44e3b824ea254142b65be4fb9628479a',1,'WsTreeView']]],
   ['wstwittereditorwidget',['WsTwitterEditorWidget',['../classWsTwitterEditorWidget.html#a9b98f64065f500d7ee100a412f621be4',1,'WsTwitterEditorWidget']]],
-  ['wsuser',['WsUser',['../classWsUser.html#aa3dd767b3af9300ab3c6ca258239341e',1,'WsUser::WsUser()'],['../classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f',1,'WsApplication::wsUser()']]],
+  ['wsuser',['wsUser',['../classWsApplication.html#a475b1a622e0e1b0ff31a677621c4157f',1,'WsApplication::wsUser()'],['../classWsUser.html#aa3dd767b3af9300ab3c6ca258239341e',1,'WsUser::WsUser()']]],
   ['wsusersession',['WsUserSession',['../classWsUserSession.html#a12be1f64516e2661a987df364467eb6d',1,'WsUserSession']]],
   ['wsvideo',['WsVideo',['../classWsVideo.html#aea749aad1f15e7d98a0d81dcd63454b9',1,'WsVideo']]],
   ['wszipeditorwidget',['WsZipEditorWidget',['../classWsZipEditorWidget.html#a0bb8d6440dcf416a5e12ed53fd981e51',1,'WsZipEditorWidget']]]

@@ -1,22 +1,22 @@
-<map id="src/FsTreeOp/WsFsTreeModification.h" name="src/FsTreeOp/WsFsTreeModification.h">
-<area shape="rect" id="node2" href="$WsAccessTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1509,80,1661,107"/>
-<area shape="rect" id="node34" href="$WsMenuTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1343,80,1483,107"/>
-<area shape="rect" id="node35" href="$WsResultItem_8h.html" title="Search/WsResultItem.h" alt="" coords="1619,237,1781,264"/>
-<area shape="rect" id="node36" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="1738,155,1928,181"/>
-<area shape="rect" id="node3" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="1388,155,1516,181"/>
-<area shape="rect" id="node4" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="894,237,1111,264"/>
-<area shape="rect" id="node32" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1370,230,1573,271"/>
-<area shape="rect" id="node5" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="779,545,965,586"/>
-<area shape="rect" id="node24" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1489,469,1668,496"/>
-<area shape="rect" id="node28" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="1339,320,1540,347"/>
-<area shape="rect" id="node29" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1349,395,1451,421"/>
-<area shape="rect" id="node9" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="1179,643,1412,669"/>
-<area shape="rect" id="node15" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="449,800,583,827"/>
-<area shape="rect" id="node13" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1078,725,1239,752"/>
-<area shape="rect" id="node17" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="25,875,135,901"/>
-<area shape="rect" id="node27" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1790,875,1964,901"/>
-<area shape="rect" id="node30" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1438,643,1679,669"/>
-<area shape="rect" id="node31" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="915,643,1153,669"/>
-<area shape="rect" id="node33" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="261,643,477,669"/>
-<area shape="rect" id="node37" href="$WsAbstractMonitor_8h.html" title="WsAbstractMonitor.h" alt="" coords="2081,237,2225,264"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wscore/src/FsTreeOp/WsFsTreeModification.h" name="/home/ben/Programming/C++/Wittyshare/wscore/src/FsTreeOp/WsFsTreeModification.h">
+<area shape="rect" id="node2" href="$WsAccessTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1509,109,1661,136"/>
+<area shape="rect" id="node34" href="$WsMenuTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1343,109,1483,136"/>
+<area shape="rect" id="node35" href="$WsResultItem_8h.html" title="Search/WsResultItem.h" alt="" coords="1619,267,1781,293"/>
+<area shape="rect" id="node36" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="1738,184,1928,211"/>
+<area shape="rect" id="node3" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="1388,184,1516,211"/>
+<area shape="rect" id="node4" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="894,267,1111,293"/>
+<area shape="rect" id="node32" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1370,259,1573,301"/>
+<area shape="rect" id="node5" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="779,574,965,615"/>
+<area shape="rect" id="node24" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1489,499,1668,525"/>
+<area shape="rect" id="node28" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="1339,349,1540,376"/>
+<area shape="rect" id="node29" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1349,424,1451,451"/>
+<area shape="rect" id="node9" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="1179,672,1412,699"/>
+<area shape="rect" id="node15" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="449,829,583,856"/>
+<area shape="rect" id="node13" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1078,755,1239,781"/>
+<area shape="rect" id="node17" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="25,904,135,931"/>
+<area shape="rect" id="node27" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1790,904,1964,931"/>
+<area shape="rect" id="node30" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1438,672,1679,699"/>
+<area shape="rect" id="node31" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="915,672,1153,699"/>
+<area shape="rect" id="node33" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="261,672,477,699"/>
+<area shape="rect" id="node37" href="$WsAbstractMonitor_8h.html" title="WsAbstractMonitor.h" alt="" coords="2081,267,2225,293"/>
 </map>

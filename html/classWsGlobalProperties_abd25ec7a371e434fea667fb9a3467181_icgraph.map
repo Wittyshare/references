@@ -1,62 +1,62 @@
 <map id="WsGlobalProperties::get" name="WsGlobalProperties::get">
-<area shape="rect" id="node2" href="$classWsAuthenticator.html#adbfcbfd83b40246411506678835d46bc" title="loads the module and casts it as WsAbstractAuth object " alt="" coords="229,5,422,32"/>
-<area shape="rect" id="node3" href="$classWsNodeProperties.html#a01e7d8ad3f0d93fcf9adc39aef74d220" title="Compare the gids with the node groups. If the user has access, true is returned, otherwise false is r..." alt="" coords="227,56,423,83"/>
-<area shape="rect" id="node4" href="$classWsDirNode.html#af5e89c1528ed47e0c0ceac9a8bbd5f40" title="return true if one of the groups contained in gids has access to the node false otherwise If the node..." alt="" coords="248,107,403,133"/>
-<area shape="rect" id="node5" href="$classWsFsDaemonClient.html#a00c0033ccd129716dc0caf84aad5d7e4" title="loads the user info " alt="" coords="502,195,674,221"/>
-<area shape="rect" id="node6" href="$classWsFsDaemonClient.html#abf9525f9a34ac2ba5dc9f9e11769c12a" title="Launch the routine that will retrieve new AccessTree from fsdaemon This method should be called in a ..." alt="" coords="233,158,417,199"/>
-<area shape="rect" id="node7" href="$classWsFsTreeClient.html#ad06166ce9d68e8c0143bfb400dc8012d" title="WsFsTreeClient::isEditor" alt="" coords="241,275,410,301"/>
-<area shape="rect" id="node8" href="$classWsFsTreeClient.html#ab415ae11643da6f0e9bfe9ffdd7de22f" title="WsFsTreeClient::isAdministrator" alt="" coords="219,325,431,352"/>
-<area shape="rect" id="node9" href="$classWsFsDaemon.html#af1ee088ebb9f8e6036443e441cad72b4" title="constructor for the server " alt="" coords="226,376,425,403"/>
-<area shape="rect" id="node10" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="256,477,395,504"/>
-<area shape="rect" id="node11" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="759,419,937,445"/>
-<area shape="rect" id="node14" href="$classWsFsTreeConsultation.html#ab2e2894bdbe81268d28bdaf6968fb094" title="Get the permissions for a path for a set of groups. " alt="" coords="1001,462,1157,503"/>
-<area shape="rect" id="node15" href="$classWsFsTreeConsultation.html#a3144b7e7da95ac77815f13bdd05b79dc" title="Get the menu tree starting from rootPath. " alt="" coords="1001,527,1157,569"/>
-<area shape="rect" id="node16" href="$classWsFsTreeConsultation.html#a9a4084884d008a4998782f014b649089" title="Get the access tree starting from rootPath. " alt="" coords="1001,593,1157,634"/>
-<area shape="rect" id="node17" href="$classWsFsTreeConsultation.html#af74cbc88914ad813740a3c19a1f26abe" title="WsFsTreeConsultation\l::getRootPath" alt="" coords="247,1102,403,1143"/>
-<area shape="rect" id="node18" href="$classWsFsTreeModification.html#a038794a87f870f8be21cf2d321624c82" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="1002,658,1155,699"/>
-<area shape="rect" id="node19" href="$classWsFsTreeModification.html#ae8bef1c3b0ae0706e7fea6008ba88411" title="save a property of the node. The user must have access and edit rights for the node. " alt="" coords="1002,723,1155,765"/>
-<area shape="rect" id="node20" href="$classWsFsTreeModification.html#ab5b756bbd3191636d99167289d608892" title="WsFsTreeModification\l::isEditor" alt="" coords="771,1031,925,1073"/>
-<area shape="rect" id="node24" href="$classWsFsTreeModification.html#a81103ca8f67763eb8e056d386ef3fe0e" title="WsFsTreeModification\l::isAdministrator" alt="" coords="771,966,925,1007"/>
-<area shape="rect" id="node25" href="$classWsLogWriter.html#a542e2e31df06755b8a314d7657716f46" title="reads the conf needed to know log path and verbose level " alt="" coords="246,1168,405,1195"/>
-<area shape="rect" id="node26" href="$classWsApplication.html#a29ac18bb68852e810b83a2c4a07fc076" title="WsApplication::WsApplication" alt="" coords="749,1291,947,1317"/>
-<area shape="rect" id="node27" href="$classWsSearch.html#a8c14f724c47c05125ab527c88960c393" title="loads the search module. " alt="" coords="509,781,667,808"/>
-<area shape="rect" id="node30" href="$classWsFsTreeUpdater.html#ab15fd036c3dfb4791b2c65804ba60f8e" title="Starts the regular update of the tree. " alt="" coords="221,883,429,925"/>
-<area shape="rect" id="node38" href="$classWsMonitor.html#aa32cab0265d0b81d5937126b46325b41" title="Called when a change occurs on a file monitored. " alt="" coords="525,1031,651,1057"/>
-<area shape="rect" id="node40" href="$classWsMonitor.html#a578d8f7785f9023df702c87d65d4b768" title="Called when a change occurs on a conf file monitored. " alt="" coords="248,1051,403,1077"/>
-<area shape="rect" id="node42" href="$classWsUser.html#aa539c2c57b6aa2b1a546d022e6941aeb" title="Load infos of the user. " alt="" coords="274,1219,377,1245"/>
-<area shape="rect" id="node44" href="$classWsUser.html#a3e281ca95ef35404ef1ac82001c07206" title="return the home page " alt="" coords="245,1269,406,1296"/>
-<area shape="rect" id="node45" href="$classWsBasicAuth.html#a9982b5b271c3693ab5b6528f1317ddda" title="Constructor. " alt="" coords="230,1371,421,1397"/>
-<area shape="rect" id="node46" href="$classWsBasicAuth.html#a2c3b5b1f9ee46c2764c1b20cf77087db" title="authenticate the user this function is a basic function and will authenticate any user and add the gr..." alt="" coords="242,1421,409,1448"/>
-<area shape="rect" id="node47" href="$classWsBasicAuth.html#a21a36e5140a4642d94307aa647c01ff0" title="return true or false whether the ip is valid (ie match the mask in the configuration file ..." alt="" coords="251,1472,400,1499"/>
-<area shape="rect" id="node48" href="$classWsLdapAuth.html#a153527df8c2ef8dc85bfcd44c0800b21" title="authenticate the user by retrieving his info from ldap " alt="" coords="244,1523,407,1549"/>
-<area shape="rect" id="node49" href="$classWsLdapAuth.html#a2a7ebc79dc906bb272cc512218876ce9" title="return true or false whether the ip is valid (ie match the mask in the configuration file ..." alt="" coords="253,1573,397,1600"/>
-<area shape="rect" id="node50" href="$classWsLatestNews2.html#a74b891f9a69c74afc4f56598ddab9f87" title="WsLatestNews2::setTable" alt="" coords="237,1624,414,1651"/>
-<area shape="rect" id="node52" href="$classWsNewsLetter.html#a338e6b7ff81d2881190832c38e29dcbf" title="WsNewsLetter::emailNotInLdap" alt="" coords="221,1675,429,1701"/>
-<area shape="rect" id="node56" href="$classWsRSS.html#a6d0043db0f876f8e5821da35436d0a68" title="WsRSS::buildRSS" alt="" coords="259,1727,392,1753"/>
-<area shape="rect" id="node59" href="$classWsModTwitter.html#a23037e321ab6c83d164f3c0011466f36" title="WsModTwitter::handleTwitter\lClick" alt="" coords="229,1783,422,1825"/>
-<area shape="rect" id="node13" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="480,427,696,453"/>
-<area shape="rect" id="node12" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1053,411,1104,437"/>
-<area shape="rect" id="node21" href="$classWsFsTreeModification.html#a780e42cfbf8e31b09f0155b360cd2f38" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="1002,985,1155,1026"/>
-<area shape="rect" id="node22" href="$classWsFsTreeModification.html#a03ed64bf7c489d4fe6b2d8c9a7b424c3" title="delete a node. The user must be an Admin on editor to remove the node " alt="" coords="1002,1050,1155,1091"/>
-<area shape="rect" id="node23" href="$classWsFsTreeModification.html#a4c6bde414ae6df95ade0670fefd04e21" title="renames a node " alt="" coords="1002,1115,1155,1157"/>
-<area shape="rect" id="node28" href="$classWsSearch.html#a73f996997cd5995aa905c47b33e9f1c7" title="Loads all search results. " alt="" coords="791,789,905,816"/>
-<area shape="rect" id="node29" href="$classWsFsTreeConsultation.html#a06e483e5d62f2d26ed85d41ef0c5e017" title="Get the results for searching for &quot;terms&quot;. " alt="" coords="1001,789,1157,830"/>
-<area shape="rect" id="node31" href="$classWsFsTreeUpdater.html#acfac488f75979736a1994db6d2116d07" title="update the fsTree " alt="" coords="500,891,676,917"/>
-<area shape="rect" id="node32" href="$classWsFsTreeUpdater.html#a1c2d27324258de0d74fc1424c87fae44" title="returns the last created tree " alt="" coords="745,847,951,873"/>
-<area shape="rect" id="node36" href="$classWsMonitor.html#a3d6b4527581c30919b32b270151d01fe" title="Starts loop that will monitor the m_updated variable every m_delay and update the tree if changed occ..." alt="" coords="764,1097,932,1124"/>
-<area shape="rect" id="node33" href="$classWsFsTreeConsultation.html#af7cfea926ffeaf849b9f14f4c2901810" title="get properties of a node corresponding to the path " alt="" coords="1001,854,1157,895"/>
-<area shape="rect" id="node35" href="$classWsFsTreeConsultation.html#a32ebfd2213c639c3e7512959cf2dad6a" title="Get the stamp of the last WsFileSystemTree. " alt="" coords="1001,919,1157,961"/>
-<area shape="rect" id="node34" href="$classWsFsTreeConsultation.html#a6da84fdb56ef63981c7e38e2b407cd76" title="get a property for a node corresponding to the path " alt="" coords="1206,854,1362,895"/>
-<area shape="rect" id="node37" href="$classWsMonitor.html#ae528d810f2d1b82634e6297c45569d37" title="Starts the monitoring process. " alt="" coords="1019,1181,1138,1208"/>
-<area shape="rect" id="node39" href="$classWsMonitor.html#a3d1887ca1598b3f13e602d3bedfee868" title="Starts monitoring the Files of the filesystemtree Should be started in a separated thread..." alt="" coords="762,1148,934,1175"/>
-<area shape="rect" id="node41" href="$classWsMonitor.html#a5cfb31a222c13cc48adb63beede50068" title="Starts monitoring the config Files of the filesystemtree Should be started in a separated thread..." alt="" coords="502,1143,674,1185"/>
-<area shape="rect" id="node43" href="$classWsApplication.html#af7dc5a57f0d2c6c8665448eff58b1ec6" title="WsApplication::doEndDialog\lLogon" alt="" coords="494,1254,682,1295"/>
-<area shape="rect" id="node51" href="$classWsLatestNews2.html#aac7ecdd2d65cf9b3d33c714b8011f2f5" title="WsLatestNews2::load" alt="" coords="513,1613,663,1640"/>
-<area shape="rect" id="node53" href="$classWsNewsLetter.html#aaf393a70631c5fd1e1eacc9db5595f3a" title="WsNewsLetter::isEmailExist\lInLdap" alt="" coords="493,1665,683,1706"/>
-<area shape="rect" id="node54" href="$classWsNewsLetter.html#a198b1cc8bb94ef7fcda31498af703991" title="WsNewsLetter::doSubscribe" alt="" coords="753,1672,943,1699"/>
-<area shape="rect" id="node55" href="$classWsNewsLetter.html#ae03d59042e3417ef158fd277580cfebb" title="WsNewsLetter::load" alt="" coords="1008,1672,1149,1699"/>
-<area shape="rect" id="node57" href="$classWsModRSS.html#a149db73c1c9c8f6f680b3a55afcd5cc4" title="WsModRSS::buildMenuBar" alt="" coords="497,1731,679,1757"/>
-<area shape="rect" id="node58" href="$classWsModRSS.html#ab129e34d397a22348c9f0ffbfd32b921" title="Create the functionalities. " alt="" coords="752,1723,944,1765"/>
-<area shape="rect" id="node60" href="$classWsModTwitter.html#a308528b09520fed2df10890c662ef019" title="WsModTwitter::buildMenuBar" alt="" coords="491,1793,685,1820"/>
-<area shape="rect" id="node61" href="$classWsModTwitter.html#ad146fcd2961141054b29923e7988a282" title="Create the functionalities. " alt="" coords="746,1789,950,1830"/>
+<area shape="rect" id="node2" href="$classWsFsDaemon.html#af1ee088ebb9f8e6036443e441cad72b4" title="constructor for the server " alt="" coords="226,5,425,32"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="256,123,395,149"/>
+<area shape="rect" id="node4" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="759,107,937,133"/>
+<area shape="rect" id="node7" href="$classWsApplication.html#a29ac18bb68852e810b83a2c4a07fc076" title="WsApplication::WsApplication" alt="" coords="749,245,947,272"/>
+<area shape="rect" id="node8" href="$classWsLatestNews2.html#a74b891f9a69c74afc4f56598ddab9f87" title="WsLatestNews2::setTable" alt="" coords="237,325,414,352"/>
+<area shape="rect" id="node10" href="$classWsNewsLetter.html#a338e6b7ff81d2881190832c38e29dcbf" title="WsNewsLetter::emailNotInLdap" alt="" coords="221,376,429,403"/>
+<area shape="rect" id="node14" href="$classWsRSS.html#a6d0043db0f876f8e5821da35436d0a68" title="WsRSS::buildRSS" alt="" coords="259,427,392,453"/>
+<area shape="rect" id="node17" href="$classWsModTwitter.html#a23037e321ab6c83d164f3c0011466f36" title="WsModTwitter::handleTwitter\lClick" alt="" coords="229,478,422,519"/>
+<area shape="rect" id="node20" href="$classWsAuthenticator.html#adbfcbfd83b40246411506678835d46bc" title="loads the module and casts it as WsAbstractAuth object " alt="" coords="229,544,422,571"/>
+<area shape="rect" id="node21" href="$classWsNodeProperties.html#a01e7d8ad3f0d93fcf9adc39aef74d220" title="Compare the gids with the node groups. If the user has access, true is returned, otherwise false is r..." alt="" coords="227,595,423,621"/>
+<area shape="rect" id="node22" href="$classWsDirNode.html#af5e89c1528ed47e0c0ceac9a8bbd5f40" title="return true if one of the groups contained in gids has access to the node false otherwise If the node..." alt="" coords="248,645,403,672"/>
+<area shape="rect" id="node23" href="$classWsFsDaemonClient.html#a00c0033ccd129716dc0caf84aad5d7e4" title="loads the user info " alt="" coords="502,733,674,760"/>
+<area shape="rect" id="node24" href="$classWsFsDaemonClient.html#abf9525f9a34ac2ba5dc9f9e11769c12a" title="Launch the routine that will retrieve new AccessTree from fsdaemon This method should be called in a ..." alt="" coords="233,697,417,738"/>
+<area shape="rect" id="node25" href="$classWsFsTreeClient.html#ad06166ce9d68e8c0143bfb400dc8012d" title="WsFsTreeClient::isEditor" alt="" coords="241,813,410,840"/>
+<area shape="rect" id="node26" href="$classWsFsTreeClient.html#ab415ae11643da6f0e9bfe9ffdd7de22f" title="WsFsTreeClient::isAdministrator" alt="" coords="219,864,431,891"/>
+<area shape="rect" id="node27" href="$classWsFsTreeConsultation.html#ab2e2894bdbe81268d28bdaf6968fb094" title="Get the permissions for a path for a set of groups. " alt="" coords="1001,845,1157,886"/>
+<area shape="rect" id="node28" href="$classWsFsTreeConsultation.html#a3144b7e7da95ac77815f13bdd05b79dc" title="Get the menu tree starting from rootPath. " alt="" coords="1001,910,1157,951"/>
+<area shape="rect" id="node29" href="$classWsFsTreeConsultation.html#a9a4084884d008a4998782f014b649089" title="Get the access tree starting from rootPath. " alt="" coords="1001,975,1157,1017"/>
+<area shape="rect" id="node30" href="$classWsFsTreeConsultation.html#af74cbc88914ad813740a3c19a1f26abe" title="WsFsTreeConsultation\l::getRootPath" alt="" coords="247,1489,403,1530"/>
+<area shape="rect" id="node31" href="$classWsFsTreeModification.html#a038794a87f870f8be21cf2d321624c82" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="1002,1041,1155,1082"/>
+<area shape="rect" id="node32" href="$classWsFsTreeModification.html#ae8bef1c3b0ae0706e7fea6008ba88411" title="save a property of the node. The user must have access and edit rights for the node. " alt="" coords="1002,1106,1155,1147"/>
+<area shape="rect" id="node33" href="$classWsFsTreeModification.html#ab5b756bbd3191636d99167289d608892" title="WsFsTreeModification\l::isEditor" alt="" coords="771,1414,925,1455"/>
+<area shape="rect" id="node37" href="$classWsFsTreeModification.html#a81103ca8f67763eb8e056d386ef3fe0e" title="WsFsTreeModification\l::isAdministrator" alt="" coords="771,1349,925,1390"/>
+<area shape="rect" id="node38" href="$classWsLogWriter.html#a542e2e31df06755b8a314d7657716f46" title="reads the conf needed to know log path and verbose level " alt="" coords="246,1555,405,1581"/>
+<area shape="rect" id="node39" href="$classWsSearch.html#a8c14f724c47c05125ab527c88960c393" title="loads the search module. " alt="" coords="509,1168,667,1195"/>
+<area shape="rect" id="node42" href="$classWsFsTreeUpdater.html#ab15fd036c3dfb4791b2c65804ba60f8e" title="Starts the regular update of the tree. " alt="" coords="221,1270,429,1311"/>
+<area shape="rect" id="node50" href="$classWsMonitor.html#aa32cab0265d0b81d5937126b46325b41" title="Called when a change occurs on a file monitored. " alt="" coords="525,1443,651,1469"/>
+<area shape="rect" id="node52" href="$classWsMonitor.html#a578d8f7785f9023df702c87d65d4b768" title="Called when a change occurs on a conf file monitored. " alt="" coords="248,1437,403,1464"/>
+<area shape="rect" id="node54" href="$classWsUser.html#aa539c2c57b6aa2b1a546d022e6941aeb" title="Load infos of the user. " alt="" coords="274,173,377,200"/>
+<area shape="rect" id="node56" href="$classWsUser.html#a3e281ca95ef35404ef1ac82001c07206" title="return the home page " alt="" coords="245,224,406,251"/>
+<area shape="rect" id="node57" href="$classWsBasicAuth.html#a9982b5b271c3693ab5b6528f1317ddda" title="Constructor. " alt="" coords="230,1605,421,1632"/>
+<area shape="rect" id="node58" href="$classWsBasicAuth.html#a2c3b5b1f9ee46c2764c1b20cf77087db" title="authenticate the user this function is a basic function and will authenticate any user and add the gr..." alt="" coords="242,1656,409,1683"/>
+<area shape="rect" id="node59" href="$classWsBasicAuth.html#a21a36e5140a4642d94307aa647c01ff0" title="return true or false whether the ip is valid (ie match the mask in the configuration file ..." alt="" coords="251,1707,400,1733"/>
+<area shape="rect" id="node60" href="$classWsLdapAuth.html#a153527df8c2ef8dc85bfcd44c0800b21" title="authenticate the user by retrieving his info from ldap " alt="" coords="244,1757,407,1784"/>
+<area shape="rect" id="node61" href="$classWsLdapAuth.html#a2a7ebc79dc906bb272cc512218876ce9" title="return true or false whether the ip is valid (ie match the mask in the configuration file ..." alt="" coords="253,1808,397,1835"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="480,107,696,133"/>
+<area shape="rect" id="node5" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1053,107,1104,133"/>
+<area shape="rect" id="node9" href="$classWsLatestNews2.html#aac7ecdd2d65cf9b3d33c714b8011f2f5" title="WsLatestNews2::load" alt="" coords="513,325,663,352"/>
+<area shape="rect" id="node11" href="$classWsNewsLetter.html#aaf393a70631c5fd1e1eacc9db5595f3a" title="WsNewsLetter::isEmailExist\lInLdap" alt="" coords="493,377,683,418"/>
+<area shape="rect" id="node12" href="$classWsNewsLetter.html#a198b1cc8bb94ef7fcda31498af703991" title="WsNewsLetter::doSubscribe" alt="" coords="753,384,943,411"/>
+<area shape="rect" id="node13" href="$classWsNewsLetter.html#ae03d59042e3417ef158fd277580cfebb" title="WsNewsLetter::load" alt="" coords="1008,384,1149,411"/>
+<area shape="rect" id="node15" href="$classWsModRSS.html#a149db73c1c9c8f6f680b3a55afcd5cc4" title="WsModRSS::buildMenuBar" alt="" coords="497,443,679,469"/>
+<area shape="rect" id="node16" href="$classWsModRSS.html#ab129e34d397a22348c9f0ffbfd32b921" title="Create the functionalities. " alt="" coords="752,435,944,477"/>
+<area shape="rect" id="node18" href="$classWsModTwitter.html#a308528b09520fed2df10890c662ef019" title="WsModTwitter::buildMenuBar" alt="" coords="491,501,685,528"/>
+<area shape="rect" id="node19" href="$classWsModTwitter.html#ad146fcd2961141054b29923e7988a282" title="Create the functionalities. " alt="" coords="746,501,950,542"/>
+<area shape="rect" id="node34" href="$classWsFsTreeModification.html#a780e42cfbf8e31b09f0155b360cd2f38" title="create a directory or File. If the node is a WsDirNode than it will be only accessible to the Admin a..." alt="" coords="1002,1367,1155,1409"/>
+<area shape="rect" id="node35" href="$classWsFsTreeModification.html#a03ed64bf7c489d4fe6b2d8c9a7b424c3" title="delete a node. The user must be an Admin on editor to remove the node " alt="" coords="1002,1433,1155,1474"/>
+<area shape="rect" id="node36" href="$classWsFsTreeModification.html#a4c6bde414ae6df95ade0670fefd04e21" title="renames a node " alt="" coords="1002,1498,1155,1539"/>
+<area shape="rect" id="node40" href="$classWsSearch.html#a73f996997cd5995aa905c47b33e9f1c7" title="Loads all search results. " alt="" coords="791,1175,905,1201"/>
+<area shape="rect" id="node41" href="$classWsFsTreeConsultation.html#a06e483e5d62f2d26ed85d41ef0c5e017" title="Get the results for searching for &quot;terms&quot;. " alt="" coords="1001,1171,1157,1213"/>
+<area shape="rect" id="node43" href="$classWsFsTreeUpdater.html#acfac488f75979736a1994db6d2116d07" title="update the fsTree " alt="" coords="500,1277,676,1304"/>
+<area shape="rect" id="node44" href="$classWsFsTreeUpdater.html#a1c2d27324258de0d74fc1424c87fae44" title="returns the last created tree " alt="" coords="745,1232,951,1259"/>
+<area shape="rect" id="node48" href="$classWsMonitor.html#a3d6b4527581c30919b32b270151d01fe" title="Starts loop that will monitor the m_updated variable every m_delay and update the tree if changed occ..." alt="" coords="764,1480,932,1507"/>
+<area shape="rect" id="node45" href="$classWsFsTreeConsultation.html#af7cfea926ffeaf849b9f14f4c2901810" title="get properties of a node corresponding to the path " alt="" coords="1001,1237,1157,1278"/>
+<area shape="rect" id="node47" href="$classWsFsTreeConsultation.html#a32ebfd2213c639c3e7512959cf2dad6a" title="Get the stamp of the last WsFileSystemTree. " alt="" coords="1001,1302,1157,1343"/>
+<area shape="rect" id="node46" href="$classWsFsTreeConsultation.html#a6da84fdb56ef63981c7e38e2b407cd76" title="get a property for a node corresponding to the path " alt="" coords="1206,1237,1362,1278"/>
+<area shape="rect" id="node49" href="$classWsMonitor.html#ae528d810f2d1b82634e6297c45569d37" title="Starts the monitoring process. " alt="" coords="1019,1564,1138,1591"/>
+<area shape="rect" id="node51" href="$classWsMonitor.html#a3d1887ca1598b3f13e602d3bedfee868" title="Starts monitoring the Files of the filesystemtree Should be started in a separated thread..." alt="" coords="762,1531,934,1557"/>
+<area shape="rect" id="node53" href="$classWsMonitor.html#a5cfb31a222c13cc48adb63beede50068" title="Starts monitoring the config Files of the filesystemtree Should be started in a separated thread..." alt="" coords="502,1547,674,1589"/>
+<area shape="rect" id="node55" href="$classWsApplication.html#af7dc5a57f0d2c6c8665448eff58b1ec6" title="WsApplication::doEndDialog\lLogon" alt="" coords="494,209,682,250"/>
 </map>

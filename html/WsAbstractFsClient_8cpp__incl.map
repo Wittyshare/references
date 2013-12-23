@@ -1,15 +1,15 @@
-<map id="src/FsClient/WsAbstractFsClient.cpp" name="src/FsClient/WsAbstractFsClient.cpp">
-<area shape="rect" id="node2" href="$WsAbstractFsClient_8h.html" title="WsAbstractFsClient.h" alt="" coords="343,96,493,123"/>
-<area shape="rect" id="node5" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="423,568,656,595"/>
-<area shape="rect" id="node11" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="203,725,337,752"/>
-<area shape="rect" id="node18" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="596,470,783,511"/>
-<area shape="rect" id="node22" href="$WsResultItem_8h.html" title="Search/WsResultItem.h" alt="" coords="1476,171,1639,197"/>
-<area shape="rect" id="node9" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="887,651,1048,677"/>
-<area shape="rect" id="node13" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="25,800,135,827"/>
-<area shape="rect" id="node23" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="1457,245,1657,272"/>
-<area shape="rect" id="node24" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1697,395,1780,421"/>
-<area shape="rect" id="node28" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1507,320,1608,347"/>
-<area shape="rect" id="node27" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1711,800,1885,827"/>
-<area shape="rect" id="node29" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1394,568,1635,595"/>
-<area shape="rect" id="node30" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="1131,568,1369,595"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wscore/src/FsClient/WsAbstractFsClient.cpp" name="/home/ben/Programming/C++/Wittyshare/wscore/src/FsClient/WsAbstractFsClient.cpp">
+<area shape="rect" id="node2" href="$WsAbstractFsClient_8h.html" title="WsAbstractFsClient.h" alt="" coords="343,109,493,136"/>
+<area shape="rect" id="node5" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="423,581,656,608"/>
+<area shape="rect" id="node11" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="203,739,337,765"/>
+<area shape="rect" id="node18" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="596,483,783,525"/>
+<area shape="rect" id="node22" href="$WsResultItem_8h.html" title="Search/WsResultItem.h" alt="" coords="1476,184,1639,211"/>
+<area shape="rect" id="node9" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="887,664,1048,691"/>
+<area shape="rect" id="node13" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="25,813,135,840"/>
+<area shape="rect" id="node23" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="1457,259,1657,285"/>
+<area shape="rect" id="node24" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1697,408,1780,435"/>
+<area shape="rect" id="node28" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1507,333,1608,360"/>
+<area shape="rect" id="node27" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1711,813,1885,840"/>
+<area shape="rect" id="node29" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1394,581,1635,608"/>
+<area shape="rect" id="node30" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="1131,581,1369,608"/>
 </map>

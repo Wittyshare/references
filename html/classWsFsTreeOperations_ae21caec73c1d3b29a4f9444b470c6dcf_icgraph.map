@@ -1,10 +1,10 @@
 <map id="WsFsTreeOperations::saveProperties" name="WsFsTreeOperations::saveProperties">
-<area shape="rect" id="node2" href="$classWsFsTreeClient.html#aaa48647e66e6bb94f0b8a4db060334e9" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="215,5,427,32"/>
-<area shape="rect" id="node3" href="$classWsFsDaemon.html#a1304dbb244ac9d95912855a5c26687a5" title="saves the properties received by the client for a node " alt="" coords="201,57,442,98"/>
-<area shape="rect" id="node4" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="491,64,693,91"/>
-<area shape="rect" id="node5" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="742,64,941,91"/>
-<area shape="rect" id="node6" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="989,64,1128,91"/>
-<area shape="rect" id="node7" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1440,64,1619,91"/>
-<area shape="rect" id="node9" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1176,89,1392,116"/>
-<area shape="rect" id="node8" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1667,64,1717,91"/>
+<area shape="rect" id="node2" href="$classWsFsDaemon.html#a1304dbb244ac9d95912855a5c26687a5" title="saves the properties received by the client for a node " alt="" coords="201,5,442,46"/>
+<area shape="rect" id="node9" href="$classWsFsTreeClient.html#aaa48647e66e6bb94f0b8a4db060334e9" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="215,71,427,97"/>
+<area shape="rect" id="node3" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="491,12,693,39"/>
+<area shape="rect" id="node4" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="742,12,941,39"/>
+<area shape="rect" id="node5" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="989,12,1128,39"/>
+<area shape="rect" id="node6" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1440,12,1619,39"/>
+<area shape="rect" id="node8" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1176,37,1392,64"/>
+<area shape="rect" id="node7" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1667,12,1717,39"/>
 </map>

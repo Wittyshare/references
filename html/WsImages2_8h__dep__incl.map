@@ -1,9 +1,9 @@
-<map id="src/WsModules/WsModImages2/src/WsImages2.h" name="src/WsModules/WsModImages2/src/WsImages2.h">
-<area shape="rect" id="node2" href="$WsBanners_8cpp.html" title="src/WsModules/WsModBanners\l/src/WsBanners.cpp" alt="" coords="4,97,213,138"/>
-<area shape="rect" id="node3" href="$WsImages2_8cpp.html" title="src/WsModules/WsModImages2\l/src/WsImages2.cpp" alt="" coords="238,97,449,138"/>
-<area shape="rect" id="node4" href="$WsModImages2_8cpp.html" title="src/WsModules/WsModImages2\l/src/WsModImages2.cpp" alt="" coords="474,97,685,138"/>
-<area shape="rect" id="node5" href="$WsModImagesGallery_8h.html" title="a wittyShare module " alt="" coords="711,97,940,138"/>
-<area shape="rect" id="node7" href="$WsMenu_8cpp.html" title="src/WsModules/WsModMenu\l/src/WsMenu.cpp" alt="" coords="964,97,1159,138"/>
-<area shape="rect" id="node8" href="$WsModMenuImages_8cpp.html" title="src/WsModules/WsModMenuImages\l/src/WsModMenuImages.cpp" alt="" coords="1183,97,1419,138"/>
-<area shape="rect" id="node6" href="$WsModImagesGallery_8cpp.html" title="src/WsModules/WsModImages\lGallery/src/WsModImagesGallery.cpp" alt="" coords="704,187,947,229"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wittyshare/src/WsModules/WsModImages2/src/WsImages2.h" name="/home/ben/Programming/C++/Wittyshare/wittyshare/src/WsModules/WsModImages2/src/WsImages2.h">
+<area shape="rect" id="node2" href="$WsBanners_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModBanners\l/src/WsBanners.cpp" alt="" coords="5,126,219,197"/>
+<area shape="rect" id="node3" href="$WsImages2_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModImages2\l/src/WsImages2.cpp" alt="" coords="244,126,460,197"/>
+<area shape="rect" id="node4" href="$WsModImages2_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModImages2\l/src/WsModImages2.cpp" alt="" coords="484,126,700,197"/>
+<area shape="rect" id="node5" href="$WsModImagesGallery_8h.html" title="a wittyShare module " alt="" coords="724,126,975,197"/>
+<area shape="rect" id="node7" href="$WsMenu_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModMenu\l/src/WsMenu.cpp" alt="" coords="999,126,1197,197"/>
+<area shape="rect" id="node8" href="$WsModMenuImages_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModMenuImages\l/src/WsModMenuImages.cpp" alt="" coords="1222,126,1463,197"/>
+<area shape="rect" id="node6" href="$WsModImagesGallery_8cpp.html" title="/home/ben/Programming\l/C++/Wittyshare/wittyshare\l/src/WsModules/WsModImagesGallery\l/src/WsModImagesGallery.cpp" alt="" coords="724,246,975,317"/>
 </map>

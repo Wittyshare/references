@@ -1,9 +1,9 @@
-<map id="src/WsAuthModules/Ldap/src/WsLdapAuth.cpp" name="src/WsAuthModules/Ldap/src/WsLdapAuth.cpp">
-<area shape="rect" id="node2" href="$WsLdapAuth_8h.html" title="Ldap connector class. " alt="" coords="330,96,437,123"/>
-<area shape="rect" id="node18" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="753,245,927,272"/>
-<area shape="rect" id="node5" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="570,171,811,197"/>
-<area shape="rect" id="node17" href="$WsAbstractAuth_8h.html" title="Auth/WsAbstractAuth.h" alt="" coords="385,171,544,197"/>
-<area shape="rect" id="node7" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="311,245,472,272"/>
-<area shape="rect" id="node9" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="77,320,211,347"/>
-<area shape="rect" id="node11" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="89,395,199,421"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wscore/src/WsAuthModules/Ldap/src/WsLdapAuth.cpp" name="/home/ben/Programming/C++/Wittyshare/wscore/src/WsAuthModules/Ldap/src/WsLdapAuth.cpp">
+<area shape="rect" id="node2" href="$WsLdapAuth_8h.html" title="Ldap connector class. " alt="" coords="330,125,437,152"/>
+<area shape="rect" id="node18" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="753,275,927,301"/>
+<area shape="rect" id="node5" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="570,200,811,227"/>
+<area shape="rect" id="node17" href="$WsAbstractAuth_8h.html" title="Auth/WsAbstractAuth.h" alt="" coords="385,200,544,227"/>
+<area shape="rect" id="node7" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="311,275,472,301"/>
+<area shape="rect" id="node9" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="77,349,211,376"/>
+<area shape="rect" id="node11" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="89,424,199,451"/>
 </map>

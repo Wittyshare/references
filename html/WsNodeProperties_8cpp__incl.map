@@ -1,8 +1,8 @@
-<map id="src/ConfigManager/WsNodeProperties.cpp" name="src/ConfigManager/WsNodeProperties.cpp">
-<area shape="rect" id="node2" href="$WsNodeProperties_8h.html" title="WsNodeProperties.h" alt="" coords="904,96,1046,123"/>
-<area shape="rect" id="node16" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="44,320,218,347"/>
-<area shape="rect" id="node17" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="314,96,462,123"/>
-<area shape="rect" id="node7" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="520,171,681,197"/>
-<area shape="rect" id="node9" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="467,245,601,272"/>
-<area shape="rect" id="node11" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="720,320,829,347"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wscore/src/ConfigManager/WsNodeProperties.cpp" name="/home/ben/Programming/C++/Wittyshare/wscore/src/ConfigManager/WsNodeProperties.cpp">
+<area shape="rect" id="node2" href="$WsNodeProperties_8h.html" title="WsNodeProperties.h" alt="" coords="904,109,1046,136"/>
+<area shape="rect" id="node16" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="44,333,218,360"/>
+<area shape="rect" id="node17" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="314,109,462,136"/>
+<area shape="rect" id="node7" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="520,184,681,211"/>
+<area shape="rect" id="node9" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="467,259,601,285"/>
+<area shape="rect" id="node11" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="720,333,829,360"/>
 </map>

@@ -1,18 +1,18 @@
-<map id="src/Search/WsSearch.cpp" name="src/Search/WsSearch.cpp">
-<area shape="rect" id="node2" href="$WsSearch_8h.html" title="WsSearch.h" alt="" coords="1838,80,1932,107"/>
-<area shape="rect" id="node3" href="$WsResultItem_8h.html" title="WsResultItem.h" alt="" coords="1096,237,1212,264"/>
-<area shape="rect" id="node15" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="1746,784,1880,811"/>
-<area shape="rect" id="node31" href="$WsAbstractSearch_8h.html" title="WsAbstractSearch.h" alt="" coords="1814,155,1956,181"/>
-<area shape="rect" id="node32" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1369,230,1572,271"/>
-<area shape="rect" id="node4" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="905,320,1105,347"/>
-<area shape="rect" id="node5" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="963,469,1047,496"/>
-<area shape="rect" id="node8" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="724,627,957,653"/>
-<area shape="rect" id="node28" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="605,395,707,421"/>
-<area shape="rect" id="node22" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="659,859,833,885"/>
-<area shape="rect" id="node23" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="1217,544,1351,571"/>
-<area shape="rect" id="node13" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="489,709,649,736"/>
-<area shape="rect" id="node17" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="2157,859,2267,885"/>
-<area shape="rect" id="node29" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="145,627,385,653"/>
-<area shape="rect" id="node30" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="410,627,648,653"/>
-<area shape="rect" id="node33" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="1705,627,1921,653"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wscore/src/Search/WsSearch.cpp" name="/home/ben/Programming/C++/Wittyshare/wscore/src/Search/WsSearch.cpp">
+<area shape="rect" id="node2" href="$WsSearch_8h.html" title="WsSearch.h" alt="" coords="1838,109,1932,136"/>
+<area shape="rect" id="node3" href="$WsResultItem_8h.html" title="WsResultItem.h" alt="" coords="1096,267,1212,293"/>
+<area shape="rect" id="node15" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="1746,813,1880,840"/>
+<area shape="rect" id="node31" href="$WsAbstractSearch_8h.html" title="WsAbstractSearch.h" alt="" coords="1814,184,1956,211"/>
+<area shape="rect" id="node32" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1369,259,1572,301"/>
+<area shape="rect" id="node4" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="905,349,1105,376"/>
+<area shape="rect" id="node5" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="963,499,1047,525"/>
+<area shape="rect" id="node8" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="724,656,957,683"/>
+<area shape="rect" id="node28" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="605,424,707,451"/>
+<area shape="rect" id="node22" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="659,888,833,915"/>
+<area shape="rect" id="node23" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="1217,573,1351,600"/>
+<area shape="rect" id="node13" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="489,739,649,765"/>
+<area shape="rect" id="node17" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="2157,888,2267,915"/>
+<area shape="rect" id="node29" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="145,656,385,683"/>
+<area shape="rect" id="node30" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="410,656,648,683"/>
+<area shape="rect" id="node33" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="1705,656,1921,683"/>
 </map>

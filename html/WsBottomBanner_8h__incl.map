@@ -1,6 +1,6 @@
-<map id="src/Main/WsBottomBanner.h" name="src/Main/WsBottomBanner.h">
-<area shape="rect" id="node4" href="$WsLayoutProperties_8h.html" title="ConfigManager/WsLayoutProperties.h" alt="" coords="399,80,641,107"/>
-<area shape="rect" id="node5" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="311,155,472,181"/>
-<area shape="rect" id="node8" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="77,229,211,256"/>
-<area shape="rect" id="node10" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="89,304,199,331"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wittyshare/src/Main/WsBottomBanner.h" name="/home/ben/Programming/C++/Wittyshare/wittyshare/src/Main/WsBottomBanner.h">
+<area shape="rect" id="node4" href="$WsLayoutProperties_8h.html" title="ConfigManager/WsLayoutProperties.h" alt="" coords="399,109,641,136"/>
+<area shape="rect" id="node5" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="311,184,472,211"/>
+<area shape="rect" id="node8" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="77,259,211,285"/>
+<area shape="rect" id="node10" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="89,333,199,360"/>
 </map>

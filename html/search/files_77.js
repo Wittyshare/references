@@ -159,6 +159,8 @@ var searchData=
   ['wsnodeproperties_2eh',['WsNodeProperties.h',['../WsNodeProperties_8h.html',1,'']]],
   ['wsnoderesources_2ecpp',['WsNodeResources.cpp',['../WsNodeResources_8cpp.html',1,'']]],
   ['wsnoderesources_2eh',['WsNodeResources.h',['../WsNodeResources_8h.html',1,'']]],
+  ['wsoption_2ecpp',['WsOption.cpp',['../WsOption_8cpp.html',1,'']]],
+  ['wsoption_2eh',['WsOption.h',['../WsOption_8h.html',1,'']]],
   ['wsrequesttype_2eh',['WsRequestType.h',['../WsRequestType_8h.html',1,'']]],
   ['wsresultitem_2ecpp',['WsResultItem.cpp',['../WsResultItem_8cpp.html',1,'']]],
   ['wsresultitem_2eh',['WsResultItem.h',['../WsResultItem_8h.html',1,'']]],

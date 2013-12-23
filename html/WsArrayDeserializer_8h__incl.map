@@ -1,13 +1,13 @@
-<map id="src/Serializer/WsArrayDeserializer.h" name="src/Serializer/WsArrayDeserializer.h">
-<area shape="rect" id="node2" href="$WsDirNode_8h.html" title="FileSystemTree/WsDirNode.h" alt="" coords="689,155,887,181"/>
-<area shape="rect" id="node28" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="549,80,749,107"/>
-<area shape="rect" id="node3" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="746,229,829,256"/>
-<area shape="rect" id="node26" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1377,387,1617,413"/>
-<area shape="rect" id="node27" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="430,387,668,413"/>
-<area shape="rect" id="node6" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="171,387,404,413"/>
-<area shape="rect" id="node20" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1285,619,1459,645"/>
-<area shape="rect" id="node21" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="917,304,1051,331"/>
-<area shape="rect" id="node11" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="418,469,579,496"/>
-<area shape="rect" id="node13" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="617,544,751,571"/>
-<area shape="rect" id="node15" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="516,619,625,645"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wscore/src/Serializer/WsArrayDeserializer.h" name="/home/ben/Programming/C++/Wittyshare/wscore/src/Serializer/WsArrayDeserializer.h">
+<area shape="rect" id="node2" href="$WsDirNode_8h.html" title="FileSystemTree/WsDirNode.h" alt="" coords="689,184,887,211"/>
+<area shape="rect" id="node28" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="549,109,749,136"/>
+<area shape="rect" id="node3" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="746,259,829,285"/>
+<area shape="rect" id="node26" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1377,416,1617,443"/>
+<area shape="rect" id="node27" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="430,416,668,443"/>
+<area shape="rect" id="node6" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="171,416,404,443"/>
+<area shape="rect" id="node20" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="1285,648,1459,675"/>
+<area shape="rect" id="node21" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="917,333,1051,360"/>
+<area shape="rect" id="node11" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="418,499,579,525"/>
+<area shape="rect" id="node13" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="617,573,751,600"/>
+<area shape="rect" id="node15" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="516,648,625,675"/>
 </map>

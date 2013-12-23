@@ -7,13 +7,13 @@
 <area shape="rect" id="node17" href="$classWsNodeProperties.html#a6707a93808c0d38547b4b202a47c0668" title="Sets the groups of the node to grps. All groups will be overriden. This method does not however..." alt="" coords="240,271,440,297"/>
 <area shape="rect" id="node18" href="$classWsNodeProperties.html#a7e7090d12c4924dec5570e9b02aef3d5" title="save the properties to the disk The path of the file is set in m_nodePath and is set when building th..." alt="" coords="256,321,424,348"/>
 <area shape="rect" id="node3" href="$classWsFsTreeConsultation.html#a6da84fdb56ef63981c7e38e2b407cd76" title="get a property for a node corresponding to the path " alt="" coords="527,5,683,46"/>
-<area shape="rect" id="node7" href="$classWsFsDaemonClient.html#a4c209c4991e3f6fd34c6c7bbb735febe" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="488,121,723,148"/>
-<area shape="rect" id="node8" href="$classWsFsTreeClient.html#aaa48647e66e6bb94f0b8a4db060334e9" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="499,172,711,199"/>
-<area shape="rect" id="node9" href="$classWsFsDaemon.html#af8a19df186fb4f5e63b6858514fab5aa" title="sends all the properties of a node " alt="" coords="488,223,723,249"/>
-<area shape="rect" id="node10" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="771,223,973,249"/>
-<area shape="rect" id="node11" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="1022,223,1221,249"/>
-<area shape="rect" id="node12" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="1269,223,1408,249"/>
-<area shape="rect" id="node13" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1720,223,1899,249"/>
-<area shape="rect" id="node15" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1456,248,1672,275"/>
-<area shape="rect" id="node14" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1947,223,1997,249"/>
+<area shape="rect" id="node7" href="$classWsFsDaemon.html#af8a19df186fb4f5e63b6858514fab5aa" title="sends all the properties of a node " alt="" coords="488,121,723,148"/>
+<area shape="rect" id="node14" href="$classWsFsDaemonClient.html#a4c209c4991e3f6fd34c6c7bbb735febe" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="488,172,723,199"/>
+<area shape="rect" id="node15" href="$classWsFsTreeClient.html#aaa48647e66e6bb94f0b8a4db060334e9" title="save the properties of the node. The user must have access and edit rights for the node..." alt="" coords="499,223,711,249"/>
+<area shape="rect" id="node8" href="$classWsFsDaemon.html#aa4b123baf628d0d6b0fcb02cbc1ee271" title="Handle received request and redirect to correct method. " alt="" coords="771,121,973,148"/>
+<area shape="rect" id="node9" href="$classWsFsDaemon.html#a71d274393962b19a440922ed44ca7d26" title="WsFsDaemon::workerRoutine" alt="" coords="1022,121,1221,148"/>
+<area shape="rect" id="node10" href="$classWsFsDaemon.html#a34377980a52178dfecaa22e08d70b1bb" title="start listening on the port " alt="" coords="1269,121,1408,148"/>
+<area shape="rect" id="node11" href="$classWsFsDaemonLoader.html#a477c8218c3e662a08c5197c1868abba2" title="launch the server " alt="" coords="1720,121,1899,148"/>
+<area shape="rect" id="node13" href="$classWsFsDaemonLoader.html#aeda8512251bebf1e045cbeffe1b4b027" title="daemonize the server, fork and put it in backgroud " alt="" coords="1456,147,1672,173"/>
+<area shape="rect" id="node12" href="$WsFsDaemonLoader_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1947,121,1997,148"/>
 </map>

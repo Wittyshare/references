@@ -1,32 +1,32 @@
-<map id="src/Main/WsSiteMapView.h" name="src/Main/WsSiteMapView.h">
-<area shape="rect" id="node10" href="$WsUser_8h.html" title="User class. " alt="" coords="1302,80,1415,107"/>
-<area shape="rect" id="node13" href="$WsAbstractFsClient_8h.html" title="FsClient/WsAbstractFsClient.h" alt="" coords="209,453,412,480"/>
-<area shape="rect" id="node20" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="1402,1099,1536,1125"/>
-<area shape="rect" id="node40" href="$WsFsTreeClient_8h.html" title="Interacts directly with the menuTree and the fsTree. " alt="" coords="1268,155,1449,181"/>
-<area shape="rect" id="node15" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="1177,941,1411,968"/>
-<area shape="rect" id="node27" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="747,843,933,885"/>
-<area shape="rect" id="node31" href="$WsResultItem_8h.html" title="Search/WsResultItem.h" alt="" coords="733,536,896,563"/>
-<area shape="rect" id="node18" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1870,1024,2031,1051"/>
-<area shape="rect" id="node22" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="107,1173,216,1200"/>
-<area shape="rect" id="node32" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="1222,619,1423,645"/>
-<area shape="rect" id="node33" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1141,768,1224,795"/>
-<area shape="rect" id="node37" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1633,693,1735,720"/>
-<area shape="rect" id="node36" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="879,1173,1053,1200"/>
-<area shape="rect" id="node38" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1981,768,2221,795"/>
-<area shape="rect" id="node39" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="1831,941,2069,968"/>
-<area shape="rect" id="node41" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="575,379,765,405"/>
-<area shape="rect" id="node46" href="$WsMenuTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1212,379,1352,405"/>
-<area shape="rect" id="node49" href="$WsFsTreeOperations_8h.html" title="FsTreeOp/WsFsTreeOperations.h" alt="" coords="1040,229,1259,256"/>
-<area shape="rect" id="node50" href="$WsAccessTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1034,379,1187,405"/>
-<area shape="rect" id="node53" href="$WsAuthenticator_8h.html" title="Auth/WsAuthenticator.h" alt="" coords="2569,851,2729,877"/>
-<area shape="rect" id="node55" href="$WsSearch_8h.html" title="Search/WsSearch.h" alt="" coords="1757,379,1896,405"/>
-<area shape="rect" id="node42" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1410,529,1613,570"/>
-<area shape="rect" id="node44" href="$WsAbstractMonitor_8h.html" title="WsAbstractMonitor.h" alt="" coords="558,453,703,480"/>
-<area shape="rect" id="node43" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="1487,941,1704,968"/>
-<area shape="rect" id="node47" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="1047,453,1175,480"/>
-<area shape="rect" id="node48" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="1022,536,1239,563"/>
-<area shape="rect" id="node51" href="$WsFsTreeConsultation_8h.html" title="WsFsTreeConsultation.h" alt="" coords="1027,304,1193,331"/>
-<area shape="rect" id="node52" href="$WsFsTreeModification_8h.html" title="WsFsTreeModification.h" alt="" coords="839,304,1003,331"/>
-<area shape="rect" id="node54" href="$WsAbstractAuth_8h.html" title="WsAbstractAuth.h" alt="" coords="2602,941,2731,968"/>
-<area shape="rect" id="node56" href="$WsAbstractSearch_8h.html" title="WsAbstractSearch.h" alt="" coords="1810,453,1952,480"/>
+<map id="/home/ben/Programming/C++/Wittyshare/wittyshare/src/Main/WsSiteMapView.h" name="/home/ben/Programming/C++/Wittyshare/wittyshare/src/Main/WsSiteMapView.h">
+<area shape="rect" id="node10" href="$WsUser_8h.html" title="User class. " alt="" coords="1302,109,1415,136"/>
+<area shape="rect" id="node13" href="$WsAbstractFsClient_8h.html" title="FsClient/WsAbstractFsClient.h" alt="" coords="209,483,412,509"/>
+<area shape="rect" id="node20" href="$WsLogger_8h.html" title="Logger/WsLogger.h" alt="" coords="1402,1128,1536,1155"/>
+<area shape="rect" id="node40" href="$WsFsTreeClient_8h.html" title="Interacts directly with the menuTree and the fsTree. " alt="" coords="1268,184,1449,211"/>
+<area shape="rect" id="node15" href="$WsNodeProperties_8h.html" title="ConfigManager/WsNodeProperties.h" alt="" coords="1177,971,1411,997"/>
+<area shape="rect" id="node27" href="$WsAbstractNode_8h.html" title="Abstract Node class. " alt="" coords="747,873,933,914"/>
+<area shape="rect" id="node31" href="$WsResultItem_8h.html" title="Search/WsResultItem.h" alt="" coords="733,565,896,592"/>
+<area shape="rect" id="node18" href="$WsAbstractProperties_8h.html" title="Abstract class for properties. " alt="" coords="1870,1053,2031,1080"/>
+<area shape="rect" id="node22" href="$WsLogWriter_8h.html" title="WsLogWriter.h" alt="" coords="107,1203,216,1229"/>
+<area shape="rect" id="node32" href="$WsFileNode_8h.html" title="FileSystemTree/WsFileNode.h" alt="" coords="1222,648,1423,675"/>
+<area shape="rect" id="node33" href="$WsNode_8h.html" title="Node structure, must be inherited. " alt="" coords="1141,797,1224,824"/>
+<area shape="rect" id="node37" href="$WsDirNode_8h.html" title="WsDirNode.h" alt="" coords="1633,723,1735,749"/>
+<area shape="rect" id="node36" href="$WsGlobalConfig_8h.html" title="Include/WsGlobalConfig.h" alt="" coords="879,1203,1053,1229"/>
+<area shape="rect" id="node38" href="$WsGlobalProperties_8h.html" title="Global properties. " alt="" coords="1981,797,2221,824"/>
+<area shape="rect" id="node39" href="$WsNodeResources_8h.html" title="Node Resources. " alt="" coords="1831,971,2069,997"/>
+<area shape="rect" id="node41" href="$WsFsTreeUpdater_8h.html" title="Updates the tree and takes care of unconsistencies with the user. " alt="" coords="575,408,765,435"/>
+<area shape="rect" id="node46" href="$WsMenuTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1212,408,1352,435"/>
+<area shape="rect" id="node49" href="$WsFsTreeOperations_8h.html" title="FsTreeOp/WsFsTreeOperations.h" alt="" coords="1040,259,1259,285"/>
+<area shape="rect" id="node50" href="$WsAccessTree_8h.html" title="Reprensents the menu tree of a group. If a group does not have access to a Node, this Node will not s..." alt="" coords="1034,408,1187,435"/>
+<area shape="rect" id="node53" href="$WsAuthenticator_8h.html" title="Auth/WsAuthenticator.h" alt="" coords="2569,880,2729,907"/>
+<area shape="rect" id="node55" href="$WsSearch_8h.html" title="Search/WsSearch.h" alt="" coords="1757,408,1896,435"/>
+<area shape="rect" id="node42" href="$WsFileSystemTree_8h.html" title="Structure representing all the fs tree from the root. " alt="" coords="1410,558,1613,599"/>
+<area shape="rect" id="node44" href="$WsAbstractMonitor_8h.html" title="WsAbstractMonitor.h" alt="" coords="558,483,703,509"/>
+<area shape="rect" id="node43" href="$WsDirectoryCrawler_8h.html" title="Fetch a directory and all subdirs. " alt="" coords="1487,971,1704,997"/>
+<area shape="rect" id="node47" href="$WsAbstractTree_8h.html" title="Reprensents the tree of a group. If a group does not have access to a Node, this Node will not show i..." alt="" coords="1047,483,1175,509"/>
+<area shape="rect" id="node48" href="$WsTreeTraversal_8h.html" title="Traverses the fileSystemTree. " alt="" coords="1022,565,1239,592"/>
+<area shape="rect" id="node51" href="$WsFsTreeConsultation_8h.html" title="WsFsTreeConsultation.h" alt="" coords="1027,333,1193,360"/>
+<area shape="rect" id="node52" href="$WsFsTreeModification_8h.html" title="WsFsTreeModification.h" alt="" coords="839,333,1003,360"/>
+<area shape="rect" id="node54" href="$WsAbstractAuth_8h.html" title="WsAbstractAuth.h" alt="" coords="2602,971,2731,997"/>
+<area shape="rect" id="node56" href="$WsAbstractSearch_8h.html" title="WsAbstractSearch.h" alt="" coords="1810,483,1952,509"/>
 </map>
